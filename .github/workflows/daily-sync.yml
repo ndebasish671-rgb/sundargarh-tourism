@@ -1,13 +1,10 @@
 name: Daily sync (Google News + Weather)
-
 on:
   schedule:
     - cron: "30 0 * * *"    # every day 06:00 IST
   workflow_dispatch:
-
 permissions:
   contents: write
-
 jobs:
   sync:
     runs-on: ubuntu-latest
@@ -17,12 +14,12 @@ jobs:
         with:
           python-version: "3.12"
       - name: Run daily sync (Google News RSS + Open-Meteo)
-        run: python scripts/daily_sync.py
+        run: python daily_sync.py
       - name: Commit updated data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/news.js data/weather.js
+          git add news.js weather.js
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
