@@ -1,0 +1,45 @@
+name: Daily sync (Google News + Weather)
+
+on:
+  schedule:
+    # Every day at 06:00 IST (00:30 UTC)
+    - cron: "30 0 * * *"
+  workflow_dispatch: # allow manual run from the Actions tab
+  push:
+    branches: [main, master]
+    paths:
+      - "scripts/daily_sync.py"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run daily sync (Google News RSS + Open-Meteo)
+        run: python scripts/daily_sync.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/news.js data/weather.js
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: daily sync $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

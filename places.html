@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>All Tourist Places in Sundargarh — Sundargarh Tourism Guide</title>
+  <meta name="description" content="Complete list of tourist places in Sundargarh district, Odisha — waterfalls, temples, dams, picnic spots and heritage sites with distances, timings and entry fees.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏞️</text></svg>">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="index.html">
+        <span class="brand-mark">🏞️</span>
+        <span class="brand-text"><strong>Sundargarh Tourism</strong><span>Western Odisha Travel Guide</span></span>
+      </a>
+      <nav class="nav" aria-label="Main navigation">
+        <a href="index.html">Home</a>
+        <a href="places.html" class="active">Places</a>
+        <a href="trip.html">Plan a Trip</a>
+        <a href="about.html">About</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section style="padding-bottom:1rem">
+      <div class="container">
+        <div class="section-head">
+          <span class="eyebrow">Directory · <span id="place-count">…</span></span>
+          <h2>All tourist places in Sundargarh</h2>
+          <p>Filter by category or search by name, distance or feature. Every listing carries verified timings, entry fees and how-to-reach details.</p>
+        </div>
+
+        <div class="search-box">
+          <span class="ico">🔍</span>
+          <input type="search" id="place-search" placeholder="Search: waterfall, dam, temple, picnic…" aria-label="Search places">
+        </div>
+
+        <div class="filters" role="group" aria-label="Filter by category">
+          <button class="chip active" data-cat="all">All</button>
+          <button class="chip" data-cat="Waterfall">💧 Waterfalls</button>
+          <button class="chip" data-cat="Temple">🛕 Temples</button>
+          <button class="chip" data-cat="Dam & Lake">🌊 Dams &amp; Lakes</button>
+          <button class="chip" data-cat="Picnic Spot">🧺 Picnic Spots</button>
+          <button class="chip" data-cat="Heritage">🏛️ Heritage</button>
+          <button class="chip" data-cat="Park & Zoo">🌳 Parks</button>
+        </div>
+
+        <div class="grid" id="all-grid"><!-- rendered by js/main.js --></div>
+        <div class="empty-state" id="empty-state">
+          <p style="font-size:2rem">🔍</p>
+          <p>No places match your search. Try another keyword or category.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-bottom" style="border-top:none;margin-top:0">
+        <span>© <span id="year">2026</span> Sundargarh Tourism Guide · Open source under MIT</span>
+        <span>Content last verified: <span id="last-verified">—</span></span>
+      </div>
+    </div>
+  </footer>
+
+  <script src="data/places.js"></script>
+  <script src="data/news.js"></script>
+  <script src="data/weather.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>

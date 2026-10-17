@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About — Sundargarh Tourism Guide</title>
+  <meta name="description" content="About the Sundargarh Tourism Guide — sources, method and daily Google sync.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏞️</text></svg>">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="index.html">
+        <span class="brand-mark">🏞️</span>
+        <span class="brand-text"><strong>Sundargarh Tourism</strong><span>Western Odisha Travel Guide</span></span>
+      </a>
+      <nav class="nav" aria-label="Main navigation">
+        <a href="index.html">Home</a>
+        <a href="places.html">Places</a>
+        <a href="trip.html">Plan a Trip</a>
+        <a href="about.html" class="active">About</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section>
+      <div class="container" style="max-width:820px">
+        <div class="section-head">
+          <span class="eyebrow">About this guide</span>
+          <h2>Sundargarh Tourism Guide</h2>
+        </div>
+
+        <div class="prose">
+          <p>This is an open-source travel guide to <b>Sundargarh district, Odisha</b> — one of Western Odisha's most forested and mineral-rich districts, home to the Khandadhar waterfall, Rourkela's temple landmarks, hill-ringed dams and Neolithic heritage caves.</p>
+
+          <h2>✅ How we keep details correct</h2>
+          <p>Every place listing is compiled from official and reputable sources:</p>
+          <ul class="checklist">
+            <li>District administration — <b>sundargarh.odisha.gov.in</b> &amp; <b>sundergarh.nic.in</b></li>
+            <li>Odisha Tourism, Dept. of Tourism &amp; Culture — <b>dot.odisha.gov.in</b> / <b>odisha.gov.in</b></li>
+            <li>Odisha Eco-Tourism (nature camps) — <b>ecotourodisha.com</b></li>
+            <li>Reputed travel references (Odisha360, OdishaTour, Wikipedia, Tripadvisor reviews)</li>
+          </ul>
+          <p>Each detail page shows a <b>“last verified”</b> date and a direct link to <b>search Google for live updates</b>, so you can always confirm current timings and fees before travelling.</p>
+
+          <h2>🔄 Daily sync from Google &amp; live sources</h2>
+          <p>A GitHub Actions workflow (<code>.github/workflows/daily-sync.yml</code>) runs <b>once every day</b> and updates this site automatically:</p>
+          <ul class="checklist">
+            <li><b>Google News RSS</b> — pulls the latest headlines for <i>Sundargarh / Rourkela / Odisha</i> into the home page news feed</li>
+            <li><b>Open-Meteo weather API</b> — refreshes current conditions and a 3-day forecast for Sundargarh (21.50°N, 84.03°E)</li>
+            <li>The workflow commits the refreshed <code>data/news.js</code> and <code>data/weather.js</code> files back to the repository, and GitHub Pages redeploys the site</li>
+          </ul>
+
+          <div class="notice">ℹ️ <b>Why RSS instead of scraping google.com?</b> Google's search results page
+          can't be legally/reliably scraped. Google News RSS is Google's own public feed, so the site stays
+          compliant while still syncing fresh Google-sourced news every day.</div>
+
+          <h2>🗺️ About Sundargarh district</h2>
+          <p>Spread across Odisha's western border (~407 km from Bhubaneswar), Sundargarh is a tribal-majority district with roughly 43% forest cover, ~2 million people, and a landscape that mixes steel plants and mines with waterfalls, gorges and temples. Key towns: <b>Rourkela</b> (industrial hub), <b>Sundargarh</b> (district HQ on the river Ib), plus block towns like Rajgangpur, Kansbahal, Lephripara and Baragaon.</p>
+
+          <h2>License &amp; contributions</h2>
+          <p>Source code and content are released under the <b>MIT license</b>. Found a wrong timing, fee or distance? Open an issue or pull request on GitHub — contributions in Odia and English are welcome!</p>
+
+          <p class="source-line">Disclaimer: This guide is informational. Timings, entry fees and access
+          rules change — always confirm with official sources before travelling. Last verified:
+          <span id="last-verified">—</span>.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-bottom" style="border-top:none;margin-top:0">
+        <span>© <span id="year">2026</span> Sundargarh Tourism Guide · Open source under MIT</span>
+        <span>Powered by GitHub Pages</span>
+      </div>
+    </div>
+  </footer>
+
+  <script src="data/places.js"></script>
+  <script src="data/news.js"></script>
+  <script src="data/weather.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>
