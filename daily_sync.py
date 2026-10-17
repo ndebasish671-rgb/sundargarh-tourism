@@ -5,7 +5,7 @@ Daily sync script for Sundargarh Tourism Guide.
 Runs on GitHub Actions every day (see .github/workflows/daily-sync.yml):
   1. Fetches the latest Sundargarh/Rourkela headlines from Google News RSS
   2. Fetches current weather + 3-day forecast for Sundargarh from Open-Meteo
-  3. Writes data/news.js and data/weather.js for the static site
+  3. Writes news.js and weather.js (site root) for the static site
 
 Stdlib only — no third-party dependencies.
 """
@@ -17,8 +17,8 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent
-DATA = ROOT / "data"
+ROOT = Path(__file__).resolve().parent
+DATA = ROOT
 
 GOOGLE_NEWS_RSS = (
     "https://news.google.com/rss/search?"
@@ -44,7 +44,7 @@ def fetch(url: str, timeout: int = 30) -> bytes:
 
 
 def sync_news() -> bool:
-    """Pull latest headlines from Google News RSS -> data/news.js"""
+    """Pull latest headlines from Google News RSS -> news.js"""
     xml_bytes = fetch(GOOGLE_NEWS_RSS)
     root = ET.fromstring(xml_bytes)
     items = []
@@ -82,7 +82,7 @@ def sync_news() -> bool:
 
 
 def sync_weather() -> bool:
-    """Pull current weather + 3-day forecast -> data/weather.js"""
+    """Pull current weather + 3-day forecast -> weather.js"""
     raw = json.loads(fetch(WEATHER_URL))
     cur = raw.get("current", {})
     daily = raw.get("daily", {})

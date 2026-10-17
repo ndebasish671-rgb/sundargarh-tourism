@@ -1,13 +1,13 @@
 /* Updated daily by GitHub Actions (.github/workflows/daily-sync.yml) */
 window.WEATHER_DATA = {
-  "updated": "17 Oct 2026, 02:19 PM IST",
+  "updated": "17 Oct 2026, 02:54 PM IST",
   "location": "Sundargarh, Odisha",
   "source": "Open-Meteo",
   "current": {
     "temp": 31,
     "humidity": 65,
     "weather_code": 1,
-    "wind": 5
+    "wind": 6
   },
   "daily": [
     {

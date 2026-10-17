@@ -6,7 +6,7 @@
   <title>About — Sundargarh Tourism Guide</title>
   <meta name="description" content="About the Sundargarh Tourism Guide — sources, method and daily Google sync.">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏞️</text></svg>">
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header class="site-header">
@@ -50,7 +50,7 @@
           <ul class="checklist">
             <li><b>Google News RSS</b> — pulls the latest headlines for <i>Sundargarh / Rourkela / Odisha</i> into the home page news feed</li>
             <li><b>Open-Meteo weather API</b> — refreshes current conditions and a 3-day forecast for Sundargarh (21.50°N, 84.03°E)</li>
-            <li>The workflow commits the refreshed <code>data/news.js</code> and <code>data/weather.js</code> files back to the repository, and GitHub Pages redeploys the site</li>
+            <li>The workflow commits the refreshed <code>news.js</code> and <code>weather.js</code> files back to the repository, and GitHub Pages redeploys the site</li>
           </ul>
 
           <div class="notice">ℹ️ <b>Why RSS instead of scraping google.com?</b> Google's search results page
@@ -80,9 +80,9 @@
     </div>
   </footer>
 
-  <script src="data/places.js"></script>
-  <script src="data/news.js"></script>
-  <script src="data/weather.js"></script>
-  <script src="js/main.js"></script>
+  <script src="places.js"></script>
+  <script src="news.js"></script>
+  <script src="weather.js"></script>
+  <script src="main.js"></script>
 </body>
 </html>

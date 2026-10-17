@@ -1,7 +1,7 @@
 /* ============================================================
    Sundargarh Tourism Guide — main.js
    Renders place cards, filters, detail pages, Google News feed
-   and live weather from data/ (updated daily by GitHub Actions)
+   and live weather (updated daily by GitHub Actions)
    ============================================================ */
 
 const PLACES = (window.PLACE_DATA && window.PLACE_DATA.places) || [];
