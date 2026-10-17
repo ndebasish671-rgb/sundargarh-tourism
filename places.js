@@ -9,7 +9,7 @@ window.PLACE_DATA = {
       "tagline": "India's 12th highest waterfall — a 244 m sword-like cascade",
       "distance": "104 km from Rourkela via Bonaigarh (19 km from Bonaigarh; last 2 km on foot)",
       "timings": "8:00 AM – 6:00 PM",
-      "entry_fee": "Free entry; Nature Camp tents ₹4,500/day for 2 (meals incl.) + ₹15/person entry",
+      "entry_fee": "Falls: free (some sources report a nominal ₹15–20 site fee). Nature Camp tents: ₹4,500/day for 2, meals included",
       "best_time": "October – February (post-monsoon, full flow)",
       "highlights": [
         "244 metres (801 ft) single-drop horsetail cascade on Korapani Nala",
@@ -153,21 +153,21 @@ window.PLACE_DATA = {
       "name": "Deodhara Picnic Spot",
       "category": "Picnic Spot",
       "image": "darjing.jpg",
-      "tagline": "Riverside hills and seasonal falls in the Banki forest range",
-      "distance": "~70 km from Rourkela on the Brahmani river (near Madhupur)",
+      "tagline": "Brahmani-river gorge just 2–3 km beyond Darjing on NH-23",
+      "distance": "~46 km from Rourkela on NH-23 — 2–3 km beyond Darjing (Madhupur area)",
       "timings": "Daytime recommended",
-      "entry_fee": "Free",
+      "entry_fee": "Free entry; reported ~₹300 vehicle / eco-tourism fee",
       "best_time": "October – February",
       "highlights": [
-        "Brahmani river flowing between green hills",
-        "Seasonal waterfalls and forest trails nearby",
-        "Quiet, less-crowded alternative to Darjing",
-        "Located in the Banki forest range",
-        "Good for day trips and nature photography"
+        "2–3 km ahead of Darjing on NH-23 (≈45–50 km from Rourkela)",
+        "Parking, cooking area, drinking water and washrooms for visitors",
+        "Reported ~₹300 vehicle entry; eco-tourism guides on site",
+        "Rocky mid-river slabs for photos and strolling",
+        "⚠️ Deep, swift river currents — enjoy from the banks only"
       ],
-      "how_to_reach": "About 70 km from Rourkela by road; nearest town Madhupur. Best with a private vehicle; road stretches can be rough during monsoon.",
-      "about": "Deodhara is a serene river-and-hills hideaway in the Banki forest range where the Brahmani squeezes between green ridges. It rewards travelers who want a quieter picnic than the busier spots closer to Rourkela.",
-      "source": "odishatour.in · eodisha.in"
+      "how_to_reach": "About 46 km from Rourkela on NH-23 towards Rajamunda — just 2–3 km past Darjing. Best with a private vehicle or taxi; roads can be rough during monsoon.",
+      "about": "Deodhara is a serene Brahmani-river gorge in the Banki forest range, sitting just beyond Darjing on NH-23. Parking, cooking spots, drinking water and washrooms are provided for picnickers (a reported ~₹300 vehicle entry applies). Its rocky mid-river slabs are great for photos — but the Brahmani runs deep and swift here, so stay out of the water.",
+      "source": "webindia123.com · tripcrafters.com · holidify.com · odishatour.in · yappe.in"
     },
     {
       "id": "vaishno-devi",
@@ -176,61 +176,61 @@ window.PLACE_DATA = {
       "image": "hanuman-vatika.jpg",
       "tagline": "A replica of the Jammu shrine atop Durgapur hill — 600 steps up",
       "distance": "3 km from Rourkela Bus Stand (Durgapur hill)",
-      "timings": "6:00 AM – 8:00 PM (approx.)",
+      "timings": "7:00 AM – 12:30 PM & 3:30 – 8:00 PM (reported)",
       "entry_fee": "Free",
       "best_time": "Navratri for the main festival; October – February for weather",
       "highlights": [
-        "Established in the year 2000 as a replica of the Vaishno Devi shrine of Jammu",
+        "Replica of the Jammu Vaishno Devi shrine, established in 2000",
         "Climb of around 600 stairs through forested Durgapur hill",
-        "Bhairavnath Temple near the main shrine",
+        "Bhairavnath Temple near the main shrine; hilltop Durga temple opened in 2007",
         "Panoramic views of Rourkela and the Steel Plant from the top",
         "Navratri draws devotees from Ranchi, Jharkhand and across Sundargarh"
       ],
       "how_to_reach": "3 km from Rourkela bus stand; autos and taxis reach the base of the hill, from where the steps begin.",
       "about": "Perched on Durgapur hill facing the Rourkela Steel Plant, this Vaishno Devi temple replicates the famous Jammu shrine. The forested 600-step ascent and hilltop views make the visit as much a trek as a pilgrimage.",
-      "source": "odishatour.in · orissatourism.org"
+      "source": "odishatour.in · Wikipedia · hindu-blog.com · Tripadvisor"
     },
     {
       "id": "jagannath-temple",
       "name": "Jagannath Temple, Rourkela",
       "category": "Temple",
       "image": "vedvyas.jpg",
-      "tagline": "90-ft-style grand shikhara at Ahirabandh with 13 festivals a year",
-      "distance": "Ahirabandh, Sector 3, Rourkela (~15 km from Vedvyas)",
+      "tagline": "Grand shikhara at Ahirabandh — Puri's Jagannath tradition in Rourkela",
+      "distance": "Ahirabandh, Sector 3, Rourkela — ~1 km from city centre",
       "timings": "6:00 AM – 8:00 PM (approx.)",
       "entry_fee": "Free",
       "best_time": "Rath Yatra (June/July) for the grand procession",
       "highlights": [
-        "One of the most famous temples in Rourkela, modeled on Puri's Jagannath Temple",
+        "Built in 1975 at Ahirabandh — modeled on Puri's Jagannath Temple",
         "Presiding deities: Lord Jagannath, Balabhadra and Subhadra",
         "Rath Yatra is the headline festival, plus 13 festivals celebrated through the year",
         "Attracts thousands of pilgrims and visitors",
-        "Architecturally striking tall shikhara visible from afar"
+        "Shikhara reported ~90 ft tall (height sources vary)"
       ],
-      "how_to_reach": "Located at Ahirabandh in Sector 3, Rourkela — 15 km from Vedvyas; easily reached by auto or taxi from anywhere in Rourkela city.",
-      "about": "Rourkela's Jagannath Temple at Ahirabandh brings the Puri tradition to Western Odisha, with a grand shikhara and an annual calendar of festivals crowned by Rath Yatra.",
-      "source": "odishatour.in · samacharjustclick.com"
+      "how_to_reach": "Ahirabandh in Sector 3, Rourkela — about 1 km from the city centre; easily reached by auto or taxi from anywhere in Rourkela.",
+      "about": "Rourkela's Jagannath Temple at Ahirabandh, built in 1975, brings the Puri tradition to Western Odisha — a tall shikhara (reported about 90 ft; some sources say 90 m) and an annual calendar of festivals crowned by Rath Yatra.",
+      "source": "tourmyindia.com · webindia123.com · nativeplanet.com · odishatour.in"
     },
     {
       "id": "rani-sati",
       "name": "Rani Sati Temple",
       "category": "Temple",
       "image": "vedvyas.jpg",
-      "tagline": "The 'second Jhun-Jhun Dham of India' — a white marble marvel",
-      "distance": "Vedvyas area, ~12–35 km from Rourkela",
-      "timings": "6:00 AM – 8:00 PM (approx.)",
+      "tagline": "'Second Jhun-Jhun Dham of India' — white marble shrine at Birmitrapur",
+      "distance": "Birmitrapur, ~35 km from Rourkela on NH-143 (Ranchi road)",
+      "timings": "5:00 AM – 12:00 PM & 4:00 PM – 9:00 PM (reported)",
       "entry_fee": "Free",
       "best_time": "Bhado Amavasya for the special pujas; Navratri season",
       "highlights": [
-        "Known as the second Jhun-Jhun Dham of India",
-        "2-acre campus of white marble with painted facades and a golden dome",
+        "Known as the second Jhun-Jhun Dham of India (first: Jhunjhunu, Rajasthan)",
+        "2-acre white-marble campus with golden pinnacle and painted facades",
+        "Built before 1967; renovated in 1992 and 2000",
         "Special pujas on Bhado Amavasya (new-moon of Bhadra) draw big crowds",
-        "Daily rituals and a calm, palace-like ambience",
-        "Part of the Vedvyas spiritual circuit"
+        "On the Rourkela–Ranchi highway (NH-143) at Birmitrapur"
       ],
-      "how_to_reach": "At Vedvyas near Rourkela — combine with Vedvyas Dham and Pitamahal on the same circuit. Taxi or auto from Rourkela.",
-      "about": "This striking white temple with its golden pinnacle is counted among India's foremost Rani Sati shrines — the 'second Jhun-Jhun Dham' — and its Bhado Amavasya fair is a major event in the Sundargarh calendar.",
-      "source": "odishatour.in · odishatv.in"
+      "how_to_reach": "35 km from Rourkela on NH-143 towards Ranchi — state buses run to Birmitrapur, and a morning passenger train connects Rourkela–Birmitrapur; hire a taxi for flexibility.",
+      "about": "This white-marble shrine at Birmitrapur is counted among India's foremost Rani Sati temples — the 'second Jhun-Jhun Dham' after Jhunjhunu, Rajasthan. Built before 1967 and renovated in 1992 and 2000, its 2-acre campus holds flower gardens, a Shiva statue and shrines of Sita Ram, Ganesh, Hanuman and Shiva. Special pujas on Bhado Amavasya draw the biggest crowds.",
+      "source": "orissaguide.com · nativeplanet.com · rourkelaonline.in · odishalifestyle.com"
     },
     {
       "id": "ghogar",
@@ -292,7 +292,7 @@ window.PLACE_DATA = {
         "Pairs well with Ushakothi for a heritage day trip"
       ],
       "how_to_reach": "Near Hemagiri in Sundargarh district — 4 km from Hemagiri and 15 km from Kanika. Hire a taxi from Sundargarh or Rajgangpur.",
-      "about": "Junagarh's ruined fort and rock-cut caves — carrying traces of tantric worship — sit amid the forested hills of Sundargarh. The site drew around 45,700 visitors in a single pre-pandemic year, per district tourism records.",
+      "about": "Junagarh's ruined fort and rock-cut caves — carrying traces of tantric worship — sit amid the forested hills of Sundargarh. The site drew around 45,700 visitors in one year (reported 2014), per district tourism records.",
       "source": "Odisha Tourism (dot.odisha.gov.in) · newindianexpress.com"
     },
     {
@@ -323,19 +323,19 @@ window.PLACE_DATA = {
       "image": "sarafgarh.jpg",
       "tagline": "42 acres of gardens, mini-zoo and toy train in Rourkela",
       "distance": "~3 km from Rourkela Bus Stand",
-      "timings": "9:00 AM – 7:00 PM (approx.)",
-      "entry_fee": "Nominal zoo/park ticket (approx. ₹10–25)",
-      "best_time": "Year-round; pleasant evenings in winter",
+      "timings": "8:00 AM – 6:30 PM (closed Mondays)",
+      "entry_fee": "Park ₹10 adults / ₹5 children · Zoo ₹10–20 · Toy train ₹20 · Boating ₹30–50",
+      "best_time": "October – March; evenings for the musical fountain",
       "highlights": [
-        "42-acre park with lawns, gardens and a musical fountain",
+        "42-acre park with lawns, gardens and musical fountain (evening show ~6 PM)",
         "Mini-zoo: deer, black bear, peacock, crocodiles and birds",
         "Aquarium, lake and doll museum",
-        "Toy train ride for children",
-        "Top family hangout in Rourkela"
+        "Toy train ride (₹20) around the park",
+        "Closed on Mondays — plan accordingly"
       ],
       "how_to_reach": "3 km from Rourkela bus stand — autos and taxis readily available.",
-      "about": "Spread over 42 acres, Indira Gandhi Park is Rourkela's family living room — gardens, a small zoo with a toy train, aquarium and fountain that keep kids and adults busy for half a day.",
-      "source": "odishatour.in"
+      "about": "Spread over 42 acres, Indira Gandhi Park is Rourkela's family living room — gardens, a small zoo with a toy train, aquarium and fountain that keep kids and adults busy for half a day (₹10 entry; closed Mondays).",
+      "source": "odishatour.in · rourkelaonline.in · eodisha.in · orissatours.com"
     },
     {
       "id": "tensa",
@@ -391,14 +391,14 @@ window.PLACE_DATA = {
       "best_time": "October – March",
       "highlights": [
         "Historical town on the bank of the river Ib",
-        "Royal palace and the old collectorate",
-        "Samlei Temple and Radhakrishna Temple beside the palace",
-        "Base for Sarafgarh Dam, Ushakothi and Junagarh trips",
-        "District museum & tribal culture of Sundargarh"
+        "Former capital of the princely State of Gangpur (until 1948)",
+        "Royal palace with Samlei & Radhakrishna temples alongside",
+        "Heritage collectorate — a legacy of the Gangpur kingdom",
+        "Base for Sarafgarh Dam, Ushakothi and Junagarh trips"
       ],
       "how_to_reach": "On the Sambalpur–Rourkela highway. Nearest railheads: Jharsuguda (~35 km) and Rourkela (~100 km). Regular buses from Rourkela and Sambalpur.",
-      "about": "Sundargarh — 'a beautiful fort' — is the district headquarters town on the Ib river, blending royal heritage (palace, Samlei and Radhakrishna temples) with modern administration, and serving as the launchpad for the district's wider tourist circuit.",
-      "source": "samacharjustclick.com · sundargarh.odisha.gov.in"
+      "about": "Sundargarh — 'a beautiful fort' — was the capital of the princely State of Gangpur until 1948 and remains the district headquarters town on the river Ib. The royal palace, the Samlei and Radhakrishna temples beside it and the heritage collectorate blend with modern administration, making the town the launchpad for Sarafgarh, Ushakothi and Junagarh trips.",
+      "source": "samacharjustclick.com · Wikipedia · Tripadvisor"
     }
   ]
 };
