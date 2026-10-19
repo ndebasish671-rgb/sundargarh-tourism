@@ -1,6 +1,6 @@
 /* Updated daily by GitHub Actions (.github/workflows/daily-sync.yml) */
 window.NEWS_DATA = {
-  "updated": "18 Oct 2026, 10:31 AM IST",
+  "updated": "19 Oct 2026, 10:40 AM IST",
   "source": "Google News RSS",
   "query": "Sundargarh OR Rourkela Odisha when:7d",
   "items": [
@@ -17,12 +17,6 @@ window.NEWS_DATA = {
       "date": "13 Oct 2026, 12:30 PM"
     },
     {
-      "title": "Odisha Vigilance arrests Sundargarh ‘Soil Conservation Project Director’ in DA case - prameyanews.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTzBMWWRCM0VXNFBrZE5iZWg5eGdpMmdJU3JmbGVMR3M5RHc4TU8zVkVhaFhMZkFQal9fV29abWRSZ2oySy15RTRRY1VUZWY0TWc2Z0s2a3daUDV2NjFzNkVubVlCem9zQ0NSU2dGd3V0LW1XdzQyV3B0QkhwNEQ3MkZzZHVtckdpLTJIb0xmbmdseFRKTnlPSF83TFF0R3JMWW9VWDV3VzhJZmFmX0E?oc=5",
-      "source": "prameyanews.com",
-      "date": "12 Oct 2026, 02:41 AM"
-    },
-    {
       "title": "Iron ore-laden truck catches fire in Sundargarh - ODISHA RAY",
       "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9maFJpRXl2cTByclRXLUZvckNOX2R4NGNJTFhvZmR2Rk93YjZMM3VfbjRaLTZyNUYwNkhFZGk5MVp3UGs?oc=5",
       "source": "ODISHA RAY",
@@ -36,21 +30,27 @@ window.NEWS_DATA = {
     },
     {
       "title": "Fresh tender for stalled ROB project at Odisha's Kalunga - The New Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN1NSV1Z6Vm9yd0FxMUJ0Tm4xU1J2LUVCbXd2bS1JSUY0bk1hSDJrWXdyTVVGVk9aMXlZRzNFN0xYVmF1SlotanhEOTd3MXpFbHRYd01OdXhFSlktVUZQVXJCRHZHdHZZRGN6ZHVjRXBPUkRRZUd0Zy1ZOW1MUVdWT3Y1elpRdDFYS044MThBcmFJZzlmQU91dXRvS252aFh1U2xJUHhKQ2ZCdVBNWkZ2R2JvTTI?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN1NSV1Z6Vm9yd0FxMUJ0Tm4xU1J2LUVCbXd2bS1JSUY0bk1hSDJrWXdyTVVGVk9aMXlZRzNFN0xYVmF1SlotanhEOTd3MXpFbHRYd01OdXhFSlktVUZQVXJCRHZHdHZZRGN6ZHVjRXBPUkRRZUd0Zy1ZOW1MUVdWT3Y1elpRdDFYS044MThBcmFJZzlmQU91dXRvS252aFh1U2xJUHhKQ2ZCdVBNWkZ2R2JvTTLSAcIBQVVfeXFMTTc1QWxOMjktSGx4XzZISEJJTDhSUUEzZWZGSFdmRG4wdHJ0RlVGYjdYS2t2bURLWmxvNGhVeXVSNTRpZVVjbmRrX2luZV9qTnFqWVBQbVdiZ3FhbEZlQlQxZTh2TWZ2UTI3M1ItUnE4UkNSNU9mSmduV0hkNWZZbXNZQV9seTdVR3YxY1dvSF9tYTlaVEdQSG1PeWx5Y3FJRHI4bWpDUDJoaFJJTWVkV0FIOS1kSEZuc0lQTUZRUVQxM0E?oc=5",
       "source": "The New Indian Express",
       "date": "17 Oct 2026, 09:05 AM"
     },
     {
       "title": "MCL commits Rs 22.64 crore for five CSR projects in Odisha’s Sundargarh - PSU Watch",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUZjUnY1WUQ1ZklDMEZuR1E5SEJhRkFqWW11YWgtVmVCY3Nma25RbGQzcGhHNHQtSmRZemZ3T0dwUGloekNVNHZDb1Y0MXV2UTItSnpDZXU3V3V2bVBjOWpGdjJINmZtR3pRdUp6cDdXcENORG4zUGhSdUtiSTNMSlFXdlFrV3lPWk9NWWhfOEVnbkVZQkwwaFpvVUhEZFBCbjFEMm5nZkFYR3Q4d0HSAa4BQVVfeXFMTlFGY1J2NVlENWZJQzBGbkdROUhCYUZBalltdWFoLVZlQmNzZmtuUWxkM3BoRzR0LUpkWXpmd09HcFBpaHpDVTR2Q29WNDF1dlEyLUp6Q2V1N1d1dm1QYzlqRnYySDZmbUd6UXVKenA3V3BDTkRuM1BoUnVLYkkzTEpRV3ZRa1d5T1pPTVloXzhFZ25FWUJMMGhab1VIRGRQQm4xRDJuZ2ZBWEd0OHdB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOEpfZWJVdzdQNlZkYXBzek1XUVVMckxhbGZVT04wd2UySWFmcEVuc21XS1hnV0Y4d1NadFlxZnVDNVNJM1d6elR4NUZoeExsTHppenkxT0RMUWZYVEhvdW1PbksxSDRfZFhDYXE0WHZNaXhrMHJETjBkMU9RRTlrQUlLQVhxVUhsbjNvbG1FNFBJMVVEWFgzMzF5cFo4RE9O0gGuAUFVX3lxTE5RRmNSdjVZRDVmSUMwRm5HUTlIQmFGQWpZbXVhaC1WZUJjc2ZrblFsZDNwaEc0dC1KZFl6ZndPR3BQaWh6Q1U0dkNvVjQxdXZRMi1KekNldTdXdXZtUGM5akZ2Mkg2Zm1HelF1SnpwN1dwQ05EbjNQaFJ1S2JJM0xKUVd2UWtXeU9aT01ZaF84RWduRVlCTDBoWm9VSERkUEJuMUQybmdmQVhHdDh3QQ?oc=5",
       "source": "PSU Watch",
-      "date": "14 Oct 2026, 08:10 PM"
+      "date": "14 Oct 2026, 07:16 PM"
     },
     {
       "title": "TPWODL Invests ₹2.11 Crore to Strengthen Power Reliability across Rourkela - Odisha Diary",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYl85STcxTVpUYll1LUNCY2FfcnR2cUNUQ3N5TzIwSXBuZmpVWVg5SWFOb1cxZUZrUG5jY1c2RDgza2VHaFRBbEVvck9ja3lFU0hqZG9nX3hIYk1pOU9aMFA4S05tQlJ2azRwZmp2eFZRcGhvQ1UzMWUtNnVwQWVSMUV2dWdCcGhJQUw4STJ1MnBLd1FfNXhuQ0lkVTZRUU5qOUQyalZhVnJwOE0?oc=5",
       "source": "Odisha Diary",
       "date": "15 Oct 2026, 01:58 PM"
+    },
+    {
+      "title": "NIT Rourkela Turns Jackfruit Waste into Fluoride-Fighting Water Purifier - Pragativadi",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOE9YcF8ya1hqOTkzcy1vVm5YSlNJZzNuWXhUWk95S0dBeGwxOTdHdHkyMjJLaXlzMDFCakRweFJCaXYtQ0RDWnlrYVVmLUExeGI2U0xxc3BHYVc4N2wxRkZWVTQxY09uTURFOWtTWGpoZXRsZ1FlWEtBTDRpbG4xTzZsSEEyUC00RTk3SVkxeHBjRFhwVThYTkZuM0VpQQ?oc=5",
+      "source": "Pragativadi",
+      "date": "14 Oct 2026, 10:27 PM"
     }
   ]
 };
