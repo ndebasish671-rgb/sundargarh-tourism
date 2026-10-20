@@ -1,6 +1,6 @@
 /* Updated daily by GitHub Actions (.github/workflows/daily-sync.yml) */
 window.NEWS_DATA = {
-  "updated": "19 Oct 2026, 10:40 AM IST",
+  "updated": "20 Oct 2026, 10:40 AM IST",
   "source": "Google News RSS",
   "query": "Sundargarh OR Rourkela Odisha when:7d",
   "items": [
@@ -11,16 +11,16 @@ window.NEWS_DATA = {
       "date": "17 Oct 2026, 06:44 PM"
     },
     {
-      "title": "NIT Rourkela Cutoff 2026 (Out): Check JEE Main Round & Year-Wise Cutoff Trends - Shiksha.com",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNck4xaUdNWWFWT0xsNVoxTDhqV1pBd0t5cDBPUm1ia2hOQmk1Y3h6My1VT3MyS2x5d2ZpMlk3Nld6TnRvSm5GOUFtTUhXV2ZaY1I3WnYxek9wbmtCbWEwWDhWUHhZbXRmVFlNT01VeG1SbWRmNGg5aFdQZUQta2MzVGVZNzVKejlEZ1hxaUswLWZabkRYZ3VUZQ?oc=5",
-      "source": "Shiksha.com",
-      "date": "13 Oct 2026, 12:30 PM"
-    },
-    {
       "title": "Iron ore-laden truck catches fire in Sundargarh - ODISHA RAY",
       "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9maFJpRXl2cTByclRXLUZvckNOX2R4NGNJTFhvZmR2Rk93YjZMM3VfbjRaLTZyNUYwNkhFZGk5MVp3UGs?oc=5",
       "source": "ODISHA RAY",
       "date": "17 Oct 2026, 08:55 AM"
+    },
+    {
+      "title": "NIT Rourkela Cutoff 2026 (Out): Check JEE Main Round & Year-Wise Cutoff Trends - Shiksha.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNck4xaUdNWWFWT0xsNVoxTDhqV1pBd0t5cDBPUm1ia2hOQmk1Y3h6My1VT3MyS2x5d2ZpMlk3Nld6TnRvSm5GOUFtTUhXV2ZaY1I3WnYxek9wbmtCbWEwWDhWUHhZbXRmVFlNT01VeG1SbWRmNGg5aFdQZUQta2MzVGVZNzVKejlEZ1hxaUswLWZabkRYZ3VUZQ?oc=5",
+      "source": "Shiksha.com",
+      "date": "13 Oct 2026, 12:30 PM"
     },
     {
       "title": "MCL to Invest Rs 22.64 Crore in Five CSR Projects in Odisha’s Sundargarh - KNN India",
