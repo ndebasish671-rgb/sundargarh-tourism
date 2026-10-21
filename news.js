@@ -1,6 +1,6 @@
 /* Updated daily by GitHub Actions (.github/workflows/daily-sync.yml) */
 window.NEWS_DATA = {
-  "updated": "20 Oct 2026, 10:40 AM IST",
+  "updated": "21 Oct 2026, 10:42 AM IST",
   "source": "Google News RSS",
   "query": "Sundargarh OR Rourkela Odisha when:7d",
   "items": [
@@ -11,22 +11,16 @@ window.NEWS_DATA = {
       "date": "17 Oct 2026, 06:44 PM"
     },
     {
-      "title": "Iron ore-laden truck catches fire in Sundargarh - ODISHA RAY",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9maFJpRXl2cTByclRXLUZvckNOX2R4NGNJTFhvZmR2Rk93YjZMM3VfbjRaLTZyNUYwNkhFZGk5MVp3UGs?oc=5",
-      "source": "ODISHA RAY",
-      "date": "17 Oct 2026, 08:55 AM"
-    },
-    {
-      "title": "NIT Rourkela Cutoff 2026 (Out): Check JEE Main Round & Year-Wise Cutoff Trends - Shiksha.com",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNck4xaUdNWWFWT0xsNVoxTDhqV1pBd0t5cDBPUm1ia2hOQmk1Y3h6My1VT3MyS2x5d2ZpMlk3Nld6TnRvSm5GOUFtTUhXV2ZaY1I3WnYxek9wbmtCbWEwWDhWUHhZbXRmVFlNT01VeG1SbWRmNGg5aFdQZUQta2MzVGVZNzVKejlEZ1hxaUswLWZabkRYZ3VUZQ?oc=5",
-      "source": "Shiksha.com",
-      "date": "13 Oct 2026, 12:30 PM"
-    },
-    {
       "title": "MCL to Invest Rs 22.64 Crore in Five CSR Projects in Odisha’s Sundargarh - KNN India",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX2wyeHpqcVhMRkJWLW9RRkdyZDhmeGR6QUVqTnJFckVqWVh1QmY0UnZ5amtVTVFUdElfSXlneWE3ZmhmTHY4WVZRMzZHWXl5T2dGWFVIYmtHUDhjMlA5QnducjRlZmM5MXlEek9oeVVtQ0JBanNndjRhRWtoamJ5LWl0UVRkLUllTnJfQjhLTnhYS1ByQjI4LW5MeWExdXdjbTlBM2hiaFFESGlON2Z1NjZpdExScUU?oc=5",
       "source": "KNN India",
       "date": "15 Oct 2026, 03:45 PM"
+    },
+    {
+      "title": "Iron ore-laden truck catches fire in Sundargarh - ODISHA RAY",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9maFJpRXl2cTByclRXLUZvckNOX2R4NGNJTFhvZmR2Rk93YjZMM3VfbjRaLTZyNUYwNkhFZGk5MVp3UGs?oc=5",
+      "source": "ODISHA RAY",
+      "date": "17 Oct 2026, 08:55 AM"
     },
     {
       "title": "Fresh tender for stalled ROB project at Odisha's Kalunga - The New Indian Express",
@@ -51,6 +45,12 @@ window.NEWS_DATA = {
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOE9YcF8ya1hqOTkzcy1vVm5YSlNJZzNuWXhUWk95S0dBeGwxOTdHdHkyMjJLaXlzMDFCakRweFJCaXYtQ0RDWnlrYVVmLUExeGI2U0xxc3BHYVc4N2wxRkZWVTQxY09uTURFOWtTWGpoZXRsZ1FlWEtBTDRpbG4xTzZsSEEyUC00RTk3SVkxeHBjRFhwVThYTkZuM0VpQQ?oc=5",
       "source": "Pragativadi",
       "date": "14 Oct 2026, 10:27 PM"
+    },
+    {
+      "title": "Odisha’s hockey bet pays off with ₹5.61 crore reward for Asian Games double gold - sports.economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeElyS25BbUd5eUtPcTNCUjUzMmZMUEV1M1ZJZFlzM1RIXzAxQTd6Yjc1OU9BNUtJdjd0NHdtakNEZG4zQjdkNVdsM2Z4ZU90T1lNb2V0NDJfLV93OTNmd3NqUjNMSFFJVmcyRkw4OWUwQkFWUjc1cV9iWlV6Tl9reVh5ZXlRNklwVHdFMnY4bjlHRjR5MjlJRmFEZ3Ftb0hqVnhoUEloQy1zNFlVVnplSDRXMXdyWm52Z0VpUWx5aDNyZFpWR3k2dW53RFlKSUVvNDBwR1BaUHBNdk4wMXMzNEtfU3d3RkxMeFZwONIB8AFBVV95cUxOM2VRRWhmWG9mS2htcDlqeF83c3hlcFo1aGhiV1NiMW9fdUpfYldDTVdLSnVPOFBEWHB6eFZkWkpVWFhTVXFJbTlBNlBxU2h3R0J5MEFOaFE3M21Za0NKX3RLN3V5ZXdQQ3ZHbFJFaU5lN01qbmN3V0ZkUnNmZF9NcFRtdzFnSEl2ZjBsZThZRnVScjdJQW1KT0lhMURHV0JpaDRaMzlVYzZVbXBzZHl2VDc4aFp6SU41bGVvOVlQd2w3TGdSMVIxUWh0bkJLbmFNY2NRak50TTNYRXVyMVMzb0Q0SHRHblZmRVU5YmhNX3Q?oc=5",
+      "source": "sports.economictimes.indiatimes.com",
+      "date": "19 Oct 2026, 11:39 AM"
     }
   ]
 };
