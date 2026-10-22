@@ -1,6 +1,6 @@
 /* Updated daily by GitHub Actions (.github/workflows/daily-sync.yml) */
 window.NEWS_DATA = {
-  "updated": "21 Oct 2026, 10:42 AM IST",
+  "updated": "22 Oct 2026, 10:45 AM IST",
   "source": "Google News RSS",
   "query": "Sundargarh OR Rourkela Odisha when:7d",
   "items": [
@@ -29,10 +29,10 @@ window.NEWS_DATA = {
       "date": "17 Oct 2026, 09:05 AM"
     },
     {
-      "title": "MCL commits Rs 22.64 crore for five CSR projects in Odisha’s Sundargarh - PSU Watch",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOEpfZWJVdzdQNlZkYXBzek1XUVVMckxhbGZVT04wd2UySWFmcEVuc21XS1hnV0Y4d1NadFlxZnVDNVNJM1d6elR4NUZoeExsTHppenkxT0RMUWZYVEhvdW1PbksxSDRfZFhDYXE0WHZNaXhrMHJETjBkMU9RRTlrQUlLQVhxVUhsbjNvbG1FNFBJMVVEWFgzMzF5cFo4RE9O0gGuAUFVX3lxTE5RRmNSdjVZRDVmSUMwRm5HUTlIQmFGQWpZbXVhaC1WZUJjc2ZrblFsZDNwaEc0dC1KZFl6ZndPR3BQaWh6Q1U0dkNvVjQxdXZRMi1KekNldTdXdXZtUGM5akZ2Mkg2Zm1HelF1SnpwN1dwQ05EbjNQaFJ1S2JJM0xKUVd2UWtXeU9aT01ZaF84RWduRVlCTDBoWm9VSERkUEJuMUQybmdmQVhHdDh3QQ?oc=5",
-      "source": "PSU Watch",
-      "date": "14 Oct 2026, 07:16 PM"
+      "title": "Elephant found dead in agricultural field in Sundargarh, electrocution suspected - odishanewslens.com",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BVmRneVN1MDRSQ1lRMXNpVXRfZEJJU05NaG1xVkFTLWlMX245LTZJZV9ITndVSm9mOTFvS0REQ0dfRElUb3FVZDRQZ2dMOWp1a0xva1ZySUMtWnRzNEJjemlzcUxJSnFYZDFwQw?oc=5",
+      "source": "odishanewslens.com",
+      "date": "21 Oct 2026, 10:47 PM"
     },
     {
       "title": "TPWODL Invests ₹2.11 Crore to Strengthen Power Reliability across Rourkela - Odisha Diary",
@@ -41,16 +41,16 @@ window.NEWS_DATA = {
       "date": "15 Oct 2026, 01:58 PM"
     },
     {
-      "title": "NIT Rourkela Turns Jackfruit Waste into Fluoride-Fighting Water Purifier - Pragativadi",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOE9YcF8ya1hqOTkzcy1vVm5YSlNJZzNuWXhUWk95S0dBeGwxOTdHdHkyMjJLaXlzMDFCakRweFJCaXYtQ0RDWnlrYVVmLUExeGI2U0xxc3BHYVc4N2wxRkZWVTQxY09uTURFOWtTWGpoZXRsZ1FlWEtBTDRpbG4xTzZsSEEyUC00RTk3SVkxeHBjRFhwVThYTkZuM0VpQQ?oc=5",
-      "source": "Pragativadi",
-      "date": "14 Oct 2026, 10:27 PM"
+      "title": "Gold Rate Today in Sundargarh 22nd October 2026 : 22 & 24 Carat, Todays Gold Price in Sundargarh - Business Today",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xSFZJN0pSdzY4TGFxQ3FVdng4LUFudWhCSjVSQ0lZTGItT24xREIwZS04c3c3VDVSaUpDM201alNqcFlENUtIUDZybEM5VXdSUmtnaGphVTFueDIwbndMMHQ0Y1BFbjdLWVBIaW5GMy1FOVYwVlg0?oc=5",
+      "source": "Business Today",
+      "date": "22 Oct 2026, 07:55 AM"
     },
     {
-      "title": "Odisha’s hockey bet pays off with ₹5.61 crore reward for Asian Games double gold - sports.economictimes.indiatimes.com",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeElyS25BbUd5eUtPcTNCUjUzMmZMUEV1M1ZJZFlzM1RIXzAxQTd6Yjc1OU9BNUtJdjd0NHdtakNEZG4zQjdkNVdsM2Z4ZU90T1lNb2V0NDJfLV93OTNmd3NqUjNMSFFJVmcyRkw4OWUwQkFWUjc1cV9iWlV6Tl9reVh5ZXlRNklwVHdFMnY4bjlHRjR5MjlJRmFEZ3Ftb0hqVnhoUEloQy1zNFlVVnplSDRXMXdyWm52Z0VpUWx5aDNyZFpWR3k2dW53RFlKSUVvNDBwR1BaUHBNdk4wMXMzNEtfU3d3RkxMeFZwONIB8AFBVV95cUxOM2VRRWhmWG9mS2htcDlqeF83c3hlcFo1aGhiV1NiMW9fdUpfYldDTVdLSnVPOFBEWHB6eFZkWkpVWFhTVXFJbTlBNlBxU2h3R0J5MEFOaFE3M21Za0NKX3RLN3V5ZXdQQ3ZHbFJFaU5lN01qbmN3V0ZkUnNmZF9NcFRtdzFnSEl2ZjBsZThZRnVScjdJQW1KT0lhMURHV0JpaDRaMzlVYzZVbXBzZHl2VDc4aFp6SU41bGVvOVlQd2w3TGdSMVIxUWh0bkJLbmFNY2NRak50TTNYRXVyMVMzb0Q0SHRHblZmRVU5YmhNX3Q?oc=5",
-      "source": "sports.economictimes.indiatimes.com",
-      "date": "19 Oct 2026, 11:39 AM"
+      "title": "Tusker herd disrupts train services on Howrah-Mum line in Rourkela - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdnMtY3ZCZldNR2J0SVJ4VmlYNUNtcEU2dEJnOEg1Y2VCRTdfTTROT1ZxR0g1cDVyMGYwczZWcHNjb0p2MkJyRmVYRkV2SjBPQVFYekJ2UnB3ZzN4Tm9pY294V1BQc25sbzc5bmxrSjZNTWhNUjlSSDlxQ25JSUNESVpnc0lIU29RZjBWc1A0amhTWDd3eU9jYVEwam1IdHZpWng1ZUNxZlFfa09CWEJsSEVETFBoMmxwemEwNkJKc09pTXFGMzRoVWw2S3hFalZxZGxWT2h4NmNhdF90bHfSAeMBQVVfeXFMT0YwNEUxeHByUWpSaHpUM05HSE9DVmxuNFNMTDJvOGNNazkxcFhEUnVJLTR3NF9jOGxWSlBTVF9QeVphOTdBZGFxWGFpNW9raWhRQ01nOFB1ZDZfem5hYUVmMWczbW5JRHo3T3FHQVM4bGxrZWRJbXVpTmxZWXdHOU5qakxkSHZpTHZiNC1ZZkdiMi1HY3BtbVhjbkwzeWM2dHRLVGZabUtqYW1CZFlLZC1xZjFJUjNUTzJHUEZjTTFEMkFObVJTMXBBSXpKakFqZGx4UHI0RDF3bW1JeE96cWVtTTQ?oc=5",
+      "source": "The Times of India",
+      "date": "18 Oct 2026, 11:17 PM"
     }
   ]
 };
