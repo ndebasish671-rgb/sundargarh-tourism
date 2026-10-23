@@ -1,20 +1,14 @@
 /* Updated daily by GitHub Actions (.github/workflows/daily-sync.yml) */
 window.NEWS_DATA = {
-  "updated": "22 Oct 2026, 10:45 AM IST",
+  "updated": "23 Oct 2026, 10:45 AM IST",
   "source": "Google News RSS",
   "query": "Sundargarh OR Rourkela Odisha when:7d",
   "items": [
     {
-      "title": "Illegal Liquor Factory in Sundargarh Forest | Odisha News - Kanak News Odisha",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS05Pelo4YjNaNmtjTXpMcjBRQnhhRDh5MUVsd1k4QkFKSjhkVlNwM2NqZ2ZsWXFMdHRRMkRBYldjTkNBQ0NpSE1zcTJFc1RtbnAxYWZFMTNOWTgwSFB1V29ZOE82eGhBUUMzRFdkS1hXM1VOSnRrZUZ0bmwwb0Y0RVp6dm5IUTMzclZ1c2lPU241aDVrSjk0MHVPRmdtSTRpWXNwTW5kOEzSAagBQVVfeXFMUEtOT3paOGIzWjZrY016THIwUUJ4YUQ4eTFFbHdZOEJBSko4ZFZTcDNjamdmbFlxTHR0UTJEQWJXY05DQUNDaUhNc3EyRXNUbW5wMWFmRTEzTlk4MEhQdVdvWThPNnhoQVFDM0RXZEtYVzNVTkp0a2VGdG5sMG9GNEVaenZuSFEzM3JWdXNpT1NuNWg1a0o5NDB1T0ZnbUk0aVlzcE1uZDhM?oc=5",
-      "source": "Kanak News Odisha",
-      "date": "17 Oct 2026, 06:44 PM"
-    },
-    {
-      "title": "MCL to Invest Rs 22.64 Crore in Five CSR Projects in Odisha’s Sundargarh - KNN India",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX2wyeHpqcVhMRkJWLW9RRkdyZDhmeGR6QUVqTnJFckVqWVh1QmY0UnZ5amtVTVFUdElfSXlneWE3ZmhmTHY4WVZRMzZHWXl5T2dGWFVIYmtHUDhjMlA5QnducjRlZmM5MXlEek9oeVVtQ0JBanNndjRhRWtoamJ5LWl0UVRkLUllTnJfQjhLTnhYS1ByQjI4LW5MeWExdXdjbTlBM2hiaFFESGlON2Z1NjZpdExScUU?oc=5",
-      "source": "KNN India",
-      "date": "15 Oct 2026, 03:45 PM"
+      "title": "Tripartite MoU signed to strengthen livelihood opportunities for Scheduled Tribe youth - Press Information Bureau",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtOEdYU05qaXVmOTN0OWF3U2k5aldJVTBLSkY0ZUlmNmxudzhSS3BPOUlrOERMUzZxMzdHcEQ0OVRqQjhDYllQb0NMVzNXYkl4LUp1bkFkT0Y0MVNnNVJlZmthUQ?oc=5",
+      "source": "Press Information Bureau",
+      "date": "22 Oct 2026, 07:33 PM"
     },
     {
       "title": "Iron ore-laden truck catches fire in Sundargarh - ODISHA RAY",
@@ -29,28 +23,34 @@ window.NEWS_DATA = {
       "date": "17 Oct 2026, 09:05 AM"
     },
     {
-      "title": "Elephant found dead in agricultural field in Sundargarh, electrocution suspected - odishanewslens.com",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BVmRneVN1MDRSQ1lRMXNpVXRfZEJJU05NaG1xVkFTLWlMX245LTZJZV9ITndVSm9mOTFvS0REQ0dfRElUb3FVZDRQZ2dMOWp1a0xva1ZySUMtWnRzNEJjemlzcUxJSnFYZDFwQw?oc=5",
-      "source": "odishanewslens.com",
-      "date": "21 Oct 2026, 10:47 PM"
-    },
-    {
-      "title": "TPWODL Invests ₹2.11 Crore to Strengthen Power Reliability across Rourkela - Odisha Diary",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYl85STcxTVpUYll1LUNCY2FfcnR2cUNUQ3N5TzIwSXBuZmpVWVg5SWFOb1cxZUZrUG5jY1c2RDgza2VHaFRBbEVvck9ja3lFU0hqZG9nX3hIYk1pOU9aMFA4S05tQlJ2azRwZmp2eFZRcGhvQ1UzMWUtNnVwQWVSMUV2dWdCcGhJQUw4STJ1MnBLd1FfNXhuQ0lkVTZRUU5qOUQyalZhVnJwOE0?oc=5",
-      "source": "Odisha Diary",
-      "date": "15 Oct 2026, 01:58 PM"
+      "title": "Tripartite MoU signed to boost ST youth livelihoods in Odisha - The News Mill",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdHRPX0t1WXI3VGl3Y2xpRDVONGZ3dFJaU2k2TmpCSzE0ckh6Z3YyMFQxNXktb01aa2FROFpvVXM5NmFvc2ZyZV9vZDZ3SGhDYmVtdzJLUHNJOVpnQ01KSFZudUQzVmZ3SUVkNWMxV1pNWVZsQ25JNU1kbWluNWtoSVBOSGRaUGJ2cmR2NENvbmt4UkczZjdULXZFdzhLR2pmZ3JFWkdlbnpmZFlUVUdDVkR3R0trdEpIWG8zeVR0djZfbVJ6?oc=5",
+      "source": "The News Mill",
+      "date": "22 Oct 2026, 09:02 PM"
     },
     {
       "title": "Gold Rate Today in Sundargarh 22nd October 2026 : 22 & 24 Carat, Todays Gold Price in Sundargarh - Business Today",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xSFZJN0pSdzY4TGFxQ3FVdng4LUFudWhCSjVSQ0lZTGItT24xREIwZS04c3c3VDVSaUpDM201alNqcFlENUtIUDZybEM5VXdSUmtnaGphVTFueDIwbndMMHQ0Y1BFbjdLWVBIaW5GMy1FOVYwVlg0?oc=5",
       "source": "Business Today",
-      "date": "22 Oct 2026, 07:55 AM"
+      "date": "22 Oct 2026, 08:41 PM"
     },
     {
-      "title": "Tusker herd disrupts train services on Howrah-Mum line in Rourkela - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdnMtY3ZCZldNR2J0SVJ4VmlYNUNtcEU2dEJnOEg1Y2VCRTdfTTROT1ZxR0g1cDVyMGYwczZWcHNjb0p2MkJyRmVYRkV2SjBPQVFYekJ2UnB3ZzN4Tm9pY294V1BQc25sbzc5bmxrSjZNTWhNUjlSSDlxQ25JSUNESVpnc0lIU29RZjBWc1A0amhTWDd3eU9jYVEwam1IdHZpWng1ZUNxZlFfa09CWEJsSEVETFBoMmxwemEwNkJKc09pTXFGMzRoVWw2S3hFalZxZGxWT2h4NmNhdF90bHfSAeMBQVVfeXFMT0YwNEUxeHByUWpSaHpUM05HSE9DVmxuNFNMTDJvOGNNazkxcFhEUnVJLTR3NF9jOGxWSlBTVF9QeVphOTdBZGFxWGFpNW9raWhRQ01nOFB1ZDZfem5hYUVmMWczbW5JRHo3T3FHQVM4bGxrZWRJbXVpTmxZWXdHOU5qakxkSHZpTHZiNC1ZZkdiMi1HY3BtbVhjbkwzeWM2dHRLVGZabUtqYW1CZFlLZC1xZjFJUjNUTzJHUEZjTTFEMkFObVJTMXBBSXpKakFqZGx4UHI0RDF3bW1JeE96cWVtTTQ?oc=5",
+      "title": "3 killed in car-truck collision in Sundargarh - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd0k0b2tNWGhtdlNrc0JVQUtRdC1EWjl1WUtaVUlpRXJ4QzhzY3A3Sk9vd09PRmdkS1JGQTVCaVBMbkdiWURvX3Q0enVCWGtJSXFYV0x2VFB6c0pDbVRtNk9ZVlQ0aXdOcE5ya2lodUs5Zmxjci1Gd193ZlZ0QWR3TklVcHpFRHlXTzU4d2hTWXhLTHpteGh3SUpwVXpTZWR4UWRQZUkyMFI5VUcxWml4LVlCYTNjRjU0VHhnMzF2RlNEZ9IBxwFBVV95cUxOMWpjR3dUTGZFOGpiN3IxYzFlaVVOQnRMUEhLZEdOQlkweFNSS0NkYzVGQzE3c2ZacnJrN0wxdkxhNFp5U0NWNzFYOFZVX3FCcnZvQTRoVmVRTVBjQXJkMzg4VmhhVVlxUHlYbkhEdHpUb3RhUUZEX0dGZVU0SG5Mc294NW1JQ2VsYkRGckdud1F2UW5la1BEWmN1Mzh1c2hNMFpEOWVFTWhBX0UxSW44RUxVcXNDdkpVX01jYlY1Z1NYMExBZlgw?oc=5",
       "source": "The Times of India",
-      "date": "18 Oct 2026, 11:17 PM"
+      "date": "22 Oct 2026, 11:16 PM"
+    },
+    {
+      "title": "Odisha rewards India’s Asian Games Hockey champions with ₹5.61 Crore - Indian Sports Home",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRUJ4WWdmMmtELXlDY2ZNeUh6MDRyNC00TTdsVi00Wjd3Vi1NcjJGRTBzTEZOUVN1Y3BEVVowWFp3S2tkMWJpRWdHU0JveFRUWGpPc3JGMFA3NVZPclFBQUZBTWdUeHJnLWdsMWNKMFo2VzJOcTByRTAtb253cVhxdHRNc21HMFVvTllhV9IBkgFBVV95cUxQUnM2TEpfaDJqWVRBYng1Yjh4ZUNOdHZRTE1rZ1MzYU41ck1hTGljZHdGcjR6ZlcxWDVXZGxaUHVjMnRaQXJUdVRCSl9OMTIxTExNdEM1MVZKNGgzU0h2N0wyc3VMcGljWFI5MHVFMTFoWG1FM1RGcUw5RkthRzlpdHVGVk9TaWJyeTRPWHRYU2Mzdw?oc=5",
+      "source": "Indian Sports Home",
+      "date": "17 Oct 2026, 08:43 PM"
+    },
+    {
+      "title": "Forest team faces wrath of villagers after tusker death in Odisha - The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ254bVYybUVCdVh3dDB5TzYtMTlsZDIzQVRqOFg5R1lEZDFPb09QRFZQbUQzSF9NVE5wZUNQQVFFRThkNXFQeUpCcTBwVE1SbGZrdkl3QU1OUmFiX2ZBaXBSc0JhTks3NkVEMWNOOW82V2ZQYWtGV1VOSmMxd29SS0lNNGNBRXNMV3p1X2hSRDR5aVFFZGxuTnc3dnBxRFJvTmhjYUhxNy1HNEp0SXVoZkZUZXFNeFBxVGVqNkQ4LVdkUdIBzwFBVV95cUxQYVloaEpLODluZ2p3U19Wbk1hT3pYZ3JlS2JVZ1JjWnh6MUZEb2p1VXI0d1RvdV82Y2hLbWpKamxwNkF5a2pWR2Qta05UUXRidld3NUFQV0xkbTlQMjlRQUtIYVJkRVNTWXVVUlNSZ0VOM1ViX3NUaGJQVnlOOGQ3Nkt5N2cxeG1hNTgxNGkzVlBBUzZxRGxzODdETE5sNWI0dUZ6RUN4bDhUVVlHdzZieEl0b0RudjFDYmt0ckl2SU9BZkpQWWhuay1qVU5QX3M?oc=5",
+      "source": "The New Indian Express",
+      "date": "22 Oct 2026, 09:11 AM"
     }
   ]
 };
