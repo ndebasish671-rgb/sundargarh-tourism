@@ -1,46 +1,46 @@
 /* Updated daily by GitHub Actions (.github/workflows/daily-sync.yml) */
 window.WEATHER_DATA = {
-  "updated": "23 Oct 2026, 10:45 AM IST",
+  "updated": "24 Oct 2026, 10:26 AM IST",
   "location": "Sundargarh, Odisha",
   "source": "Open-Meteo",
   "current": {
-    "temp": 29,
-    "humidity": 56,
+    "temp": 28,
+    "humidity": 63,
     "weather_code": 0,
-    "wind": 4
+    "wind": 8
   },
   "daily": [
     {
       "label": "Today",
-      "date": "2026-10-23",
-      "day": "Fri 23",
-      "weather_code": 2,
-      "tmax": 31,
-      "tmin": 21
-    },
-    {
-      "label": "Tomorrow",
       "date": "2026-10-24",
       "day": "Sat 24",
-      "weather_code": 2,
+      "weather_code": 0,
       "tmax": 30,
       "tmin": 20
     },
     {
-      "label": "Day 3",
+      "label": "Tomorrow",
       "date": "2026-10-25",
       "day": "Sun 25",
-      "weather_code": 0,
+      "weather_code": 1,
       "tmax": 30,
       "tmin": 19
     },
     {
-      "label": "Day 4",
+      "label": "Day 3",
       "date": "2026-10-26",
       "day": "Mon 26",
       "weather_code": 3,
-      "tmax": 30,
-      "tmin": 19
+      "tmax": 29,
+      "tmin": 18
+    },
+    {
+      "label": "Day 4",
+      "date": "2026-10-27",
+      "day": "Tue 27",
+      "weather_code": 51,
+      "tmax": 32,
+      "tmin": 21
     }
   ]
 };

@@ -1,6 +1,6 @@
 /* Updated daily by GitHub Actions (.github/workflows/daily-sync.yml) */
 window.NEWS_DATA = {
-  "updated": "23 Oct 2026, 10:45 AM IST",
+  "updated": "24 Oct 2026, 10:26 AM IST",
   "source": "Google News RSS",
   "query": "Sundargarh OR Rourkela Odisha when:7d",
   "items": [
@@ -11,16 +11,22 @@ window.NEWS_DATA = {
       "date": "22 Oct 2026, 07:33 PM"
     },
     {
-      "title": "Iron ore-laden truck catches fire in Sundargarh - ODISHA RAY",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9maFJpRXl2cTByclRXLUZvckNOX2R4NGNJTFhvZmR2Rk93YjZMM3VfbjRaLTZyNUYwNkhFZGk5MVp3UGs?oc=5",
-      "source": "ODISHA RAY",
-      "date": "17 Oct 2026, 08:55 AM"
+      "title": "Scrub Typhus Death In Sundargarh | One More Casualty In Odisha - Kanak News Odisha",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbE43cEdGX3NhQm5HOGszLWNwYzFDRk9ncG1UQ1dkMlBPZXdhVnlIOUVOaTBpaFo1ZmhWcDhPQzlmUFNBUW04VDFnMWswQU8zbHFtTExHZ0RzMkd2Z0JXTHJQaVBySW5jYU8xYTFYOE14UGZJVlFmUzJXSzdQbFgtMkdzYmR5REFxQkJqMXRvR3RzbTNXOUZiUzV5cThxZFVvN2hRcVBpaUZTNzhianfSAa4BQVVfeXFMT2xON3BHRl9zYUJuRzhrMy1jcGMxQ0ZPZ3BtVENXZDJQT2V3YVZ5SDlFTmkwaWhaNWZoVnA4T0M5ZlBTQVFtOFQxZzFrMEFPM2xxbUxMR2dEczJHdmdCV0xyUGlQckluY2FPMWExWDhNeFBmSVZRZlMyV0s3UGxYLTJHc2JkeURBcUJCajF0b0d0c20zVzlGYlM1eXE4cWRVbzdoUXFQaWlGUzc4Ymp3?oc=5",
+      "source": "Kanak News Odisha",
+      "date": "24 Oct 2026, 07:35 AM"
     },
     {
-      "title": "Fresh tender for stalled ROB project at Odisha's Kalunga - The New Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN1NSV1Z6Vm9yd0FxMUJ0Tm4xU1J2LUVCbXd2bS1JSUY0bk1hSDJrWXdyTVVGVk9aMXlZRzNFN0xYVmF1SlotanhEOTd3MXpFbHRYd01OdXhFSlktVUZQVXJCRHZHdHZZRGN6ZHVjRXBPUkRRZUd0Zy1ZOW1MUVdWT3Y1elpRdDFYS044MThBcmFJZzlmQU91dXRvS252aFh1U2xJUHhKQ2ZCdVBNWkZ2R2JvTTLSAcIBQVVfeXFMTTc1QWxOMjktSGx4XzZISEJJTDhSUUEzZWZGSFdmRG4wdHJ0RlVGYjdYS2t2bURLWmxvNGhVeXVSNTRpZVVjbmRrX2luZV9qTnFqWVBQbVdiZ3FhbEZlQlQxZTh2TWZ2UTI3M1ItUnE4UkNSNU9mSmduV0hkNWZZbXNZQV9seTdVR3YxY1dvSF9tYTlaVEdQSG1PeWx5Y3FJRHI4bWpDUDJoaFJJTWVkV0FIOS1kSEZuc0lQTUZRUVQxM0E?oc=5",
-      "source": "The New Indian Express",
-      "date": "17 Oct 2026, 09:05 AM"
+      "title": "Weather forecast and conditions for Jabaghat, Rourkela, Odisha - The Weather Channel | weather.com - The Weather Channel",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kMFphM3hzblJlY3Z0dmVRUlBIWDlQNEphZGZyRjJNdG9yaEFIV3BpS09IMTVqeFhLbkhLYXo4QTlNYy04WjhDYUU3RkdhV3ZnU3k2ZEgwc2FHSDZZbVRXMXM3TVBVSklNUW1CeEZBeFNXaklOYWRr?oc=5",
+      "source": "The Weather Channel",
+      "date": "18 Oct 2026, 01:22 AM"
+    },
+    {
+      "title": "NIT Rourkela Cutoff 2026 (Out): Check JEE Main Round & Year-Wise Cutoff Trends - Shiksha.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNck4xaUdNWWFWT0xsNVoxTDhqV1pBd0t5cDBPUm1ia2hOQmk1Y3h6My1VT3MyS2x5d2ZpMlk3Nld6TnRvSm5GOUFtTUhXV2ZaY1I3WnYxek9wbmtCbWEwWDhWUHhZbXRmVFlNT01VeG1SbWRmNGg5aFdQZUQta2MzVGVZNzVKejlEZ1hxaUswLWZabkRYZ3VUZQ?oc=5",
+      "source": "Shiksha.com",
+      "date": "21 Oct 2026, 12:30 PM"
     },
     {
       "title": "Tripartite MoU signed to boost ST youth livelihoods in Odisha - The News Mill",
@@ -29,28 +35,22 @@ window.NEWS_DATA = {
       "date": "22 Oct 2026, 09:02 PM"
     },
     {
-      "title": "Gold Rate Today in Sundargarh 22nd October 2026 : 22 & 24 Carat, Todays Gold Price in Sundargarh - Business Today",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xSFZJN0pSdzY4TGFxQ3FVdng4LUFudWhCSjVSQ0lZTGItT24xREIwZS04c3c3VDVSaUpDM201alNqcFlENUtIUDZybEM5VXdSUmtnaGphVTFueDIwbndMMHQ0Y1BFbjdLWVBIaW5GMy1FOVYwVlg0?oc=5",
-      "source": "Business Today",
-      "date": "22 Oct 2026, 08:41 PM"
-    },
-    {
-      "title": "3 killed in car-truck collision in Sundargarh - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd0k0b2tNWGhtdlNrc0JVQUtRdC1EWjl1WUtaVUlpRXJ4QzhzY3A3Sk9vd09PRmdkS1JGQTVCaVBMbkdiWURvX3Q0enVCWGtJSXFYV0x2VFB6c0pDbVRtNk9ZVlQ0aXdOcE5ya2lodUs5Zmxjci1Gd193ZlZ0QWR3TklVcHpFRHlXTzU4d2hTWXhLTHpteGh3SUpwVXpTZWR4UWRQZUkyMFI5VUcxWml4LVlCYTNjRjU0VHhnMzF2RlNEZ9IBxwFBVV95cUxOMWpjR3dUTGZFOGpiN3IxYzFlaVVOQnRMUEhLZEdOQlkweFNSS0NkYzVGQzE3c2ZacnJrN0wxdkxhNFp5U0NWNzFYOFZVX3FCcnZvQTRoVmVRTVBjQXJkMzg4VmhhVVlxUHlYbkhEdHpUb3RhUUZEX0dGZVU0SG5Mc294NW1JQ2VsYkRGckdud1F2UW5la1BEWmN1Mzh1c2hNMFpEOWVFTWhBX0UxSW44RUxVcXNDdkpVX01jYlY1Z1NYMExBZlgw?oc=5",
-      "source": "The Times of India",
-      "date": "22 Oct 2026, 11:16 PM"
-    },
-    {
-      "title": "Odisha rewards India’s Asian Games Hockey champions with ₹5.61 Crore - Indian Sports Home",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRUJ4WWdmMmtELXlDY2ZNeUh6MDRyNC00TTdsVi00Wjd3Vi1NcjJGRTBzTEZOUVN1Y3BEVVowWFp3S2tkMWJpRWdHU0JveFRUWGpPc3JGMFA3NVZPclFBQUZBTWdUeHJnLWdsMWNKMFo2VzJOcTByRTAtb253cVhxdHRNc21HMFVvTllhV9IBkgFBVV95cUxQUnM2TEpfaDJqWVRBYng1Yjh4ZUNOdHZRTE1rZ1MzYU41ck1hTGljZHdGcjR6ZlcxWDVXZGxaUHVjMnRaQXJUdVRCSl9OMTIxTExNdEM1MVZKNGgzU0h2N0wyc3VMcGljWFI5MHVFMTFoWG1FM1RGcUw5RkthRzlpdHVGVk9TaWJyeTRPWHRYU2Mzdw?oc=5",
-      "source": "Indian Sports Home",
-      "date": "17 Oct 2026, 08:43 PM"
-    },
-    {
       "title": "Forest team faces wrath of villagers after tusker death in Odisha - The New Indian Express",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ254bVYybUVCdVh3dDB5TzYtMTlsZDIzQVRqOFg5R1lEZDFPb09QRFZQbUQzSF9NVE5wZUNQQVFFRThkNXFQeUpCcTBwVE1SbGZrdkl3QU1OUmFiX2ZBaXBSc0JhTks3NkVEMWNOOW82V2ZQYWtGV1VOSmMxd29SS0lNNGNBRXNMV3p1X2hSRDR5aVFFZGxuTnc3dnBxRFJvTmhjYUhxNy1HNEp0SXVoZkZUZXFNeFBxVGVqNkQ4LVdkUdIBzwFBVV95cUxQYVloaEpLODluZ2p3U19Wbk1hT3pYZ3JlS2JVZ1JjWnh6MUZEb2p1VXI0d1RvdV82Y2hLbWpKamxwNkF5a2pWR2Qta05UUXRidld3NUFQV0xkbTlQMjlRQUtIYVJkRVNTWXVVUlNSZ0VOM1ViX3NUaGJQVnlOOGQ3Nkt5N2cxeG1hNTgxNGkzVlBBUzZxRGxzODdETE5sNWI0dUZ6RUN4bDhUVVlHdzZieEl0b0RudjFDYmt0ckl2SU9BZkpQWWhuay1qVU5QX3M?oc=5",
       "source": "The New Indian Express",
       "date": "22 Oct 2026, 09:11 AM"
+    },
+    {
+      "title": "New MoU Backs Tribal Youth Training at Rourkela Incubation Centre - The Policy Edge",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWXAyUWVvS0RZTUpUWXd4TnZfdnpIR1A2cnJscU9mOXVtQ0ZNa0xhVklQeTNGRHhhWXh0RXViNFRQZERzWWlqRHAxLU41VG5UWXRuSkM2RmV6SWhhT0dWQ2ExS3FVSnFOcUJlMVgzZ3ZzWm51ZVlsNGlhWkg0cFdkWmFtY2ZJWlJ3WThxTXlJT2sxa0ZDellhZg?oc=5",
+      "source": "The Policy Edge",
+      "date": "23 Oct 2026, 04:55 PM"
+    },
+    {
+      "title": "Gold Rate Today in Sundargarh 24th October 2026 : 22 & 24 Carat, Todays Gold Price in Sundargarh - Business Today",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xSFZJN0pSdzY4TGFxQ3FVdng4LUFudWhCSjVSQ0lZTGItT24xREIwZS04c3c3VDVSaUpDM201alNqcFlENUtIUDZybEM5VXdSUmtnaGphVTFueDIwbndMMHQ0Y1BFbjdLWVBIaW5GMy1FOVYwVlg0?oc=5",
+      "source": "Business Today",
+      "date": "24 Oct 2026, 07:58 AM"
     }
   ]
 };
