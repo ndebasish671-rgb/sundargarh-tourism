@@ -1,13 +1,13 @@
 /* Updated daily by GitHub Actions (.github/workflows/daily-sync.yml) */
 window.NEWS_DATA = {
-  "updated": "24 Oct 2026, 10:26 AM IST",
+  "updated": "25 Oct 2026, 10:39 AM IST",
   "source": "Google News RSS",
   "query": "Sundargarh OR Rourkela Odisha when:7d",
   "items": [
     {
-      "title": "Tripartite MoU signed to strengthen livelihood opportunities for Scheduled Tribe youth - Press Information Bureau",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtOEdYU05qaXVmOTN0OWF3U2k5aldJVTBLSkY0ZUlmNmxudzhSS3BPOUlrOERMUzZxMzdHcEQ0OVRqQjhDYllQb0NMVzNXYkl4LUp1bkFkT0Y0MVNnNVJlZmthUQ?oc=5",
-      "source": "Press Information Bureau",
+      "title": "Tripartite MoU signed to strengthen livelihood opportunities for Scheduled Tribe youth - www.pib.gov.in",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIQlp5MGZNMHdwUGdRbk9QQ0thcjZQZG9kUURtUnhiUTk5TUN4QUxPWTlZQ1ZWNHNRdS1MUWpTRVFTcjNjUXN0eDhUREVBdHVYTC1wMzFSOHdOUDBZVGdXR1JDQnAwUDdT?oc=5",
+      "source": "www.pib.gov.in",
       "date": "22 Oct 2026, 07:33 PM"
     },
     {
@@ -15,12 +15,6 @@ window.NEWS_DATA = {
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbE43cEdGX3NhQm5HOGszLWNwYzFDRk9ncG1UQ1dkMlBPZXdhVnlIOUVOaTBpaFo1ZmhWcDhPQzlmUFNBUW04VDFnMWswQU8zbHFtTExHZ0RzMkd2Z0JXTHJQaVBySW5jYU8xYTFYOE14UGZJVlFmUzJXSzdQbFgtMkdzYmR5REFxQkJqMXRvR3RzbTNXOUZiUzV5cThxZFVvN2hRcVBpaUZTNzhianfSAa4BQVVfeXFMT2xON3BHRl9zYUJuRzhrMy1jcGMxQ0ZPZ3BtVENXZDJQT2V3YVZ5SDlFTmkwaWhaNWZoVnA4T0M5ZlBTQVFtOFQxZzFrMEFPM2xxbUxMR2dEczJHdmdCV0xyUGlQckluY2FPMWExWDhNeFBmSVZRZlMyV0s3UGxYLTJHc2JkeURBcUJCajF0b0d0c20zVzlGYlM1eXE4cWRVbzdoUXFQaWlGUzc4Ymp3?oc=5",
       "source": "Kanak News Odisha",
       "date": "24 Oct 2026, 07:35 AM"
-    },
-    {
-      "title": "Weather forecast and conditions for Jabaghat, Rourkela, Odisha - The Weather Channel | weather.com - The Weather Channel",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kMFphM3hzblJlY3Z0dmVRUlBIWDlQNEphZGZyRjJNdG9yaEFIV3BpS09IMTVqeFhLbkhLYXo4QTlNYy04WjhDYUU3RkdhV3ZnU3k2ZEgwc2FHSDZZbVRXMXM3TVBVSklNUW1CeEZBeFNXaklOYWRr?oc=5",
-      "source": "The Weather Channel",
-      "date": "18 Oct 2026, 01:22 AM"
     },
     {
       "title": "NIT Rourkela Cutoff 2026 (Out): Check JEE Main Round & Year-Wise Cutoff Trends - Shiksha.com",
@@ -47,10 +41,16 @@ window.NEWS_DATA = {
       "date": "23 Oct 2026, 04:55 PM"
     },
     {
-      "title": "Gold Rate Today in Sundargarh 24th October 2026 : 22 & 24 Carat, Todays Gold Price in Sundargarh - Business Today",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xSFZJN0pSdzY4TGFxQ3FVdng4LUFudWhCSjVSQ0lZTGItT24xREIwZS04c3c3VDVSaUpDM201alNqcFlENUtIUDZybEM5VXdSUmtnaGphVTFueDIwbndMMHQ0Y1BFbjdLWVBIaW5GMy1FOVYwVlg0?oc=5",
-      "source": "Business Today",
-      "date": "24 Oct 2026, 07:58 AM"
+      "title": "Sundargarh farmer dies of scrub typhus after hospital discharge - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQalRjNW45U2lxNTlQTUVwUEtDNW1MT1piYTctRkotRk03cUI1UXI1dm1oRlVfT3NkVnBkMmdOMWswejNuZERTeG95THE3NG1LaS1tN25qOWtITkttN3JlVkFNT2liOUhneHVuLUI3NlE2ajRZSEdqSVNaZk1FLXZyaHF3WkRyUjlFVHBiVjhrVnJ4MGJDMEpZd3dBWDk2SlNUeDRQMnJmbjBLTW5CR25XVU5oTFZGc0ttUEhXY2pTODIzcVRBMUczM2JqVXc4amtCWTRWM1BaVUYwQdIB3wFBVV95cUxQM0JZQ2szSE1wcGh0ZlFyd0JkaUdyRmxpTnVwTzJwbm9adEZNd2ViOVVoVjNMd2Z1d0ZpM093NThUQXFQZHptSWpqSDVqUHNYUHVGSmI2bWs0YTdrb2FBeTFQb042SG5oZ0Y3VUtTQ0VkNmVmWFRMQTNqN2JOWWpLeGVXUUpWRk9BTVMzSV9FcllSdE0weGUzLWJZcEpydFU2LTRlcWl2OF9ST3F3SmJjMVktTU9aSkgzQWZ0LU5fb3lrd3RwQ2FzNjVXXzdtZWJVN0hXUHF5UXBVMk11ZW1Z?oc=5",
+      "source": "The Times of India",
+      "date": "25 Oct 2026, 12:20 AM"
+    },
+    {
+      "title": "Scrub Typhus claims 63-year-old man’s life in Sundargarh, raises health concerns - prameyanews.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdmxPRzhwSkhqOWFrcWxBbElsdUF3VVFYX01OZkZTVFdoOFVIYjhVQ2VNQVdlWjdabXB3UEhvQnZ5ZnlyTUk3LTZzclVuMlZicXU0T1pUb0lqMjdPa0NFQ21SNVQ5RFdxVGlJVkxNaWF0U1NyUkVxSjRkaFdlRkxWalFjejFNSTFEQlZiZ0Y5dUt5U20zSVZheWdfTEMtZ2U5SmtkS0x1dXVUQQ?oc=5",
+      "source": "prameyanews.com",
+      "date": "24 Oct 2026, 01:27 PM"
     }
   ]
 };
