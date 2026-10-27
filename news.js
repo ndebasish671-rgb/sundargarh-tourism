@@ -1,6 +1,6 @@
 /* Updated daily by GitHub Actions (.github/workflows/daily-sync.yml) */
 window.NEWS_DATA = {
-  "updated": "26 Oct 2026, 10:41 AM IST",
+  "updated": "27 Oct 2026, 10:59 AM IST",
   "source": "Google News RSS",
   "query": "Sundargarh OR Rourkela Odisha when:7d",
   "items": [
@@ -11,22 +11,16 @@ window.NEWS_DATA = {
       "date": "22 Oct 2026, 07:33 PM"
     },
     {
-      "title": "Scrub Typhus Death In Sundargarh | One More Casualty In Odisha - Kanak News Odisha",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbE43cEdGX3NhQm5HOGszLWNwYzFDRk9ncG1UQ1dkMlBPZXdhVnlIOUVOaTBpaFo1ZmhWcDhPQzlmUFNBUW04VDFnMWswQU8zbHFtTExHZ0RzMkd2Z0JXTHJQaVBySW5jYU8xYTFYOE14UGZJVlFmUzJXSzdQbFgtMkdzYmR5REFxQkJqMXRvR3RzbTNXOUZiUzV5cThxZFVvN2hRcVBpaUZTNzhianfSAa4BQVVfeXFMT2xON3BHRl9zYUJuRzhrMy1jcGMxQ0ZPZ3BtVENXZDJQT2V3YVZ5SDlFTmkwaWhaNWZoVnA4T0M5ZlBTQVFtOFQxZzFrMEFPM2xxbUxMR2dEczJHdmdCV0xyUGlQckluY2FPMWExWDhNeFBmSVZRZlMyV0s3UGxYLTJHc2JkeURBcUJCajF0b0d0c20zVzlGYlM1eXE4cWRVbzdoUXFQaWlGUzc4Ymp3?oc=5",
-      "source": "Kanak News Odisha",
-      "date": "24 Oct 2026, 07:35 AM"
-    },
-    {
-      "title": "Two drivers burnt alive as trailers catch fire after head-on collision in Odisha's Sundargarh - The New Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPb2cyZUhTU3ZoQW94WVk3eGdOVEJsMnVyc2FNYXhtTlBWZnZhaFItYXktWHk2enFzWkF3RXowa1J5NVltd05lOXcxdUsyNTRxX2FVTExBZS15ZVNtbEpKR0EydzZYNWlsYVRibDhKV2tIUmJQNHFRWkUzNC1sMFVCVnNKN0dlMGhOd29RRlBBMTJlWGM1SXphMUVCZmNLV192dzhaWUx2REFSUkFuZnFzNzhWd2toMnJ4c1k5bUR5V2cxZFFPc0d5MVhOSDRrazVicVQ4ZDNpaW5uQlFmUnJPNzd4Tkx3d9IB8wFBVV95cUxPNjEtelpFRE1nNC14WHVuanJqcjA3UDQzaVNPcnFKaS1iNzFCTk8yU0hnT1AtNGtZXzVmdF8tOWFvaFVaMkdRWmMzaTBaWkd5N3I5WFFmeFQtRUNqMDVjRXFjeG1aNUUtd2tYOTFPT3dnN1pnN1duVU5rX25kUXJaX3FYUkRReG4zbTZEMjJ6TnZqMVo0NWNlbDQwTnhiVGpaNzQwY3lpOTk0dkRMN2staUJhcmpDQWxhYUh2dHFibzVUV3J5a3JJWXlwRXVHSTVQb25hLVlhbmY3N1RLOWdFdlVKVmlDaU1wRHBNc0tCLUV5Q28?oc=5",
+      "title": "Two truck drivers charred to death after head-on collision in Odisha’s Sundargarh - The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZWVxb0Fhb2dQZmUxOFdKQ2NlSXFSM0YycllKYUt0R21LUTg1Z0NBeXhRQnFldkZpZ3NDd2lXeHJ3VEdHanR6RHZMZFNYc3dWYlBVclRoTEswYUJJakdBbDhJbGpibEt1UXUyck96QXlsSXBjNHJyZkJrRDcta25KOThLajh0YjMzazZxV3haUzF0VHFNYkF5X1JiVnI1bWlhMEZnOG5LTzlXb1pjd29WS3pOS3lyX3p4Y0R3MS1wZHB4QkR4SHRNVnpyMHNFN0Z1T25SdThB0gHjAUFVX3lxTFBqWVFzYjlVUHhVZXRaVVVuejUyRXJ1d1dpMTMzSGxxWnoyYjc2YllabTFTR0wxWHF0VTk5SW5zSmZ2dXY5TkhielRIT1dPNEYxSkU5a1g3eGhiN0xxUnJ4NF8wNm8ya2hEUGJFWEtfY2NGMEFjdFNCcnI4Yzg3NElsb2k3OW5kNzlDeFU4M21nX00waEcwb3cyR2Y2ekZqOHhVd1lKVEdjRWYzRTVYblBqLVdKLWNZeXJHVDJHV3pfa05kSW9NZHVDR3JtbDBfZ1FVcXVwUWJ1b1RVNXVMd05waUtF?oc=5",
       "source": "The New Indian Express",
-      "date": "25 Oct 2026, 03:12 PM"
+      "date": "26 Oct 2026, 08:08 AM"
     },
     {
-      "title": "NIT Rourkela Cutoff 2026 (Out): Check JEE Main Round & Year-Wise Cutoff Trends - Shiksha.com",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNck4xaUdNWWFWT0xsNVoxTDhqV1pBd0t5cDBPUm1ia2hOQmk1Y3h6My1VT3MyS2x5d2ZpMlk3Nld6TnRvSm5GOUFtTUhXV2ZaY1I3WnYxek9wbmtCbWEwWDhWUHhZbXRmVFlNT01VeG1SbWRmNGg5aFdQZUQta2MzVGVZNzVKejlEZ1hxaUswLWZabkRYZ3VUZQ?oc=5",
-      "source": "Shiksha.com",
-      "date": "21 Oct 2026, 12:30 PM"
+      "title": "As Cyclone Arnab nears, Odisha govt braces for its impact - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOVFlMkN5X2xiOGJXN1ozX1MyMFptaWFnc0JpRUZJekZuZF95VXRlYkJxOEJ3amdxN3hDRkVjRjYxSGdlZHFFYmlCM3dwREZyR3NyU2hrX0h0S3A2U0ZQMlpMNENzcFhYX2djRXI2Vi02Wl8yeHFlY21vZl8xRXIxTlBNR2I4b09ESVJES1lFaTNUWlVlcXdGQjRnWEF0MmFIdXFjUU5HYUktVE9LdTlZeGtiVTZDazV3X0tLSFpZVjZrNEZSYUFSNmhEUGlrMnFO0gHWAUFVX3lxTE5RVUE4MHdoWTRRRERKNjlwTnVxdkZoYk4xRFA2d2xYUXN4Q202eUM5NVNHNVl3UFRrY01oc1VpWWNnUHQ0bWJ5c2c5b24zMlpTTEVpY0hJcVJ0Y21NNGpUcTJadGJZRXpEcEVYWUlSNWFaR1FPVmZ4ZnVLa1AwYUhSWjJNWW9nN05jSTQ3TS1IZTFTdmExTno5cWFEX1poUVM0RDkzRlR2UElucEIyVk9RcFdHaDUtUXNVb0J1b2RSNlpGbWdZZVBXWTNpZEg1OExBN3JjUGc?oc=5",
+      "source": "The Times of India",
+      "date": "26 Oct 2026, 12:09 AM"
     },
     {
       "title": "Tripartite MoU signed to boost ST youth livelihoods in Odisha - The News Mill",
@@ -35,22 +29,28 @@ window.NEWS_DATA = {
       "date": "22 Oct 2026, 09:02 PM"
     },
     {
+      "title": "Two truck drivers charred to death in head-on collision in Odisha - ThePrint",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcFRvdFJRNVdKNlZyTDJqX3haZkgzVEhVcWg3T2paenNDU1BiTkpHdXRGZ2hhX0hVdGhIQmc5a3g4X2FfTlJyN3RaM2xwTDNrOE5PQktXRFNqd01mbVlsQ1VHNlByelVKdVZVNXM1d1JDOXhQQk9YR1FNWU1WSnltZ09FZ3FXdmNQcDhIOTlwWXp6UmtNcVRmMDFHTHJCWlk2blFka2dfTdIBpwFBVV95cUxOcFRvdFJRNVdKNlZyTDJqX3haZkgzVEhVcWg3T2paenNDU1BiTkpHdXRGZ2hhX0hVdGhIQmc5a3g4X2FfTlJyN3RaM2xwTDNrOE5PQktXRFNqd01mbVlsQ1VHNlByelVKdVZVNXM1d1JDOXhQQk9YR1FNWU1WSnltZ09FZ3FXdmNQcDhIOTlwWXp6UmtNcVRmMDFHTHJCWlk2blFka2dfTQ?oc=5",
+      "source": "ThePrint",
+      "date": "26 Oct 2026, 07:19 PM"
+    },
+    {
       "title": "New MoU Backs Tribal Youth Training at Rourkela Incubation Centre - The Policy Edge",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWXAyUWVvS0RZTUpUWXd4TnZfdnpIR1A2cnJscU9mOXVtQ0ZNa0xhVklQeTNGRHhhWXh0RXViNFRQZERzWWlqRHAxLU41VG5UWXRuSkM2RmV6SWhhT0dWQ2ExS3FVSnFOcUJlMVgzZ3ZzWm51ZVlsNGlhWkg0cFdkWmFtY2ZJWlJ3WThxTXlJT2sxa0ZDellhZg?oc=5",
       "source": "The Policy Edge",
       "date": "23 Oct 2026, 04:55 PM"
     },
     {
-      "title": "Sundargarh farmer dies of scrub typhus after hospital discharge - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQalRjNW45U2lxNTlQTUVwUEtDNW1MT1piYTctRkotRk03cUI1UXI1dm1oRlVfT3NkVnBkMmdOMWswejNuZERTeG95THE3NG1LaS1tN25qOWtITkttN3JlVkFNT2liOUhneHVuLUI3NlE2ajRZSEdqSVNaZk1FLXZyaHF3WkRyUjlFVHBiVjhrVnJ4MGJDMEpZd3dBWDk2SlNUeDRQMnJmbjBLTW5CR25XVU5oTFZGc0ttUEhXY2pTODIzcVRBMUczM2JqVXc4amtCWTRWM1BaVUYwQdIB3wFBVV95cUxQM0JZQ2szSE1wcGh0ZlFyd0JkaUdyRmxpTnVwTzJwbm9adEZNd2ViOVVoVjNMd2Z1d0ZpM093NThUQXFQZHptSWpqSDVqUHNYUHVGSmI2bWs0YTdrb2FBeTFQb042SG5oZ0Y3VUtTQ0VkNmVmWFRMQTNqN2JOWWpLeGVXUUpWRk9BTVMzSV9FcllSdE0weGUzLWJZcEpydFU2LTRlcWl2OF9ST3F3SmJjMVktTU9aSkgzQWZ0LU5fb3lrd3RwQ2FzNjVXXzdtZWJVN0hXUHF5UXBVMk11ZW1Z?oc=5",
-      "source": "The Times of India",
-      "date": "25 Oct 2026, 12:20 AM"
-    },
-    {
       "title": "Gold Rate Today in Sundargarh 26th October 2026 : 22 & 24 Carat, Todays Gold Price in Sundargarh - Business Today",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xSFZJN0pSdzY4TGFxQ3FVdng4LUFudWhCSjVSQ0lZTGItT24xREIwZS04c3c3VDVSaUpDM201alNqcFlENUtIUDZybEM5VXdSUmtnaGphVTFueDIwbndMMHQ0Y1BFbjdLWVBIaW5GMy1FOVYwVlg0?oc=5",
       "source": "Business Today",
-      "date": "26 Oct 2026, 01:50 AM"
+      "date": "26 Oct 2026, 03:37 PM"
+    },
+    {
+      "title": "Scrub Typhus claims 63-year-old man’s life in Sundargarh, raises health concerns - prameyanews.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdmxPRzhwSkhqOWFrcWxBbElsdUF3VVFYX01OZkZTVFdoOFVIYjhVQ2VNQVdlWjdabXB3UEhvQnZ5ZnlyTUk3LTZzclVuMlZicXU0T1pUb0lqMjdPa0NFQ21SNVQ5RFdxVGlJVkxNaWF0U1NyUkVxSjRkaFdlRkxWalFjejFNSTFEQlZiZ0Y5dUt5U20zSVZheWdfTEMtZ2U5SmtkS0x1dXVUQQ?oc=5",
+      "source": "prameyanews.com",
+      "date": "24 Oct 2026, 01:27 PM"
     }
   ]
 };
