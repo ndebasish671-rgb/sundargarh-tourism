@@ -1,6 +1,6 @@
 /* Updated daily by GitHub Actions (.github/workflows/daily-sync.yml) */
 window.NEWS_DATA = {
-  "updated": "27 Oct 2026, 10:59 AM IST",
+  "updated": "28 Oct 2026, 11:41 AM IST",
   "source": "Google News RSS",
   "query": "Sundargarh OR Rourkela Odisha when:7d",
   "items": [
@@ -11,10 +11,10 @@ window.NEWS_DATA = {
       "date": "22 Oct 2026, 07:33 PM"
     },
     {
-      "title": "Two truck drivers charred to death after head-on collision in Odisha’s Sundargarh - The New Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZWVxb0Fhb2dQZmUxOFdKQ2NlSXFSM0YycllKYUt0R21LUTg1Z0NBeXhRQnFldkZpZ3NDd2lXeHJ3VEdHanR6RHZMZFNYc3dWYlBVclRoTEswYUJJakdBbDhJbGpibEt1UXUyck96QXlsSXBjNHJyZkJrRDcta25KOThLajh0YjMzazZxV3haUzF0VHFNYkF5X1JiVnI1bWlhMEZnOG5LTzlXb1pjd29WS3pOS3lyX3p4Y0R3MS1wZHB4QkR4SHRNVnpyMHNFN0Z1T25SdThB0gHjAUFVX3lxTFBqWVFzYjlVUHhVZXRaVVVuejUyRXJ1d1dpMTMzSGxxWnoyYjc2YllabTFTR0wxWHF0VTk5SW5zSmZ2dXY5TkhielRIT1dPNEYxSkU5a1g3eGhiN0xxUnJ4NF8wNm8ya2hEUGJFWEtfY2NGMEFjdFNCcnI4Yzg3NElsb2k3OW5kNzlDeFU4M21nX00waEcwb3cyR2Y2ekZqOHhVd1lKVEdjRWYzRTVYblBqLVdKLWNZeXJHVDJHV3pfa05kSW9NZHVDR3JtbDBfZ1FVcXVwUWJ1b1RVNXVMd05waUtF?oc=5",
+      "title": "Odisha: Facing moisture stress risk, Sundargarh paddy farmers pin rain hopes on Arnab - The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaWozWTBhMi1JRXpTUkY4TFJIZUNrc0sxNDhucEJYdnZ0NXJXUWJBNWtPMWp4TkNBMmdCY25oTUwxckF1MzZPNlRPb1o0ZDRPalhLY1VXSU81SG9wRVNWT0VUMjI1VDZWbXlzZjRMdnlXQWhVajRhNmNKYTdCYldxUVc0WHdEbGRmaVFsRkF4X3k5ZjVjUUlFd20yaDhPODZyNHhNeVdtaEFPRzcxN0N3T01Mc19VZlg2WmQyZ3N0TENxT3FhQVhWd0lKbTdacGlGcGluZkpBQUh4d9IB5wFBVV95cUxNUlg0b3hUYlRsY05lYU9wMXBxa1RnRm5RcGJkUEVqM0pJVGdpWnluSU13eTFXQklPUjluRG1tWFdPSjBVUjJKMUlkQTcybEtVXy11bEJlbVBuV0JIRm9wTnFleE5idHJZWURHWUJReDY4T2ZKSWJvLUZxcFp0ZmpRczhVMVJFTE9kSFpiWTQzOFJXWlh5dnJabnlsT1liaXQ3dFVvY05MZ05JREtxXzNpd1RNWmJLVFh1ZzJtTV94WlJwelZrT1E5SFlES2V2eEtpVlREWHBoNzlreENlVjRZS3JYYUprMWs?oc=5",
       "source": "The New Indian Express",
-      "date": "26 Oct 2026, 08:08 AM"
+      "date": "28 Oct 2026, 08:49 AM"
     },
     {
       "title": "As Cyclone Arnab nears, Odisha govt braces for its impact - The Times of India",
@@ -41,10 +41,10 @@ window.NEWS_DATA = {
       "date": "23 Oct 2026, 04:55 PM"
     },
     {
-      "title": "Gold Rate Today in Sundargarh 26th October 2026 : 22 & 24 Carat, Todays Gold Price in Sundargarh - Business Today",
+      "title": "Gold Rate Today in Sundargarh 28th October 2026 : 22 & 24 Carat, Todays Gold Price in Sundargarh - Business Today",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xSFZJN0pSdzY4TGFxQ3FVdng4LUFudWhCSjVSQ0lZTGItT24xREIwZS04c3c3VDVSaUpDM201alNqcFlENUtIUDZybEM5VXdSUmtnaGphVTFueDIwbndMMHQ0Y1BFbjdLWVBIaW5GMy1FOVYwVlg0?oc=5",
       "source": "Business Today",
-      "date": "26 Oct 2026, 03:37 PM"
+      "date": "28 Oct 2026, 01:40 AM"
     },
     {
       "title": "Scrub Typhus claims 63-year-old man’s life in Sundargarh, raises health concerns - prameyanews.com",
