@@ -1,20 +1,26 @@
 /* Updated daily by GitHub Actions (.github/workflows/daily-sync.yml) */
 window.NEWS_DATA = {
-  "updated": "31 Oct 2026, 11:41 AM IST",
+  "updated": "01 Nov 2026, 12:13 PM IST",
   "source": "Google News RSS",
   "query": "Sundargarh OR Rourkela Odisha when:7d",
   "items": [
-    {
-      "title": "Odisha Under-23s vs Himachal Pradesh U23 at Sundargarh, Col C K Nayudu Trophy Elite, 2-5 Feb 2027 - BCCI",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbEtXd192LVJjVzRBQUhTSVRKSjVsRWZiSnJRM0MyVllWSjJfbFJWQjBEYmpIdnhRdVNOSEx2aXNrMlNxNS1rZUhNTFNUbXlOVFhKQTc4QXFaU0daVHBiaWJXRkNkbEV2TGF3VV9mMEJCX2ljTndLR1JXbk0tU3V3YUZDRjNPU3U3d1Z3VkRXaEk1bFRlU2dMSmVlNE9ucTUzTWd2V3NUeGRNUG1YYjd1MlpLQ0VaRUxPQWQweA?oc=5",
-      "source": "BCCI",
-      "date": "30 Oct 2026, 06:05 AM"
-    },
     {
       "title": "Proposed key rail line through Odisha's Sundargarh awaits nod - The New Indian Express",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOHpVY2FnUmVZQVNyTEszaTFnV3c2N3JYd3I1LXFVOXFMaDhwMy1Ob2FweV80aTFIUXVHTDdvaWhfOXM1Vk5yOVZMcE1Bb1hpcGhfOGgxbGQ4RVFPbmJ6cnlwb0QtbkgyLWR0MTRMZ1pqTVRabTdFM2FLRzh3VHV0VjQtOHhuR3VQY0N4enJVX2QyanFmaS1ISWdkLWcwdzdiSzhsWUNxM08tNENZNzRaNXBlQTFNQ0xDcnhF0gHIAUFVX3lxTE1hZ3o4VkhjVmtxQ1daaEZWMTY3amgzTnNiQ2ZQTVR5TU5ld2NJOUN5OEdkQnlLVW1MOGJGSmhweU9QMkN0UG52TkRxc05OWTRrSk9ZUF9ZaVZhbjFXRldDLWw5aFJQclJsX09Ra2FSSVFUcGQ3aU9iOGItMjM3QzVRRkNZZlVLUm9obUxzVkpvSV9FRWpCSXEybTF0ZlRjRWU0RGw4MWp3ZGlrMmc1enM5OWxwNGZOdUk0RnBvUGRRYXNxTmlpUmhT?oc=5",
       "source": "The New Indian Express",
       "date": "30 Oct 2026, 09:19 AM"
+    },
+    {
+      "title": "Odisha braces for cyclone Arnab, shuts schools, cancels trains; airports on alert - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdER0RXV0UGJOa1I0QjFqNnJERHYyQlJJb3llcGk3NVVGLTVHV3hBQkVKM0RIUFJ3eE9ySmlYY3dPaFhzY0hwYVc1bXZRbFBaRmdCekxjTjUzSWNGLTYwTWlPTFdNZHdDN18yVGtsa0JJcGNtNWpGVV93VWRLVjdXWkNBVjNPZU96WmlvbWYwU01ScjBYYVFuNU1EQzc0Z0YyQWdzTU5oNHJtM29udzZrcVVkbnBaYmo2OXZneTA2eUNha0wtT1h4eVBBSUoxY1BLdE5qT29vUmliUGhZUklXZXdnRFBOSlB5QjhrZVJR0gHzAUFVX3lxTFBYMXRNbWxKTVdjc1hUT1NzcFNtSGlvbFBCb3FOLWFDZnZJUzJTOFIyejlDcGdDRTdCRWNGaUtHOEpaMHFialFwRkQxT1QzRnJ3bEVId3ZZNVFmVDJzTmhFaFVhaWxYczFTSzZFanYyVy0ybWN3VTZXZVctQ1hVbG1OdlN1WWdnMWNuMnFxQmdPb3A1ajZNZC1jdU1LSFY5VDdMbE9aUjFNS1BwbnZ0eDk2cDdUOEhkTm1XX0RSNk9UNmo0a1BUYml5SWNrWWpNTmNyUUg1UVJ6M19KT2xXeEU1WmpoYi1KalpaejV6Zm0wajBKTQ?oc=5",
+      "source": "The Times of India",
+      "date": "28 Oct 2026, 12:17 AM"
+    },
+    {
+      "title": "Odisha Under-23s vs Himachal Pradesh U23 at Sundargarh, Col C K Nayudu Trophy Elite, 2-5 Feb 2027 - BCCI",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV3ZKSmhQdXpkOG14VENLZ0d5bXlyV2hSZFVmYmwtcEp2V1VWMHZHUUpZZWZVRmJzYU4wRUMtSjRBSlhyclozZG5vX0ItZzJ6UlVHVnc0ZjFfWGxmUFp3Y19IMWZGU1UtSGFRWVZLMUE4aDJMdVVldnRnNk1UeEtTdHRSMFNFZVdLbThUanZ3VUktY1pSZnJqSjdlUjlfbjVMeE13RTdSMWNJU1RMTHloc3F3?oc=5",
+      "source": "BCCI",
+      "date": "30 Oct 2026, 06:05 AM"
     },
     {
       "title": "NIT Rourkela Cutoff 2026 (Out): Check JEE Main Round & Year-Wise Cutoff Trends - Shiksha.com",
@@ -23,10 +29,10 @@ window.NEWS_DATA = {
       "date": "26 Oct 2026, 12:30 PM"
     },
     {
-      "title": "Odisha braces for cyclone Arnab, shuts schools, cancels trains; airports on alert - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdER0RXV0UGJOa1I0QjFqNnJERHYyQlJJb3llcGk3NVVGLTVHV3hBQkVKM0RIUFJ3eE9ySmlYY3dPaFhzY0hwYVc1bXZRbFBaRmdCekxjTjUzSWNGLTYwTWlPTFdNZHdDN18yVGtsa0JJcGNtNWpGVV93VWRLVjdXWkNBVjNPZU96WmlvbWYwU01ScjBYYVFuNU1EQzc0Z0YyQWdzTU5oNHJtM29udzZrcVVkbnBaYmo2OXZneTA2eUNha0wtT1h4eVBBSUoxY1BLdE5qT29vUmliUGhZUklXZXdnRFBOSlB5QjhrZVJR0gHzAUFVX3lxTFBYMXRNbWxKTVdjc1hUT1NzcFNtSGlvbFBCb3FOLWFDZnZJUzJTOFIyejlDcGdDRTdCRWNGaUtHOEpaMHFialFwRkQxT1QzRnJ3bEVId3ZZNVFmVDJzTmhFaFVhaWxYczFTSzZFanYyVy0ybWN3VTZXZVctQ1hVbG1OdlN1WWdnMWNuMnFxQmdPb3A1ajZNZC1jdU1LSFY5VDdMbE9aUjFNS1BwbnZ0eDk2cDdUOEhkTm1XX0RSNk9UNmo0a1BUYml5SWNrWWpNTmNyUUg1UVJ6M19KT2xXeEU1WmpoYi1KalpaejV6Zm0wajBKTQ?oc=5",
-      "source": "The Times of India",
-      "date": "28 Oct 2026, 12:17 AM"
+      "title": "NIT Rourkela to Host 17th Odisha Environment Congress from November 3 - OdishaPlus",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55bkJqbmI3alhXejhQN2R5NmNzSlVFeU5sZTdncUZ2aVpfUWhMMV9CV0U3NTNma3dwSzV3SkFYSFp3ZV9ISzlaOVphUWwya2NidEtkdFFJRjJ4WXZoVENNU1JlcXhCSGZXemhtWjBfX1NVaGZuQzZjSzZOSU1NRDA?oc=5",
+      "source": "OdishaPlus",
+      "date": "31 Oct 2026, 01:47 PM"
     },
     {
       "title": "NIT Rourkela to Host 17th Odisha Environment Congress from November 3–5 - Odisha Diary",
@@ -41,16 +47,10 @@ window.NEWS_DATA = {
       "date": "30 Oct 2026, 08:01 AM"
     },
     {
-      "title": "Bisra villagers in Odisha's Sundargarh district take to the streets to protest delay in expansion of NH-320D - The New Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZ015SlJKS2F2X3JJOG5TeHJ2SUZSbVlNZjJqOGd4X2F5aGp6cmduel9oV24yd0JIX0w0M2xuNW5PWFMwano4QmZLU3hHUFhmWFRRa3BxM1BIbFktVDVtQTU2U3kxR2szTEptN2xiQUNCa3dHQnVZYkpjX2lGN0E5N0N0X2hmNzRZbDZMdnFjUl9nRG9ndVVTeEl1c3VZMEJsRk5vZDdEMDJrNFlFUnh4OGd5M2d1WHNNc01uX2xtanlIVHNsRmJvMXpCRHNyTDFTci1fbjczWEd1cDJVSXFWbVVQbXh2T1FFTzY3NFR4dmtTSEp6Ykc2elZn0gGHAkFVX3lxTE9sSEJwRV9fcFdmSWlkYWhseTlNMno2MFI2eXZtUWhORGg0UFBnU2pFODB2YnJrc0g4RTdUUzBacThHNmdqSWREWVJlTlFWNHZMQ3NsRXBFazNjYkcwMGtIZExFZXVRa05Fa2M2eTN0MlhZakJGVGVUbk5aZHlqYVZFV0lTTUZMZm1pOFNfVVFoSFk2Y2xFc1JubzYxNGVySjk4Vk54QlgxTkItV3pzdDlNMmFBcHBHYnFxMGpqbmhhYXhiU1lJaEl2a0VlSlhOUjBuS1hicERmaC1kcVJvNXZULXByeGg0b1lkYzNGbGxWa1kwRjM5Q1E2OTFaMmVTRmgtNTFub1pj?oc=5",
-      "source": "The New Indian Express",
-      "date": "30 Oct 2026, 09:51 AM"
-    },
-    {
-      "title": "NIT Rourkela Scientists Develop Lead-Free Materials For Safer lighting Applications - Deccan Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTjdzeTRPRWE3MUxBNDItWUw5Q1RSRjdLcFBmUUFKV3ZzYmZ6X2lmSmdCd0dDY21zTldrVlBhejAtNW0zNG96WWxxMDNwcXQ3UjR1ellTQWQwelFfMW5HUFV2QW5uQ2dhbnd6eldaY2Y2UDFVc1FOUTdhamdjRnJCcDdOSTA0aEMtYjZoWkxmZ2hYVnlNZEJ4RURSZ3B5RVIzUS13OTJ0ZXZ5STRIQnFWTDQxUUVETDcwWS1vRGtxcXlhNi0ySXMzS1dlZHBDM193SzVjYmRGU1F3T2YyM290WmkyVU1LdjBZ0gHuAUFVX3lxTFBaRWNZd2xVd0tTMnlNbG8wY3ROeXJFV2Z3RmpzdWZteXVUNXRLdnFwWG9zZ3VFYzM5OWl6Q1N2OVZfSTNBM0Q1enEzTU9lQ1ZMRFY4OFIzSmszamNoUGdYSkZzcEJLdWxNSm5udjViYXJtOXJxQVlfUVZiNXhKMkJBcU8yLXJ4TTZrWkdJNTc4cFZpcVI0TnBLVGxQMkhEQldBSmRhLWhaSmRxSGo1N2J2d2xkT1YyRlBBSzBPakxkWWtSTzlYUmJBR1pVTmhyT04yRnpncmNUeTNsaFEtbklxQ1ZJZVJXZko1THRpWlE?oc=5",
-      "source": "Deccan Chronicle",
-      "date": "28 Oct 2026, 02:07 PM"
+      "title": "NIT Rourkela scientists develop lead-free light-emitting materials - prameyanews.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMnluS2hzTk5NZ2tLZ3pqTW0xaE13bk9JMUxGdmlJaEctcXBhbXFuVGF0dU1uSWQ0cm9yZ0tfOE5BX2pZT2NzWFdwaGRTa1dGLWIzRU1OUHBaT0FVX2xTeGNybkZ5R0NqbUMtZ284QTgzVHp5ZlhhcS1lZkRxTTJOZV9BSHI4SWRmb2R6NXU5MjZmUzJkRTlPWkdn?oc=5",
+      "source": "prameyanews.com",
+      "date": "28 Oct 2026, 03:04 PM"
     }
   ]
 };
