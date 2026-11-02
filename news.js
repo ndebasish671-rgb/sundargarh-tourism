@@ -1,6 +1,6 @@
 /* Updated daily by GitHub Actions (.github/workflows/daily-sync.yml) */
 window.NEWS_DATA = {
-  "updated": "01 Nov 2026, 12:13 PM IST",
+  "updated": "02 Nov 2026, 12:11 PM IST",
   "source": "Google News RSS",
   "query": "Sundargarh OR Rourkela Odisha when:7d",
   "items": [
@@ -18,7 +18,7 @@ window.NEWS_DATA = {
     },
     {
       "title": "Odisha Under-23s vs Himachal Pradesh U23 at Sundargarh, Col C K Nayudu Trophy Elite, 2-5 Feb 2027 - BCCI",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV3ZKSmhQdXpkOG14VENLZ0d5bXlyV2hSZFVmYmwtcEp2V1VWMHZHUUpZZWZVRmJzYU4wRUMtSjRBSlhyclozZG5vX0ItZzJ6UlVHVnc0ZjFfWGxmUFp3Y19IMWZGU1UtSGFRWVZLMUE4aDJMdVVldnRnNk1UeEtTdHRSMFNFZVdLbThUanZ3VUktY1pSZnJqSjdlUjlfbjVMeE13RTdSMWNJU1RMTHloc3F3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbEtXd192LVJjVzRBQUhTSVRKSjVsRWZiSnJRM0MyVllWSjJfbFJWQjBEYmpIdnhRdVNOSEx2aXNrMlNxNS1rZUhNTFNUbXlOVFhKQTc4QXFaU0daVHBiaWJXRkNkbEV2TGF3VV9mMEJCX2ljTndLR1JXbk0tU3V3YUZDRjNPU3U3d1Z3VkRXaEk1bFRlU2dMSmVlNE9ucTUzTWd2V3NUeGRNUG1YYjd1MlpLQ0VaRUxPQWQweA?oc=5",
       "source": "BCCI",
       "date": "30 Oct 2026, 06:05 AM"
     },
@@ -41,16 +41,16 @@ window.NEWS_DATA = {
       "date": "30 Oct 2026, 07:23 PM"
     },
     {
-      "title": "Odisha Clears 22 Projects Worth Rs 3,855 Cr, Spanning 11 Sectors - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQb2FBMGlPcEZDanhKSFNiY2tmaGR6SG1Zb05HOEF2QnJSUXEzcmwzdF8zdjcyRWdvend2U013SzdtOTZGM3BOajdqblRiNm1NWndBaFdCaVluQzM1U1Y5MllZTnlHYjc4ajlnTVhXQXpPS1Bha1U5bGFoMHdDdm5hMXVKQWhjZGhyeWhXeE5mNFcwdUtFTEEzMkg1UXR0X25JQ09ySDVrZU9ZWEd1Wm5DTnktM1drcXNqVlNRbw?oc=5",
-      "source": "TradingView",
-      "date": "30 Oct 2026, 08:01 AM"
+      "title": "Two truck drivers charred to death in head-on collision in Odisha - ThePrint",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVjJIREFTSjNUNWVWUmZlck9JUDAtbUJ4VEVCZFdUMWJTM2dLTUczbGJUQi1fY1ZfY0F4c3VxMlpHem5DenFqczdFRlJUdjNydDFpdzh2TEtiWVBrTUtHOWZxTzRTZUpBWWcyMWk0MU1rajl3OTNMTmhTN0hBdzlhWThlYTJxcWFsbmExTUJteW1PeEd2Vzl6ZVRJMnZ3aDh0VEHSAacBQVVfeXFMTnBUb3RSUTVXSjZWckwyal94WmZIM1RIVXFoN09qWnpzQ1NQYk5KR3V0RmdoYV9IVXRoSEJnOWt4OF9hX05Scjd0WjNscEwzazhOT0JLV0RTandNZm1ZbENVRzZQcnpVSnVWVTVzNXdSQzl4UEJPWEdRTVlNVkp5bWdPRWdxV3ZjUHA4SDk5cFl6elJrTXFUZjAxR0xyQlpZNm5RZGtnX00?oc=5",
+      "source": "ThePrint",
+      "date": "26 Oct 2026, 07:19 PM"
     },
     {
-      "title": "NIT Rourkela scientists develop lead-free light-emitting materials - prameyanews.com",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMnluS2hzTk5NZ2tLZ3pqTW0xaE13bk9JMUxGdmlJaEctcXBhbXFuVGF0dU1uSWQ0cm9yZ0tfOE5BX2pZT2NzWFdwaGRTa1dGLWIzRU1OUHBaT0FVX2xTeGNybkZ5R0NqbUMtZ284QTgzVHp5ZlhhcS1lZkRxTTJOZV9BSHI4SWRmb2R6NXU5MjZmUzJkRTlPWkdn?oc=5",
-      "source": "prameyanews.com",
-      "date": "28 Oct 2026, 03:04 PM"
+      "title": "NIT Rourkela Cutoff JEE Main 2026 (Out) - Opening and Closing Ranks - Careers360",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQVEyRWd1RUxueHdUMmlCc2VlcVIzTHhLWVdkSHZ1ZkRvUFBiWFFVUXVQOWF6cjltMDZWSFBRT1BhdUNBUDJ1U3JpVm5sS1k1MDdOMlZvdEJXOEx4TC1rODhaSWl1bllUdjlDZmE2aUJlN1laMHl4dWd0eUZqMnN3ajBR?oc=5",
+      "source": "Careers360",
+      "date": "30 Oct 2026, 12:30 PM"
     }
   ]
 };
