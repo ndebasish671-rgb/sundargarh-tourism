@@ -1,14 +1,14 @@
 /* Updated daily by GitHub Actions (.github/workflows/daily-sync.yml) */
 window.NEWS_DATA = {
-  "updated": "02 Nov 2026, 12:11 PM IST",
+  "updated": "03 Nov 2026, 12:40 PM IST",
   "source": "Google News RSS",
   "query": "Sundargarh OR Rourkela Odisha when:7d",
   "items": [
     {
-      "title": "Proposed key rail line through Odisha's Sundargarh awaits nod - The New Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOHpVY2FnUmVZQVNyTEszaTFnV3c2N3JYd3I1LXFVOXFMaDhwMy1Ob2FweV80aTFIUXVHTDdvaWhfOXM1Vk5yOVZMcE1Bb1hpcGhfOGgxbGQ4RVFPbmJ6cnlwb0QtbkgyLWR0MTRMZ1pqTVRabTdFM2FLRzh3VHV0VjQtOHhuR3VQY0N4enJVX2QyanFmaS1ISWdkLWcwdzdiSzhsWUNxM08tNENZNzRaNXBlQTFNQ0xDcnhF0gHIAUFVX3lxTE1hZ3o4VkhjVmtxQ1daaEZWMTY3amgzTnNiQ2ZQTVR5TU5ld2NJOUN5OEdkQnlLVW1MOGJGSmhweU9QMkN0UG52TkRxc05OWTRrSk9ZUF9ZaVZhbjFXRldDLWw5aFJQclJsX09Ra2FSSVFUcGQ3aU9iOGItMjM3QzVRRkNZZlVLUm9obUxzVkpvSV9FRWpCSXEybTF0ZlRjRWU0RGw4MWp3ZGlrMmc1enM5OWxwNGZOdUk0RnBvUGRRYXNxTmlpUmhT?oc=5",
+      "title": "Bisra villagers in Odisha's Sundargarh district take to the streets to protest delay in expansion of NH-320D - The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZ015SlJKS2F2X3JJOG5TeHJ2SUZSbVlNZjJqOGd4X2F5aGp6cmduel9oV24yd0JIX0w0M2xuNW5PWFMwano4QmZLU3hHUFhmWFRRa3BxM1BIbFktVDVtQTU2U3kxR2szTEptN2xiQUNCa3dHQnVZYkpjX2lGN0E5N0N0X2hmNzRZbDZMdnFjUl9nRG9ndVVTeEl1c3VZMEJsRk5vZDdEMDJrNFlFUnh4OGd5M2d1WHNNc01uX2xtanlIVHNsRmJvMXpCRHNyTDFTci1fbjczWEd1cDJVSXFWbVVQbXh2T1FFTzY3NFR4dmtTSEp6Ykc2elZn0gGHAkFVX3lxTE9sSEJwRV9fcFdmSWlkYWhseTlNMno2MFI2eXZtUWhORGg0UFBnU2pFODB2YnJrc0g4RTdUUzBacThHNmdqSWREWVJlTlFWNHZMQ3NsRXBFazNjYkcwMGtIZExFZXVRa05Fa2M2eTN0MlhZakJGVGVUbk5aZHlqYVZFV0lTTUZMZm1pOFNfVVFoSFk2Y2xFc1JubzYxNGVySjk4Vk54QlgxTkItV3pzdDlNMmFBcHBHYnFxMGpqbmhhYXhiU1lJaEl2a0VlSlhOUjBuS1hicERmaC1kcVJvNXZULXByeGg0b1lkYzNGbGxWa1kwRjM5Q1E2OTFaMmVTRmgtNTFub1pj?oc=5",
       "source": "The New Indian Express",
-      "date": "30 Oct 2026, 09:19 AM"
+      "date": "30 Oct 2026, 09:51 AM"
     },
     {
       "title": "Odisha braces for cyclone Arnab, shuts schools, cancels trains; airports on alert - The Times of India",
@@ -23,10 +23,10 @@ window.NEWS_DATA = {
       "date": "30 Oct 2026, 06:05 AM"
     },
     {
-      "title": "NIT Rourkela Cutoff 2026 (Out): Check JEE Main Round & Year-Wise Cutoff Trends - Shiksha.com",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNck4xaUdNWWFWT0xsNVoxTDhqV1pBd0t5cDBPUm1ia2hOQmk1Y3h6My1VT3MyS2x5d2ZpMlk3Nld6TnRvSm5GOUFtTUhXV2ZaY1I3WnYxek9wbmtCbWEwWDhWUHhZbXRmVFlNT01VeG1SbWRmNGg5aFdQZUQta2MzVGVZNzVKejlEZ1hxaUswLWZabkRYZ3VUZQ?oc=5",
-      "source": "Shiksha.com",
-      "date": "26 Oct 2026, 12:30 PM"
+      "title": "“Not even sparing children”: Police drag Adivasi women, detain 15-year-old girl as Barkani resists Rourkela Steel Plant railway - Maktoob",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdTlneHB2THlKbnVCRElaeXhwMklyZWlaUDVEckRFM0lvOENXaFdfZl9BZkhqaC1TdHFITWJBbmV1eVRrVUlWRlRFSUhIRFNmTWd5VWd2WFVEZEYwTzR6dzVwWld3elZNYXJSRmNZaFlrUEZvZGhWYzZ3OWVYcjZSdVF6b0kwZWwyX2dRYWJFd19BMHlwanRZTXVHMzBuRGNncXpOTXdSUlFvNjZrdmdONjh1UGZhLWhOWXdIMzl4NTQza1lnMnpEVDEwUEhyb2tiUnBibzZheXJ1cG9yWkhScUdWdEJfMkR2RzN3R2pfVVlvOEpxM2toNlROMGg?oc=5",
+      "source": "Maktoob",
+      "date": "03 Nov 2026, 09:27 AM"
     },
     {
       "title": "NIT Rourkela to Host 17th Odisha Environment Congress from November 3 - OdishaPlus",
@@ -41,10 +41,10 @@ window.NEWS_DATA = {
       "date": "30 Oct 2026, 07:23 PM"
     },
     {
-      "title": "Two truck drivers charred to death in head-on collision in Odisha - ThePrint",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVjJIREFTSjNUNWVWUmZlck9JUDAtbUJ4VEVCZFdUMWJTM2dLTUczbGJUQi1fY1ZfY0F4c3VxMlpHem5DenFqczdFRlJUdjNydDFpdzh2TEtiWVBrTUtHOWZxTzRTZUpBWWcyMWk0MU1rajl3OTNMTmhTN0hBdzlhWThlYTJxcWFsbmExTUJteW1PeEd2Vzl6ZVRJMnZ3aDh0VEHSAacBQVVfeXFMTnBUb3RSUTVXSjZWckwyal94WmZIM1RIVXFoN09qWnpzQ1NQYk5KR3V0RmdoYV9IVXRoSEJnOWt4OF9hX05Scjd0WjNscEwzazhOT0JLV0RTandNZm1ZbENVRzZQcnpVSnVWVTVzNXdSQzl4UEJPWEdRTVlNVkp5bWdPRWdxV3ZjUHA4SDk5cFl6elJrTXFUZjAxR0xyQlpZNm5RZGtnX00?oc=5",
-      "source": "ThePrint",
-      "date": "26 Oct 2026, 07:19 PM"
+      "title": "ଧନୁତୀର ଧରି ଥାନା ଘେରିଲେ,Sundargarh Tribal Protest | 5,000 Protesters Surround K Balang Police Station - Kanak News Odisha",
+      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxON0xJYV9xeTM1VXZCNFVNSkc3WV9HOEJGcl9wcG1LMjBGX1gzcFJ3NE5zVExXYXZKU19vSF9jLU9IQXpPUTNHY0hPVzhVYTBmV2x1bnJ6R2RxNWpIY2NMMksxZlFiWTlEanRrWi1BdGtaVXlIUFFxaGpsaE1qMFVFYjBtcm5wa2hNd2xOVXNPY2NLaW8yUnVaUDd1SmpNSGN1dEJreEFJTmRaTXUzVW40TUNxZEZWRjdra1J5VlBRdlNtdW9WaXBUTEdPdzJKVEtiNDhmYzY3X2RGSkQxNGJpMmV0d3YySTYySHFCa2NpQ1pEQ0pURzVPeVh0ZVNObE9xQzVFWHBVVG9TYXFPNUE3cHRQOHlwNzJlTVhkMUxhc051SEdJZ25VTXdUOWdJUlRfdXpydmpaREtUOWc2VUdOQm5GZFRzUmZmSUHSAcoCQVVfeXFMTjdMSWFfcXkzNVV2QjRVTUpHN1lfRzhCRnJfcHBtSzIwRl9YM3BSdzROc1RMV2F2SlNfb0hfYy1PSEF6T1EzR2NIT1c4VWEwZldsdW5yekdkcTVqSGNjTDJLMWZRYlk5RGp0a1otQXRrWlV5SFBRcWhqbGhNajBVRWIwbXJucGtoTXdsTlVzT2NjS2lvMlJ1WlA3dUpqTUhjdXRCa3hBSU5kWk11M1VuNE1DcWRGVkY3a2tSeVZQUXZTbXVvVmlwVExHT3cySlRLYjQ4ZmM2N19kRkpEMTRiaTJldHd2Mkk2MkhxQmtjaUNaRENKVEc1T3lYdGVTTmxPcUM1RVhwVVRvU2FxTzVBN3B0UDh5cDcyZU1YZDFMYXNOdUhHSWduVU13VDlnSVJUX3V6cnZqWkRLVDlnNlVHTkJuRmRUc1JmZklB?oc=5",
+      "source": "Kanak News Odisha",
+      "date": "02 Nov 2026, 08:17 PM"
     },
     {
       "title": "NIT Rourkela Cutoff JEE Main 2026 (Out) - Opening and Closing Ranks - Careers360",
