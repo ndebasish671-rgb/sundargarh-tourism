@@ -1,20 +1,20 @@
 /* Updated daily by GitHub Actions (.github/workflows/daily-sync.yml) */
 window.NEWS_DATA = {
-  "updated": "06 Nov 2026, 12:46 PM IST",
+  "updated": "07 Nov 2026, 11:59 AM IST",
   "source": "Google News RSS",
   "query": "Sundargarh OR Rourkela Odisha when:7d",
   "items": [
+    {
+      "title": "17th Odisha Environment Congress Concludes at NIT Rourkela; Institute Honoured with S. B. Mishra Green Corporate Award - www.pib.gov.in",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzQjZSTkF5d2xhbW1qVkMyOTVYSU53eEJBc2VpbTUwaFk1R3FuNnRuaGNEU1pzajVVRG5xbm9SeVhBQi03WEFlWXRyY0NxWk1ERnBQLXhsU1pZSU1XYXMzaHdUYUNZOEFm?oc=5",
+      "source": "www.pib.gov.in",
+      "date": "06 Nov 2026, 08:00 PM"
+    },
     {
       "title": "Money laundering: ED attaches Rs 24.60 crore assets in Rourkela Mall - The New Indian Express",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOblZIQTV6TUhBUXdUWktzN050SFY5ak05dHRLSnk0YVJZdzJDNkFGRUViZDhzQUUtSGJmcGFvQ1pxUVpNNU9xUHVINWpnYWp0dUxqMEQ5aUhYUXBjcWlVZzkxd0MzaUt2LXg3bHd2SXgyZjNPSThTOFZTT0JLZURhdkFJU3Fld09jeko1Ync2a1F5aDViVU1CMXNkN2hBQ043cGkxbjBkM3hBX0RUN0hEODlUeFF0djV0a0FVdWR2cmlUaUnSAdABQVVfeXFMUHpYUjhVZFltSEJXMEpJWS1uOFF4ZDlIZzIxYWJHTXk0NDg3SURocGU0eEFSbTdnOXU1UEZrS0pMa0JwSzF4WVVOSHBESjVoblV1RWxZbHMzeGJjVW54VlZnN3dRUlFtR3pYTjRaaGxTSTdDMGNOYXJlSWw1UkppWnZ4bnJFZUdzVXh5LVB5SnN5X1JQWWdJNElqcEhMMGcxS25xYjNIeGUtaUVJS0Jvakxqb1U2aFVqUzc0Y1JiR3pkelFVaFN5dF9OSkFRQVdmag?oc=5",
       "source": "The New Indian Express",
       "date": "05 Nov 2026, 09:20 AM"
-    },
-    {
-      "title": "Over 300 School children Participate in Children’s and Youth Environment Congress at NIT Rourkela - www.pib.gov.in",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50Q2t6RjJYZGZQZjloM0QyUDlZRGZBR253TTEzUG5ESk9vZUFVeTI2NVdqTWNKM0hCS2tPYlh1MEZCc1Bhd3RUWXBVUndpcXZkSWx4RjY0bHQ4Nm40UnNxdEo5bW1Pck9E?oc=5",
-      "source": "www.pib.gov.in",
-      "date": "04 Nov 2026, 06:54 PM"
     },
     {
       "title": "Odisha Under-23s vs Himachal Pradesh U23 at Sundargarh, Col C K Nayudu Trophy Elite, 2-5 Feb 2027 - BCCI",
@@ -29,16 +29,16 @@ window.NEWS_DATA = {
       "date": "02 Nov 2026, 01:30 PM"
     },
     {
-      "title": "17th Odisha Environment Congress inaugurated at NIT Rourkela - prameyanews.com",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeGhGRnIweUF5MzJTbDgxSmNhQmRVcGlqa2NESG80bm5VdFZOUi0tMGJfTzZrZXpwUUZ4cHBUNUxPY2lBbnBMbllyWkJ3NU41NmwyaVRpREd6X0F0V19HNXM0Q0U5MVZSTXBXSlUxcHhKbDBsWnd0dkRzQVBocEoxWDNxZy1BY3RycXZwVEk4blB2Nm16Tk9nWmZ1M1YtRWRtLUozRlpyUmlUSEhfdUQ4dGo1UXhxek14TTcwTkVIUmFLRGtBRUJkNEE5QXB3emRqTVlUbWhKNi1wcE1fTXc?oc=5",
-      "source": "prameyanews.com",
-      "date": "03 Nov 2026, 06:48 PM"
-    },
-    {
       "title": "NIT Rourkela to Host 17th Odisha Environment Congress from November 3 - OdishaPlus",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55bkJqbmI3alhXejhQN2R5NmNzSlVFeU5sZTdncUZ2aVpfUWhMMV9CV0U3NTNma3dwSzV3SkFYSFp3ZV9ISzlaOVphUWwya2NidEtkdFFJRjJ4WXZoVENNU1JlcXhCSGZXemhtWjBfX1NVaGZuQzZjSzZOSU1NRDA?oc=5",
       "source": "OdishaPlus",
       "date": "31 Oct 2026, 01:47 PM"
+    },
+    {
+      "title": "17th Odisha Environment Congress inaugurated at NIT Rourkela - prameyanews.com",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeGhGRnIweUF5MzJTbDgxSmNhQmRVcGlqa2NESG80bm5VdFZOUi0tMGJfTzZrZXpwUUZ4cHBUNUxPY2lBbnBMbllyWkJ3NU41NmwyaVRpREd6X0F0V19HNXM0Q0U5MVZSTXBXSlUxcHhKbDBsWnd0dkRzQVBocEoxWDNxZy1BY3RycXZwVEk4blB2Nm16Tk9nWmZ1M1YtRWRtLUozRlpyUmlUSEhfdUQ4dGo1UXhxek14TTcwTkVIUmFLRGtBRUJkNEE5QXB3emRqTVlUbWhKNi1wcE1fTXc?oc=5",
+      "source": "prameyanews.com",
+      "date": "03 Nov 2026, 06:48 PM"
     },
     {
       "title": "Sundargarh Firing: 3 Detained |Ravenshaw Hostel Protest |Bomb Threats to 16 Flights| 11PM Headlines - Kanak News Odisha",
