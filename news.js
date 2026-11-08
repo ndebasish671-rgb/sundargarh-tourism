@@ -1,6 +1,6 @@
 /* Updated daily by GitHub Actions (.github/workflows/daily-sync.yml) */
 window.NEWS_DATA = {
-  "updated": "07 Nov 2026, 11:59 AM IST",
+  "updated": "08 Nov 2026, 12:05 PM IST",
   "source": "Google News RSS",
   "query": "Sundargarh OR Rourkela Odisha when:7d",
   "items": [
@@ -29,16 +29,16 @@ window.NEWS_DATA = {
       "date": "02 Nov 2026, 01:30 PM"
     },
     {
-      "title": "NIT Rourkela to Host 17th Odisha Environment Congress from November 3 - OdishaPlus",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55bkJqbmI3alhXejhQN2R5NmNzSlVFeU5sZTdncUZ2aVpfUWhMMV9CV0U3NTNma3dwSzV3SkFYSFp3ZV9ISzlaOVphUWwya2NidEtkdFFJRjJ4WXZoVENNU1JlcXhCSGZXemhtWjBfX1NVaGZuQzZjSzZOSU1NRDA?oc=5",
-      "source": "OdishaPlus",
-      "date": "31 Oct 2026, 01:47 PM"
-    },
-    {
       "title": "17th Odisha Environment Congress inaugurated at NIT Rourkela - prameyanews.com",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeGhGRnIweUF5MzJTbDgxSmNhQmRVcGlqa2NESG80bm5VdFZOUi0tMGJfTzZrZXpwUUZ4cHBUNUxPY2lBbnBMbllyWkJ3NU41NmwyaVRpREd6X0F0V19HNXM0Q0U5MVZSTXBXSlUxcHhKbDBsWnd0dkRzQVBocEoxWDNxZy1BY3RycXZwVEk4blB2Nm16Tk9nWmZ1M1YtRWRtLUozRlpyUmlUSEhfdUQ4dGo1UXhxek14TTcwTkVIUmFLRGtBRUJkNEE5QXB3emRqTVlUbWhKNi1wcE1fTXc?oc=5",
       "source": "prameyanews.com",
       "date": "03 Nov 2026, 06:48 PM"
+    },
+    {
+      "title": "Rourkela Vigilance Raid: गेस्ट इंस्ट्रक्टर से घ लेते दबोचे गए ITI प्रिंसिपल, घर से मिला भारी कैश #OdishaVigilance #RourkelaRaid #Corruption #OdishaNews #dynamitenews - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMinwVBVV95cUxPblhfbFFpYkdDRHNVeW1HcWhEN09aRUJxTGxMREFpR0djTlgwYTJPak12NHBiMGFmUl9RemwzdXJjMFI1RWp2aU91WEp6aEhabHVIUkZpaDRGTkdNZ3I0bWxtQkJuaDJVQktDWDVRZmhrTnhwWVRWcl90U21uOEpILWpKdmVzNGQ0UzFPU1RBWTZkNlo2ZGJHTVZWOXFLUGhoblFCQjIxS3oxUHluOVZFQmZEVktrckpVeEhVTzVUTUR0VFhXS21yLXVWb1FOOGtWLXN0bG5GUkpzanFUczFfaFVJaGdteXB1Nm4wYnU3NjkwZGFKMEo1SFAzNTEtcmNkNHZuQ292ZWJwWEYtUmE4SWRUaXF5RlZXeEZBbVBNZk16LXR2TWlMZzg3RTBVSlRzOTg5RTRFVlMxdXhpc1dfMjN0Z3NEOG93UktjNm9ySHRXRHlDRTNYMy04bVBqRmZ4X0RnRi0wWEFPUTB6OThZNkRpLVZYWlNiTzlvNy04SmhPZlFFeFFMUE1LQkhxTmJTeUxlQzhUcjZlVU1qcjNURGxramE5T0JvNXNzNVJWZmIxR3lUTXVrYUVEVHgtcEN2TFRqaUVRUkFheDlFekFpZWpZVkpQdDZEUWlWZ3FwRzNjTFozY1YtTWtUN2I5R1UxUmpCazlGUVJoekVEWlh0SndwaVdJTUhiUmhieklkaXBuWkJrejdGaDNPOXduYWxxN3k3RFB6WnBHcjEydGZDbGZBRjlfNWstdzJ3YnZZdTU2SEs0RVdlSUxJd0FtYWlSd2VPVF9sMmtLbHIxa0xWbkM4dUZMLXFwMXFnQlFTSFc1R3ZqUVplTUptU1B0Rm40dURhZFFBZ1ZTSEhTSUpnLWk1Z180UUpaOUstZVNORQ?oc=5",
+      "source": "Facebook",
+      "date": "07 Nov 2026, 08:55 AM"
     },
     {
       "title": "Sundargarh Firing: 3 Detained |Ravenshaw Hostel Protest |Bomb Threats to 16 Flights| 11PM Headlines - Kanak News Odisha",
@@ -47,10 +47,10 @@ window.NEWS_DATA = {
       "date": "05 Nov 2026, 11:11 PM"
     },
     {
-      "title": "17th Odisha Environment Congress Inaugurated at NIT Rourkela; Experts Call for Research-Driven Environmental Solutions - Odisha Diary",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORy1QbXVVRFNpV1ZwNmxMZ0gxZWQzMFU3XzZwR0hvZUlVeUUwLTNIMzhvcnhLVW9HbXRMOXRjQXBack1odGhzUEc3NnhkMWotOWxxY09OeWFhczNKbnJ3RGJ6MVljTWt1QTRpZ0RzTXhxZm9Vd0JOSjZ6UnM3NGtMYnNSeVdzQkRyQjNfWWQ5ZG02OHpYTkNqT2hVRzZGUXZfRHptamNWNW01SGdOR09SWWFlYmtCM1dwVXFmZ2ZWYVVSOXRxUTNCNUNkZEI1WEpfd0xoVWhjME1TUQ?oc=5",
-      "source": "Odisha Diary",
-      "date": "04 Nov 2026, 12:43 PM"
+      "title": "17th Odisha Environment Congress Begins at NIT Rourkela; Experts Stress Greater R&D Investment - OdishaPlus",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xazc5RFZ0M2xiSkZxS2t2WmJmSHVvd1NYU3N0VFhXQTVzcUVKRVIzaUQ1RzVJaG8xUnFhYXg0VDNZenF6YmlPZmlfY3d4ZXhNTnZEajlmNmxweGlJa0Fvams2LUM3SnBEdEFUNGxuTzZRMlhzZnQ5OVVIc244eGs?oc=5",
+      "source": "OdishaPlus",
+      "date": "04 Nov 2026, 04:48 PM"
     }
   ]
 };
