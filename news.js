@@ -1,6 +1,6 @@
 /* Updated daily by GitHub Actions (.github/workflows/daily-sync.yml) */
 window.NEWS_DATA = {
-  "updated": "08 Nov 2026, 12:05 PM IST",
+  "updated": "09 Nov 2026, 12:34 PM IST",
   "source": "Google News RSS",
   "query": "Sundargarh OR Rourkela Odisha when:7d",
   "items": [
@@ -41,16 +41,16 @@ window.NEWS_DATA = {
       "date": "07 Nov 2026, 08:55 AM"
     },
     {
-      "title": "Sundargarh Firing: 3 Detained |Ravenshaw Hostel Protest |Bomb Threats to 16 Flights| 11PM Headlines - Kanak News Odisha",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQb3cyaUFvR0k3OVVPeWljVmJyY0JjMmR6M1NSZDRvcUxLQUZnc3FPeHFENGJ5cHlFRGJSWWV6WUVfRE1LNVpfMDFJYkRMLVZNRlIxdjlVQWVubUR5aEotLXNBWXp5bXRpcGdUZ19McGFPMXRoSkZVUVlIbE1kWk5VTHlzUU56YVRZNHF6d3FmcVRCYmE3TkVNUUxQVWlnM0t0VWM1cXNvSFNFVnNQS1VnQTBzYkF0RnRIZGc3aHI1cDJENjlRYU1oc3prU05nV3RxQTVZVTZ3eHBjNUNoRXfSAd4BQVVfeXFMUG93MmlBb0dJNzlVT3lpY1ZicmNCYzJkejNTUmQ0b3FMS0FGZ3NxT3hxRDRieXB5RURiUlllellFX0RNSzVaXzAxSWJETC1WTUZSMXY5VUFlbm1EeWhKLS1zQVl6eW10aXBnVGdfTHBhTzF0aEpGVVFZSGxNZFpOVUx5c1FOemFUWTRxendxZnFUQmJhN05FTVFMUFVpZzNLdFVjNXFzb0hTRVZzUEtVZ0Ewc2JBdEZ0SGRnN2hyNXAyRDY5UWFNaHN6a1NOZ1d0cUE1WVU2d3hwYzVDaEV3?oc=5",
-      "source": "Kanak News Odisha",
-      "date": "05 Nov 2026, 11:11 PM"
-    },
-    {
       "title": "17th Odisha Environment Congress Begins at NIT Rourkela; Experts Stress Greater R&D Investment - OdishaPlus",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xazc5RFZ0M2xiSkZxS2t2WmJmSHVvd1NYU3N0VFhXQTVzcUVKRVIzaUQ1RzVJaG8xUnFhYXg0VDNZenF6YmlPZmlfY3d4ZXhNTnZEajlmNmxweGlJa0Fvams2LUM3SnBEdEFUNGxuTzZRMlhzZnQ5OVVIc244eGs?oc=5",
       "source": "OdishaPlus",
       "date": "04 Nov 2026, 04:48 PM"
+    },
+    {
+      "title": "17th Odisha Environment Congress Inaugurated at NIT Rourkela; Experts Call for Research-Driven Environmental Solutions - Odisha Diary",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORy1QbXVVRFNpV1ZwNmxMZ0gxZWQzMFU3XzZwR0hvZUlVeUUwLTNIMzhvcnhLVW9HbXRMOXRjQXBack1odGhzUEc3NnhkMWotOWxxY09OeWFhczNKbnJ3RGJ6MVljTWt1QTRpZ0RzTXhxZm9Vd0JOSjZ6UnM3NGtMYnNSeVdzQkRyQjNfWWQ5ZG02OHpYTkNqT2hVRzZGUXZfRHptamNWNW01SGdOR09SWWFlYmtCM1dwVXFmZ2ZWYVVSOXRxUTNCNUNkZEI1WEpfd0xoVWhjME1TUQ?oc=5",
+      "source": "Odisha Diary",
+      "date": "04 Nov 2026, 12:43 PM"
     }
   ]
 };
