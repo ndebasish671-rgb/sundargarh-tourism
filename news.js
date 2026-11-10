@@ -1,6 +1,6 @@
 /* Updated daily by GitHub Actions (.github/workflows/daily-sync.yml) */
 window.NEWS_DATA = {
-  "updated": "09 Nov 2026, 12:34 PM IST",
+  "updated": "10 Nov 2026, 01:10 PM IST",
   "source": "Google News RSS",
   "query": "Sundargarh OR Rourkela Odisha when:7d",
   "items": [
@@ -23,10 +23,10 @@ window.NEWS_DATA = {
       "date": "03 Nov 2026, 11:31 PM"
     },
     {
-      "title": "NIT Rourkela Cutoff 2026 (Out): Check JEE Main Round & Year-Wise Cutoff Trends - Shiksha.com",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNck4xaUdNWWFWT0xsNVoxTDhqV1pBd0t5cDBPUm1ia2hOQmk1Y3h6My1VT3MyS2x5d2ZpMlk3Nld6TnRvSm5GOUFtTUhXV2ZaY1I3WnYxek9wbmtCbWEwWDhWUHhZbXRmVFlNT01VeG1SbWRmNGg5aFdQZUQta2MzVGVZNzVKejlEZ1hxaUswLWZabkRYZ3VUZQ?oc=5",
-      "source": "Shiksha.com",
-      "date": "02 Nov 2026, 01:30 PM"
+      "title": "Diwali tragedy: Boy killed in Rourkela, over 100 injured in cracker mishaps across Odisha - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQVFY5OVFYVmRGeC10VGxnUkZWZWVia2tmQ0w1V1NQVFp1SFl1S19ZWXZ4SE5LVVJlbHlQbVRtMFdNTnpySFMwWWV5S0RMLXo1b2NDTFJDcmRxb3VwOXhZNFp1aExUMzcwanNHSWFlYUVLVHZkcFNXdWM1dUdGeDdORDBUWEdkSHdZdDF2eVBiNkUtMjR0MFVMR2dNRWM4RVM1bGlHVzF0d3FOZkJ2ajlmbW1hN0Z4UEVNakNIOFRhYVpSZGV5TnYyYUdpWmQtSnhoNFBhRGZQMkpnYklhVzN3RW1yT3loRkdicm5aQWtGTFRxc1NxdEdiZTF30gH_AUFVX3lxTE1LNkh2cjhWbjE0ZXg1a2kwbGZwekZ5U1dBU2FHR09hYmVwUlJPR1ZhckdzSm1RdkNRckwzSzZyVWVfSTl5QUdqMWR6WWVCWjJXY3BoUHdmMmFBTWtaTk4tMmcxWGgzM00xM3E4ZEJaalI3QUlwdzdmV0hWVVlPY1N4UnhOajhwa0VkWVMxRHhIemtiY2lrRGJjeVRJaE9ZdU9raE1vbVoyS1E0R19ZWHdtZldzekdSTzdLSHRYSmxYbXNhVk00LWpqVEpJRTVULTNKOEp0c0RzMnlEOVJYeDVwdVh5Y2hZSDBjZWhrZkN1aDRYWnlmWlp1eUZJUF9KRQ?oc=5",
+      "source": "The Times of India",
+      "date": "09 Nov 2026, 07:14 PM"
     },
     {
       "title": "17th Odisha Environment Congress inaugurated at NIT Rourkela - prameyanews.com",
@@ -47,10 +47,10 @@ window.NEWS_DATA = {
       "date": "04 Nov 2026, 04:48 PM"
     },
     {
-      "title": "17th Odisha Environment Congress Inaugurated at NIT Rourkela; Experts Call for Research-Driven Environmental Solutions - Odisha Diary",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORy1QbXVVRFNpV1ZwNmxMZ0gxZWQzMFU3XzZwR0hvZUlVeUUwLTNIMzhvcnhLVW9HbXRMOXRjQXBack1odGhzUEc3NnhkMWotOWxxY09OeWFhczNKbnJ3RGJ6MVljTWt1QTRpZ0RzTXhxZm9Vd0JOSjZ6UnM3NGtMYnNSeVdzQkRyQjNfWWQ5ZG02OHpYTkNqT2hVRzZGUXZfRHptamNWNW01SGdOR09SWWFlYmtCM1dwVXFmZ2ZWYVVSOXRxUTNCNUNkZEI1WEpfd0xoVWhjME1TUQ?oc=5",
-      "source": "Odisha Diary",
-      "date": "04 Nov 2026, 12:43 PM"
+      "title": "Odisha adds 318 PG medical seats; 5 government colleges to start PG courses - The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdHBVMmVEeE1hMjE3eTJYSF9KalhfNDVIQi1QOGlFbkd3a0pQRHZ3OVZlVVpnZHNZdkF4RjBLbjV2T2duTU1lMXRESGNRdXhsamZIUk9YcnRpS3JINE0wY1NxalNRZ29jaG05UkJuX2xoRVNPRFFNSDczQkwxRW9nMjRRZmRPc08wdDBaenJwQWt0VWtsUFM4WmgyRzZUc3lNWmNZNy1MZ3RYQ0o5WlFiQ2JDX3M3a0xPOHd0T0Itc2lhekpPUklXUVZhbnA1Z9IB2wFBVV95cUxORHZ0b2ktZWxJX2FpUnNPdnJTNHdKNk1yM29GbFpLT09iWGF3YWJ0NEdjTWV0dE04UnFmaU9JWHBaWEFXdEI3MmhvQnFfRmZQS3JwSDJ4ZzJPbDAzZGYyb3l5N3JfbDVIY1JjTXl4SER3emd0VkhCUkJqSWNwVVNVcHZ2S0hzVk5QR3FnYlF3eVBBUjgxTGJoZG8yRjF1NzJwMEpFX2FZMng1VUc3VTBtY2lHT2Q3RlhTdDdiczAxeTFIVmt4ZEdlbFNVS1M3WmRDQ2paWmlpYm1sd0k?oc=5",
+      "source": "The New Indian Express",
+      "date": "07 Nov 2026, 09:52 AM"
     }
   ]
 };
