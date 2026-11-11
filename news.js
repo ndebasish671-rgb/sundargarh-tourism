@@ -1,9 +1,15 @@
 /* Updated daily by GitHub Actions (.github/workflows/daily-sync.yml) */
 window.NEWS_DATA = {
-  "updated": "10 Nov 2026, 01:10 PM IST",
+  "updated": "11 Nov 2026, 12:29 PM IST",
   "source": "Google News RSS",
   "query": "Sundargarh OR Rourkela Odisha when:7d",
   "items": [
+    {
+      "title": "Diwali tragedy: Boy killed in Rourkela, over 100 injured in cracker mishaps across Odisha - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQVFY5OVFYVmRGeC10VGxnUkZWZWVia2tmQ0w1V1NQVFp1SFl1S19ZWXZ4SE5LVVJlbHlQbVRtMFdNTnpySFMwWWV5S0RMLXo1b2NDTFJDcmRxb3VwOXhZNFp1aExUMzcwanNHSWFlYUVLVHZkcFNXdWM1dUdGeDdORDBUWEdkSHdZdDF2eVBiNkUtMjR0MFVMR2dNRWM4RVM1bGlHVzF0d3FOZkJ2ajlmbW1hN0Z4UEVNakNIOFRhYVpSZGV5TnYyYUdpWmQtSnhoNFBhRGZQMkpnYklhVzN3RW1yT3loRkdicm5aQWtGTFRxc1NxdEdiZTF30gH_AUFVX3lxTE1LNkh2cjhWbjE0ZXg1a2kwbGZwekZ5U1dBU2FHR09hYmVwUlJPR1ZhckdzSm1RdkNRckwzSzZyVWVfSTl5QUdqMWR6WWVCWjJXY3BoUHdmMmFBTWtaTk4tMmcxWGgzM00xM3E4ZEJaalI3QUlwdzdmV0hWVVlPY1N4UnhOajhwa0VkWVMxRHhIemtiY2lrRGJjeVRJaE9ZdU9raE1vbVoyS1E0R19ZWHdtZldzekdSTzdLSHRYSmxYbXNhVk00LWpqVEpJRTVULTNKOEp0c0RzMnlEOVJYeDVwdVh5Y2hZSDBjZWhrZkN1aDRYWnlmWlp1eUZJUF9KRQ?oc=5",
+      "source": "The Times of India",
+      "date": "09 Nov 2026, 07:14 PM"
+    },
     {
       "title": "17th Odisha Environment Congress Concludes at NIT Rourkela; Institute Honoured with S. B. Mishra Green Corporate Award - www.pib.gov.in",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzQjZSTkF5d2xhbW1qVkMyOTVYSU53eEJBc2VpbTUwaFk1R3FuNnRuaGNEU1pzajVVRG5xbm9SeVhBQi03WEFlWXRyY0NxWk1ERnBQLXhsU1pZSU1XYXMzaHdUYUNZOEFm?oc=5",
@@ -18,21 +24,9 @@ window.NEWS_DATA = {
     },
     {
       "title": "Odisha Under-23s vs Himachal Pradesh U23 at Sundargarh, Col C K Nayudu Trophy Elite, 2-5 Feb 2027 - BCCI",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSWFyTUZBaGUtTnNjRXYyV3hFTnVwa3NSNmxPZlptZWMzdS1FUVJMWGVqNUlhQ21pSEFfcXV1SWhJWjhNYjBtU29yVjMzbkhsdnNIWERTc3h4WEpCWXU5QmtEMXRSVnBvQkM1Z1YxZU1LNkhadXBobjRKMmNhM3VmNU94eTBTNHRTTDZseEFMa0xjUkRibVZZb20zczlzLWs1MlFSOXpPc2Z6X2hFNmF3MjdTZ2RrS1pkUUtnVUpWTzFRaTAzcFM3TFhLUlZkTFI1cG5PRnNYa0duUmVwVE1aaEU5RjRRbTdhaHBoUVl2b3RLaHFIVXNmY2llNA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKcGx4VUlkdVRWXzhMbmdnQ0tCOG11UG5zenc5RmlxOHh6QlFkVUF5VGlCb0t4Z1BQTmwtaWthSlV6d0I0MFdpenMyVTRBLXRCZGlnSHlHUFhFRkNtbVRNdVU1NFU?oc=5",
       "source": "BCCI",
-      "date": "03 Nov 2026, 11:31 PM"
-    },
-    {
-      "title": "Diwali tragedy: Boy killed in Rourkela, over 100 injured in cracker mishaps across Odisha - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQVFY5OVFYVmRGeC10VGxnUkZWZWVia2tmQ0w1V1NQVFp1SFl1S19ZWXZ4SE5LVVJlbHlQbVRtMFdNTnpySFMwWWV5S0RMLXo1b2NDTFJDcmRxb3VwOXhZNFp1aExUMzcwanNHSWFlYUVLVHZkcFNXdWM1dUdGeDdORDBUWEdkSHdZdDF2eVBiNkUtMjR0MFVMR2dNRWM4RVM1bGlHVzF0d3FOZkJ2ajlmbW1hN0Z4UEVNakNIOFRhYVpSZGV5TnYyYUdpWmQtSnhoNFBhRGZQMkpnYklhVzN3RW1yT3loRkdicm5aQWtGTFRxc1NxdEdiZTF30gH_AUFVX3lxTE1LNkh2cjhWbjE0ZXg1a2kwbGZwekZ5U1dBU2FHR09hYmVwUlJPR1ZhckdzSm1RdkNRckwzSzZyVWVfSTl5QUdqMWR6WWVCWjJXY3BoUHdmMmFBTWtaTk4tMmcxWGgzM00xM3E4ZEJaalI3QUlwdzdmV0hWVVlPY1N4UnhOajhwa0VkWVMxRHhIemtiY2lrRGJjeVRJaE9ZdU9raE1vbVoyS1E0R19ZWHdtZldzekdSTzdLSHRYSmxYbXNhVk00LWpqVEpJRTVULTNKOEp0c0RzMnlEOVJYeDVwdVh5Y2hZSDBjZWhrZkN1aDRYWnlmWlp1eUZJUF9KRQ?oc=5",
-      "source": "The Times of India",
-      "date": "09 Nov 2026, 07:14 PM"
-    },
-    {
-      "title": "17th Odisha Environment Congress inaugurated at NIT Rourkela - prameyanews.com",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeGhGRnIweUF5MzJTbDgxSmNhQmRVcGlqa2NESG80bm5VdFZOUi0tMGJfTzZrZXpwUUZ4cHBUNUxPY2lBbnBMbllyWkJ3NU41NmwyaVRpREd6X0F0V19HNXM0Q0U5MVZSTXBXSlUxcHhKbDBsWnd0dkRzQVBocEoxWDNxZy1BY3RycXZwVEk4blB2Nm16Tk9nWmZ1M1YtRWRtLUozRlpyUmlUSEhfdUQ4dGo1UXhxek14TTcwTkVIUmFLRGtBRUJkNEE5QXB3emRqTVlUbWhKNi1wcE1fTXc?oc=5",
-      "source": "prameyanews.com",
-      "date": "03 Nov 2026, 06:48 PM"
+      "date": "06 Nov 2026, 10:31 PM"
     },
     {
       "title": "Rourkela Vigilance Raid: गेस्ट इंस्ट्रक्टर से घ लेते दबोचे गए ITI प्रिंसिपल, घर से मिला भारी कैश #OdishaVigilance #RourkelaRaid #Corruption #OdishaNews #dynamitenews - Facebook",
@@ -47,10 +41,16 @@ window.NEWS_DATA = {
       "date": "04 Nov 2026, 04:48 PM"
     },
     {
-      "title": "Odisha adds 318 PG medical seats; 5 government colleges to start PG courses - The New Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdHBVMmVEeE1hMjE3eTJYSF9KalhfNDVIQi1QOGlFbkd3a0pQRHZ3OVZlVVpnZHNZdkF4RjBLbjV2T2duTU1lMXRESGNRdXhsamZIUk9YcnRpS3JINE0wY1NxalNRZ29jaG05UkJuX2xoRVNPRFFNSDczQkwxRW9nMjRRZmRPc08wdDBaenJwQWt0VWtsUFM4WmgyRzZUc3lNWmNZNy1MZ3RYQ0o5WlFiQ2JDX3M3a0xPOHd0T0Itc2lhekpPUklXUVZhbnA1Z9IB2wFBVV95cUxORHZ0b2ktZWxJX2FpUnNPdnJTNHdKNk1yM29GbFpLT09iWGF3YWJ0NEdjTWV0dE04UnFmaU9JWHBaWEFXdEI3MmhvQnFfRmZQS3JwSDJ4ZzJPbDAzZGYyb3l5N3JfbDVIY1JjTXl4SER3emd0VkhCUkJqSWNwVVNVcHZ2S0hzVk5QR3FnYlF3eVBBUjgxTGJoZG8yRjF1NzJwMEpFX2FZMng1VUc3VTBtY2lHT2Q3RlhTdDdiczAxeTFIVmt4ZEdlbFNVS1M3WmRDQ2paWmlpYm1sd0k?oc=5",
-      "source": "The New Indian Express",
-      "date": "07 Nov 2026, 09:52 AM"
+      "title": "No Rain Threat for Odisha as Bay of Bengal Low-Pressure System Diverts; Morning Fog Expected Across 9 Districts - Pragativadi",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVkxoUHlPY3FrWjZWYzBDd0JxU2hWUE5CZi03b3hHb3J3OURKY1lCaG8tZUZYMkM4WTBpV2dYcTlXYkVBa2pRZ2F5OFRDWVhRXzA4djNjdzhDN01pVXYyNjRPTFlrN3RIQ1FDbXZ3MFdpYzltM0dCWTlIbUZJWURYS0ltZGlPX053dWdueWVfWFUzaHJzNzUxUnU3R1ZyYzRTdk5WeFJBRHZJcUFKWTE1elZqYVc1NGJlWGVLQUZHYXJPYVBMZWhZSEUyM3VKdzEy?oc=5",
+      "source": "Pragativadi",
+      "date": "11 Nov 2026, 11:37 AM"
+    },
+    {
+      "title": "Meteorological centre predicts sharp decline in mercury levels across Odisha districts - prameyanews.com",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NNEZMcGtMZFBWS0xrUHJGWDN1LXNlWHpCeENSaDNPMkdRUnBJMVgzbXJGak9VOXdnbU5qNWJNUkxwREV4WkVZcTAzSURNWGcwN1BXaFJfRTZyNXZWbmZWd0dFVFZaZVVMX1ByWUljaw?oc=5",
+      "source": "prameyanews.com",
+      "date": "08 Nov 2026, 01:48 PM"
     }
   ]
 };
