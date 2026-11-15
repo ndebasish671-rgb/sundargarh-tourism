@@ -1,6 +1,6 @@
 /* Updated daily by GitHub Actions (.github/workflows/daily-sync.yml) */
 window.NEWS_DATA = {
-  "updated": "12 Nov 2026, 01:07 PM IST",
+  "updated": "15 Nov 2026, 12:33 PM IST",
   "source": "Google News RSS",
   "query": "Sundargarh OR Rourkela Odisha when:7d",
   "items": [
@@ -11,34 +11,16 @@ window.NEWS_DATA = {
       "date": "09 Nov 2026, 07:14 PM"
     },
     {
-      "title": "17th Odisha Environment Congress Concludes at NIT Rourkela; Institute Honoured with S. B. Mishra Green Corporate Award - www.pib.gov.in",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzQjZSTkF5d2xhbW1qVkMyOTVYSU53eEJBc2VpbTUwaFk1R3FuNnRuaGNEU1pzajVVRG5xbm9SeVhBQi03WEFlWXRyY0NxWk1ERnBQLXhsU1pZSU1XYXMzaHdUYUNZOEFm?oc=5",
-      "source": "www.pib.gov.in",
-      "date": "06 Nov 2026, 08:00 PM"
-    },
-    {
-      "title": "Odisha adds 318 PG medical seats; 5 government colleges to start PG courses - The New Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdHBVMmVEeE1hMjE3eTJYSF9KalhfNDVIQi1QOGlFbkd3a0pQRHZ3OVZlVVpnZHNZdkF4RjBLbjV2T2duTU1lMXRESGNRdXhsamZIUk9YcnRpS3JINE0wY1NxalNRZ29jaG05UkJuX2xoRVNPRFFNSDczQkwxRW9nMjRRZmRPc08wdDBaenJwQWt0VWtsUFM4WmgyRzZUc3lNWmNZNy1MZ3RYQ0o5WlFiQ2JDX3M3a0xPOHd0T0Itc2lhekpPUklXUVZhbnA1Z9IB2wFBVV95cUxORHZ0b2ktZWxJX2FpUnNPdnJTNHdKNk1yM29GbFpLT09iWGF3YWJ0NEdjTWV0dE04UnFmaU9JWHBaWEFXdEI3MmhvQnFfRmZQS3JwSDJ4ZzJPbDAzZGYyb3l5N3JfbDVIY1JjTXl4SER3emd0VkhCUkJqSWNwVVNVcHZ2S0hzVk5QR3FnYlF3eVBBUjgxTGJoZG8yRjF1NzJwMEpFX2FZMng1VUc3VTBtY2lHT2Q3RlhTdDdiczAxeTFIVmt4ZEdlbFNVS1M3WmRDQ2paWmlpYm1sd0k?oc=5",
-      "source": "The New Indian Express",
-      "date": "07 Nov 2026, 09:52 AM"
-    },
-    {
       "title": "Odisha Under-23s vs Himachal Pradesh U23 at Sundargarh, Col C K Nayudu Trophy Elite, 2-5 Feb 2027 - BCCI",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qMFczNC1Cb3dHb1JGLWZJbG53UDBmSTNjY3NXMHJxT0lta3RURWFOc3BNTHYzRE5tY2ZERkF0cHMwaFlZUGkyUEtRSnVaRnJLSnFyaHp6VmJzUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObmhkeWpsVkdNcnNxXzhrSGFTN2pSTUxuOXhiaktMenJBdWQwUy03RDBKbFpsXzNSX3VjNDVRd0FDM1YzLUVIbV9rNG5SZGNGSzFFSzk1MWQwZjY3Z1hibUR5NVQweDFtSEdhNHBkWEtjQ1JTbVdRZHdmRXVxQWI4anZvdU1ZbHpPYWNScldvNFYwTGFJUWVOeGhJMUpsdXJiX3V0ZDJ1Y1l5ejBvdU9mMkxfZ0JNWXBtWjF1QWtzZVBoa2ltUVk5QUtqRmdDdC1kS2RRTnh2TkFqS0tzTFVYT0x6NzFnTGhQc1l4dGRR?oc=5",
       "source": "BCCI",
-      "date": "06 Nov 2026, 10:02 PM"
+      "date": "15 Nov 2026, 09:59 AM"
     },
     {
-      "title": "Rourkela Vigilance Raid: गेस्ट इंस्ट्रक्टर से घ लेते दबोचे गए ITI प्रिंसिपल, घर से मिला भारी कैश #OdishaVigilance #RourkelaRaid #Corruption #OdishaNews #dynamitenews - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMinwVBVV95cUxPblhfbFFpYkdDRHNVeW1HcWhEN09aRUJxTGxMREFpR0djTlgwYTJPak12NHBiMGFmUl9RemwzdXJjMFI1RWp2aU91WEp6aEhabHVIUkZpaDRGTkdNZ3I0bWxtQkJuaDJVQktDWDVRZmhrTnhwWVRWcl90U21uOEpILWpKdmVzNGQ0UzFPU1RBWTZkNlo2ZGJHTVZWOXFLUGhoblFCQjIxS3oxUHluOVZFQmZEVktrckpVeEhVTzVUTUR0VFhXS21yLXVWb1FOOGtWLXN0bG5GUkpzanFUczFfaFVJaGdteXB1Nm4wYnU3NjkwZGFKMEo1SFAzNTEtcmNkNHZuQ292ZWJwWEYtUmE4SWRUaXF5RlZXeEZBbVBNZk16LXR2TWlMZzg3RTBVSlRzOTg5RTRFVlMxdXhpc1dfMjN0Z3NEOG93UktjNm9ySHRXRHlDRTNYMy04bVBqRmZ4X0RnRi0wWEFPUTB6OThZNkRpLVZYWlNiTzlvNy04SmhPZlFFeFFMUE1LQkhxTmJTeUxlQzhUcjZlVU1qcjNURGxramE5T0JvNXNzNVJWZmIxR3lUTXVrYUVEVHgtcEN2TFRqaUVRUkFheDlFekFpZWpZVkpQdDZEUWlWZ3FwRzNjTFozY1YtTWtUN2I5R1UxUmpCazlGUVJoekVEWlh0SndwaVdJTUhiUmhieklkaXBuWkJrejdGaDNPOXduYWxxN3k3RFB6WnBHcjEydGZDbGZBRjlfNWstdzJ3YnZZdTU2SEs0RVdlSUxJd0FtYWlSd2VPVF9sMmtLbHIxa0xWbkM4dUZMLXFwMXFnQlFTSFc1R3ZqUVplTUptU1B0Rm40dURhZFFBZ1ZTSEhTSUpnLWk1Z180UUpaOUstZVNORQ?oc=5",
-      "source": "Facebook",
-      "date": "07 Nov 2026, 08:55 AM"
-    },
-    {
-      "title": "Meteorological centre predicts sharp decline in mercury levels across Odisha districts - prameyanews.com",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NNEZMcGtMZFBWS0xrUHJGWDN1LXNlWHpCeENSaDNPMkdRUnBJMVgzbXJGak9VOXdnbU5qNWJNUkxwREV4WkVZcTAzSURNWGcwN1BXaFJfRTZyNXZWbmZWd0dFVFZaZVVMX1ByWUljaw?oc=5",
-      "source": "prameyanews.com",
-      "date": "08 Nov 2026, 01:48 PM"
+      "title": "Rourkela Steel Plant capacity likely to be scaled down to 3 MTPA from 5 MTPA - The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOM3hPNlZSZDVfelEzeEYwVE9maVRvV294WENYQzByMFhQOFZfeUxRamQ4TUZEQWp0Ui1JU2V5MHp0R3UtZHNtcTNnTnI0YXc1djhiUG9XTzFyc3U5TUtVRjZhRjdDSFlNNklTNkxEeWpZS2toR2w0c3M1cWFtdlFCVTFpUktZV1hrTGF5ZDZUNk03cnJjaTh2eEtERGU2bEYybGV4YmJXaW5KREN2RlBrdlZwUV9iRzUza1FEallsbmFRNnY3SWFsYkllb1VUTEpod0FPbmJINWVFenY4TmfSAd4BQVVfeXFMTjN4TzZWUmQ1X3pRM3hGMFRPZmlUb1dveFhDWEMwcjBYUDhWX3lMUWpkOE1GREFqdFItSVNleTB6dEd1LWRzbXEzZ05yNGF3NXY4YlBvV08xcnN1OU1LVUY2YUY3Q0hZTTZJUzZMRHlqWUtraEdsNHNzNXFhbXZRQlUxaVJLWVdYa0xheWQ2VDZNN3JyY2k4dnhLRERlNmxGMmxleGJiV2luSkRDdkZQa3ZWcFFfYkc1M2tRRGpZbG5hUTZ2N0lhbGJJZW9VVExKaHdBT25iSDVlRXp2OE5n?oc=5",
+      "source": "The New Indian Express",
+      "date": "13 Nov 2026, 10:06 AM"
     },
     {
       "title": "No Rain Threat for Odisha as Bay of Bengal Low-Pressure System Diverts; Morning Fog Expected Across 9 Districts - Pragativadi",
@@ -47,10 +29,28 @@ window.NEWS_DATA = {
       "date": "11 Nov 2026, 05:37 PM"
     },
     {
-      "title": "Diwali Firecracker Rules Defied as Odisha Cities Turn Hazy - Urban Acres",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPblBDLXA3VlIzY05naVRCVGJ2MFZFVE9HMWlZNnZNakRkemh3bk1vNGZWNzI0MU8waWlxbGV3R0Q5djNBUzZlc2U5R3BaRmhURUxFVnFRN1ZaNnZsbU90Nm5DM0pCQWtyR3g5dUF2SkNwdEg0RXBLWjl1aE1jMHBKQkZ5a3BtR0lq?oc=5",
-      "source": "Urban Acres",
-      "date": "08 Nov 2026, 09:43 PM"
+      "title": "Odisha youngster Pooja Sahoo breaks into India squad for Women’s Asian Champions Trophy - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQMzA1a2JXbnZDVkZWbUF4Ni02STRaOTNlMmZQN0pic0pWdjdxQ0hQNTFFOWRXNEMtOFM1N2NMUlpkWktrMmpJTUFBUDNfaDN2cXZLU00tb25mZm5BVS1LZlNJbE5ZYlFXb2ItV0hqVzBnN0YyZ1hZMEtFWEJwWlN0RUZ1R3BKU0wzbFk0Y1hZMndLVEhzbkYzek5WQlBBNXgyaG00Wk9NUUladHZPUE9JSEt2QnNKdzY2d1U3d0RSeWVLS1hUdjducEEwSVZkcU10SFZYUGY2djZrVldGS0FHNWZTR21xaF9VQ2hfcjdxOWQ5OWRlY3MzZmlVMHFZbk91V0dlRdIBigJBVV95cUxQcTVVTmN0SUZnUHppUGU0cWthV3JkLWExYWpnS0FLRjZTZndkTnlmeEtUd2tlLU9hV1FTeWtYOU82V2ZMRUYtNWQ5cnFvVGRZN2pXN1BZam5iLUpTcGVwYjB6UGxlQmJpaHZCTEhVaGEwNXJwSHJVOEJKUzNQVXFrRE5UcThQUjhxR2J5SEI3ZVlrNFd2YndjajBLdU9lRXZtNHowVGx2SW9pa05Jd295eG9Oa1U3S182QTY2R3dlYWFrX0VOdEpVa2ZRSXpRR3VXa2pjcW1Kd2lEQVJQZ0ZHLUN6Ty1fQmc2VFpSWnp0Q2x3XzJGVlFrS1FaY3hReGlUUUdOU2IxS2NmQQ?oc=5",
+      "source": "The Times of India",
+      "date": "11 Nov 2026, 09:01 AM"
+    },
+    {
+      "title": "Rourkela police arrest HDFC Bank employee from Mumbai in Rs 6 lakh APK file fraud - The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNX0lVeWMwOVNIdFUxUktybjE3S0thZmdJWWhnV1ZyTThBSWxVWEFfbGxxYV9uXzdtMFk3WG5KZndTYm5ZTDhCZUhfdGVKcm5QU0FKbVlGODAxbDdrUFVUVzFNVElNd1ZvcmZXcEc0bDNiM1kxbWpVVVdTUHA4Q3Mwd2puQ0lEZGRVRW5YVjRsTExzM2V0WFgxdDUtb3FIVzg0NTA0M01abVpnY3FXcFRVaGRDS2dPZ1k0N1d3OHJJTEpEbzlTLTNRZzU3aTQxclNtemZJM0pnX0tHOTJtajZFR1loVmLSAeQBQVVfeXFMTV9JVXljMDlTSHRVMVJLcm4xN0tLYWZnSVloZ1dWck04QUlsVVhBX2xscWFfbl83bTBZN1huSmZ3U2JuWUw4QmVIX3RlSnJuUFNBSm1ZRjgwMWw3a1BVVFcxTVRJTXdWb3JmV3BHNGwzYjNZMW1qVVVXU1BwOENzMHdqbkNJRGRkVUVuWFY0bExMczNldFhYMXQ1LW9xSFc4NDUwNDNNWm1aZ2NxV3BUVWhkQ0tnT2dZNDdXdzhySUxKRG85Uy0zUWc1N2k0MXJTbXpmSTNKZ19LRzkybWo2RUdZaFZi?oc=5",
+      "source": "The New Indian Express",
+      "date": "14 Nov 2026, 10:33 AM"
+    },
+    {
+      "title": "Supreme Court Dismisses Writ Petition on Applicability of Orissa Municipal Act in Scheduled Area. The court found that the Orissa Municipal Act was validly applied to Sundargarh through a notification, thus municipalities could continue to exist. - Lawtext",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9STVVJampqMExraXl5bEZNS3F3ZHlwbUJ2cEcxSHRUejRmYUlvdnAyeDdHXzF4bWdDa04wM2R3eU1zbUhheWk0cUxON2J3ajJEaHBWbl93djJfeUdxM0ZWR3IwaVVUUQ?oc=5",
+      "source": "Lawtext",
+      "date": "13 Nov 2026, 03:52 PM"
+    },
+    {
+      "title": "Vacancy crisis cripples Sundargarh SSEPD department as District head post remains unfilled - The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOclI0UGx3cGQwamttQTgzOFprd29TdWNRRmMydEcwRDBoSGppR2lOSzlKVS1zRlVJTXdKTmw0eVBFSjAxdGRXaElXNnZPUmFVZkMzSDdBMFhYTlo4X0Z4NW53ekdiQkpoNmFzcXRWTVV4MlFHa1h0eTZYMnRONUpHd0c2Vk0yVjBIbWhCbEFsaW1EV0RMc2RIR0c1ZFdMVUNMdzZKU0t4UG1FWWJUMi1ZRU8zc1BRR19hbUIxWWpyRVY2Wm5ZZjBMVEdfTDRSd1pOYmxFVUVMeFNpRFRwQUlpNG5hTdIB8AFBVV95cUxNN1Fpc092VVk1LThhUDVNUXYyaTUwdzhQS08xRmFMWWNoc2lxb3RPZWZrcGhwVElZZGg3WXFKQlRyeEE1NVBNQjhnVGMya3pMU0dwV3J1NVpESDcyalNTbXBpNmFUMmZleTRaX2x1NzRwcXIyODJPSUVXMkxaMk1ZS2dHY0x5a3FMYmh2Q0p2MEhxcDNJNGhiU2VkU2E1VnVBdTBUZjQyV2cxNGs3ZmdVMUlocFBNZWtZTGVxbXZBQ0VfRF9wSUc3eUlJM1diUE9hd3FEM3hpS2NmNVpUbHVsblZQQmlObkhNZjZzOTh1WFE?oc=5",
+      "source": "The New Indian Express",
+      "date": "15 Nov 2026, 08:18 AM"
     }
   ]
 };
