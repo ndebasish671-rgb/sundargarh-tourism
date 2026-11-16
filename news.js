@@ -1,6 +1,6 @@
 /* Updated daily by GitHub Actions (.github/workflows/daily-sync.yml) */
 window.NEWS_DATA = {
-  "updated": "15 Nov 2026, 12:33 PM IST",
+  "updated": "16 Nov 2026, 12:39 PM IST",
   "source": "Google News RSS",
   "query": "Sundargarh OR Rourkela Odisha when:7d",
   "items": [
@@ -12,9 +12,9 @@ window.NEWS_DATA = {
     },
     {
       "title": "Odisha Under-23s vs Himachal Pradesh U23 at Sundargarh, Col C K Nayudu Trophy Elite, 2-5 Feb 2027 - BCCI",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObmhkeWpsVkdNcnNxXzhrSGFTN2pSTUxuOXhiaktMenJBdWQwUy03RDBKbFpsXzNSX3VjNDVRd0FDM1YzLUVIbV9rNG5SZGNGSzFFSzk1MWQwZjY3Z1hibUR5NVQweDFtSEdhNHBkWEtjQ1JTbVdRZHdmRXVxQWI4anZvdU1ZbHpPYWNScldvNFYwTGFJUWVOeGhJMUpsdXJiX3V0ZDJ1Y1l5ejBvdU9mMkxfZ0JNWXBtWjF1QWtzZVBoa2ltUVk5QUtqRmdDdC1kS2RRTnh2TkFqS0tzTFVYT0x6NzFnTGhQc1l4dGRR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQmo4eHNHc3VSQXFGME1HM2VwZkdZcEo3QkJWSUJoSnk2bmhZSjFhWl9ubGZBZTVOSEh6ajZyUUpiMGE3YUxlS09ybHdjaE1nTVFQTnhBUnhkREdoc0VoX2hfMERRd0RqMkxzc1o4dlRaSG54NUlOTjR3WlRlTjRpeFFYUDczb2lLLUZmNlV2N2NETjFEdWRLcms2V1cxcU1aX2pMa1NCQUVEam1oS3doRHlzeUZrVEtYZjRBaTVXanpXMDYwRUlMalluUU1KUW5NbG1GRDNfcV9LMVlmN0gzY2Mwekt4WWlkdUVwbk9EMzlOS05MTHZMSWVR?oc=5",
       "source": "BCCI",
-      "date": "15 Nov 2026, 09:59 AM"
+      "date": "15 Nov 2026, 10:36 PM"
     },
     {
       "title": "Rourkela Steel Plant capacity likely to be scaled down to 3 MTPA from 5 MTPA - The New Indian Express",
@@ -29,28 +29,28 @@ window.NEWS_DATA = {
       "date": "11 Nov 2026, 05:37 PM"
     },
     {
+      "title": "Odisha Under-23s vs Himachal Pradesh U23 at Sundargarh, Col C K Nayudu Trophy Elite, 2-5 Feb 2027 - BCCI",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQT2RwZ2djdm5QaVduNVR3QUVxVzhWclY3V2FYclp6Nlo0SUxvZm1HRHU5VjJVSGJ3aU5FVHRjUG9nVDZWalZJc2wzMG5uM2lSMFlYdWZpcGprcVBoYXdFekl4Tmk1Z3YxaFJYVEVPcGhLLXVWWE05YkE4cjQ2NVBWWG1VbGJCcFpDNTdJUjAyYUpRVzBxM2hhb3NMclZxSF9LcmE3bk1GUFR1cWY2eVoxM29UODUtMUxSdjhOd19xeV92OU4tbzI1Sjd4amRIMGFlYTNFQkxSc0VHV19hSHBlSTlBdF9SdXVObmtVdVNJYlhNVUE?oc=5",
+      "source": "BCCI",
+      "date": "16 Nov 2026, 08:56 AM"
+    },
+    {
       "title": "Odisha youngster Pooja Sahoo breaks into India squad for Women’s Asian Champions Trophy - The Times of India",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQMzA1a2JXbnZDVkZWbUF4Ni02STRaOTNlMmZQN0pic0pWdjdxQ0hQNTFFOWRXNEMtOFM1N2NMUlpkWktrMmpJTUFBUDNfaDN2cXZLU00tb25mZm5BVS1LZlNJbE5ZYlFXb2ItV0hqVzBnN0YyZ1hZMEtFWEJwWlN0RUZ1R3BKU0wzbFk0Y1hZMndLVEhzbkYzek5WQlBBNXgyaG00Wk9NUUladHZPUE9JSEt2QnNKdzY2d1U3d0RSeWVLS1hUdjducEEwSVZkcU10SFZYUGY2djZrVldGS0FHNWZTR21xaF9VQ2hfcjdxOWQ5OWRlY3MzZmlVMHFZbk91V0dlRdIBigJBVV95cUxQcTVVTmN0SUZnUHppUGU0cWthV3JkLWExYWpnS0FLRjZTZndkTnlmeEtUd2tlLU9hV1FTeWtYOU82V2ZMRUYtNWQ5cnFvVGRZN2pXN1BZam5iLUpTcGVwYjB6UGxlQmJpaHZCTEhVaGEwNXJwSHJVOEJKUzNQVXFrRE5UcThQUjhxR2J5SEI3ZVlrNFd2YndjajBLdU9lRXZtNHowVGx2SW9pa05Jd295eG9Oa1U3S182QTY2R3dlYWFrX0VOdEpVa2ZRSXpRR3VXa2pjcW1Kd2lEQVJQZ0ZHLUN6Ty1fQmc2VFpSWnp0Q2x3XzJGVlFrS1FaY3hReGlUUUdOU2IxS2NmQQ?oc=5",
       "source": "The Times of India",
       "date": "11 Nov 2026, 09:01 AM"
     },
     {
-      "title": "Rourkela police arrest HDFC Bank employee from Mumbai in Rs 6 lakh APK file fraud - The New Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNX0lVeWMwOVNIdFUxUktybjE3S0thZmdJWWhnV1ZyTThBSWxVWEFfbGxxYV9uXzdtMFk3WG5KZndTYm5ZTDhCZUhfdGVKcm5QU0FKbVlGODAxbDdrUFVUVzFNVElNd1ZvcmZXcEc0bDNiM1kxbWpVVVdTUHA4Q3Mwd2puQ0lEZGRVRW5YVjRsTExzM2V0WFgxdDUtb3FIVzg0NTA0M01abVpnY3FXcFRVaGRDS2dPZ1k0N1d3OHJJTEpEbzlTLTNRZzU3aTQxclNtemZJM0pnX0tHOTJtajZFR1loVmLSAeQBQVVfeXFMTV9JVXljMDlTSHRVMVJLcm4xN0tLYWZnSVloZ1dWck04QUlsVVhBX2xscWFfbl83bTBZN1huSmZ3U2JuWUw4QmVIX3RlSnJuUFNBSm1ZRjgwMWw3a1BVVFcxTVRJTXdWb3JmV3BHNGwzYjNZMW1qVVVXU1BwOENzMHdqbkNJRGRkVUVuWFY0bExMczNldFhYMXQ1LW9xSFc4NDUwNDNNWm1aZ2NxV3BUVWhkQ0tnT2dZNDdXdzhySUxKRG85Uy0zUWc1N2k0MXJTbXpmSTNKZ19LRzkybWo2RUdZaFZi?oc=5",
+      "title": "Vacancy crisis cripples Sundargarh SSEPD department as District head post remains unfilled - The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOclI0UGx3cGQwamttQTgzOFprd29TdWNRRmMydEcwRDBoSGppR2lOSzlKVS1zRlVJTXdKTmw0eVBFSjAxdGRXaElXNnZPUmFVZkMzSDdBMFhYTlo4X0Z4NW53ekdiQkpoNmFzcXRWTVV4MlFHa1h0eTZYMnRONUpHd0c2Vk0yVjBIbWhCbEFsaW1EV0RMc2RIR0c1ZFdMVUNMdzZKU0t4UG1FWWJUMi1ZRU8zc1BRR19hbUIxWWpyRVY2Wm5ZZjBMVEdfTDRSd1pOYmxFVUVMeFNpRFRwQUlpNG5hTdIB8AFBVV95cUxNN1Fpc092VVk1LThhUDVNUXYyaTUwdzhQS08xRmFMWWNoc2lxb3RPZWZrcGhwVElZZGg3WXFKQlRyeEE1NVBNQjhnVGMya3pMU0dwV3J1NVpESDcyalNTbXBpNmFUMmZleTRaX2x1NzRwcXIyODJPSUVXMkxaMk1ZS2dHY0x5a3FMYmh2Q0p2MEhxcDNJNGhiU2VkU2E1VnVBdTBUZjQyV2cxNGs3ZmdVMUlocFBNZWtZTGVxbXZBQ0VfRF9wSUc3eUlJM1diUE9hd3FEM3hpS2NmNVpUbHVsblZQQmlObkhNZjZzOTh1WFE?oc=5",
       "source": "The New Indian Express",
-      "date": "14 Nov 2026, 10:33 AM"
+      "date": "15 Nov 2026, 08:18 AM"
     },
     {
       "title": "Supreme Court Dismisses Writ Petition on Applicability of Orissa Municipal Act in Scheduled Area. The court found that the Orissa Municipal Act was validly applied to Sundargarh through a notification, thus municipalities could continue to exist. - Lawtext",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9STVVJampqMExraXl5bEZNS3F3ZHlwbUJ2cEcxSHRUejRmYUlvdnAyeDdHXzF4bWdDa04wM2R3eU1zbUhheWk0cUxON2J3ajJEaHBWbl93djJfeUdxM0ZWR3IwaVVUUQ?oc=5",
       "source": "Lawtext",
       "date": "13 Nov 2026, 03:52 PM"
-    },
-    {
-      "title": "Vacancy crisis cripples Sundargarh SSEPD department as District head post remains unfilled - The New Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOclI0UGx3cGQwamttQTgzOFprd29TdWNRRmMydEcwRDBoSGppR2lOSzlKVS1zRlVJTXdKTmw0eVBFSjAxdGRXaElXNnZPUmFVZkMzSDdBMFhYTlo4X0Z4NW53ekdiQkpoNmFzcXRWTVV4MlFHa1h0eTZYMnRONUpHd0c2Vk0yVjBIbWhCbEFsaW1EV0RMc2RIR0c1ZFdMVUNMdzZKU0t4UG1FWWJUMi1ZRU8zc1BRR19hbUIxWWpyRVY2Wm5ZZjBMVEdfTDRSd1pOYmxFVUVMeFNpRFRwQUlpNG5hTdIB8AFBVV95cUxNN1Fpc092VVk1LThhUDVNUXYyaTUwdzhQS08xRmFMWWNoc2lxb3RPZWZrcGhwVElZZGg3WXFKQlRyeEE1NVBNQjhnVGMya3pMU0dwV3J1NVpESDcyalNTbXBpNmFUMmZleTRaX2x1NzRwcXIyODJPSUVXMkxaMk1ZS2dHY0x5a3FMYmh2Q0p2MEhxcDNJNGhiU2VkU2E1VnVBdTBUZjQyV2cxNGs3ZmdVMUlocFBNZWtZTGVxbXZBQ0VfRF9wSUc3eUlJM1diUE9hd3FEM3hpS2NmNVpUbHVsblZQQmlObkhNZjZzOTh1WFE?oc=5",
-      "source": "The New Indian Express",
-      "date": "15 Nov 2026, 08:18 AM"
     }
   ]
 };
