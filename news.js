@@ -1,15 +1,9 @@
 /* Updated daily by GitHub Actions (.github/workflows/daily-sync.yml) */
 window.NEWS_DATA = {
-  "updated": "16 Nov 2026, 12:39 PM IST",
+  "updated": "19 Nov 2026, 01:19 PM IST",
   "source": "Google News RSS",
   "query": "Sundargarh OR Rourkela Odisha when:7d",
   "items": [
-    {
-      "title": "Diwali tragedy: Boy killed in Rourkela, over 100 injured in cracker mishaps across Odisha - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQVFY5OVFYVmRGeC10VGxnUkZWZWVia2tmQ0w1V1NQVFp1SFl1S19ZWXZ4SE5LVVJlbHlQbVRtMFdNTnpySFMwWWV5S0RMLXo1b2NDTFJDcmRxb3VwOXhZNFp1aExUMzcwanNHSWFlYUVLVHZkcFNXdWM1dUdGeDdORDBUWEdkSHdZdDF2eVBiNkUtMjR0MFVMR2dNRWM4RVM1bGlHVzF0d3FOZkJ2ajlmbW1hN0Z4UEVNakNIOFRhYVpSZGV5TnYyYUdpWmQtSnhoNFBhRGZQMkpnYklhVzN3RW1yT3loRkdicm5aQWtGTFRxc1NxdEdiZTF30gH_AUFVX3lxTE1LNkh2cjhWbjE0ZXg1a2kwbGZwekZ5U1dBU2FHR09hYmVwUlJPR1ZhckdzSm1RdkNRckwzSzZyVWVfSTl5QUdqMWR6WWVCWjJXY3BoUHdmMmFBTWtaTk4tMmcxWGgzM00xM3E4ZEJaalI3QUlwdzdmV0hWVVlPY1N4UnhOajhwa0VkWVMxRHhIemtiY2lrRGJjeVRJaE9ZdU9raE1vbVoyS1E0R19ZWHdtZldzekdSTzdLSHRYSmxYbXNhVk00LWpqVEpJRTVULTNKOEp0c0RzMnlEOVJYeDVwdVh5Y2hZSDBjZWhrZkN1aDRYWnlmWlp1eUZJUF9KRQ?oc=5",
-      "source": "The Times of India",
-      "date": "09 Nov 2026, 07:14 PM"
-    },
     {
       "title": "Odisha Under-23s vs Himachal Pradesh U23 at Sundargarh, Col C K Nayudu Trophy Elite, 2-5 Feb 2027 - BCCI",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQmo4eHNHc3VSQXFGME1HM2VwZkdZcEo3QkJWSUJoSnk2bmhZSjFhWl9ubGZBZTVOSEh6ajZyUUpiMGE3YUxlS09ybHdjaE1nTVFQTnhBUnhkREdoc0VoX2hfMERRd0RqMkxzc1o4dlRaSG54NUlOTjR3WlRlTjRpeFFYUDczb2lLLUZmNlV2N2NETjFEdWRLcms2V1cxcU1aX2pMa1NCQUVEam1oS3doRHlzeUZrVEtYZjRBaTVXanpXMDYwRUlMalluUU1KUW5NbG1GRDNfcV9LMVlmN0gzY2Mwekt4WWlkdUVwbk9EMzlOS05MTHZMSWVR?oc=5",
@@ -17,16 +11,34 @@ window.NEWS_DATA = {
       "date": "15 Nov 2026, 10:36 PM"
     },
     {
-      "title": "Rourkela Steel Plant capacity likely to be scaled down to 3 MTPA from 5 MTPA - The New Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOM3hPNlZSZDVfelEzeEYwVE9maVRvV294WENYQzByMFhQOFZfeUxRamQ4TUZEQWp0Ui1JU2V5MHp0R3UtZHNtcTNnTnI0YXc1djhiUG9XTzFyc3U5TUtVRjZhRjdDSFlNNklTNkxEeWpZS2toR2w0c3M1cWFtdlFCVTFpUktZV1hrTGF5ZDZUNk03cnJjaTh2eEtERGU2bEYybGV4YmJXaW5KREN2RlBrdlZwUV9iRzUza1FEallsbmFRNnY3SWFsYkllb1VUTEpod0FPbmJINWVFenY4TmfSAd4BQVVfeXFMTjN4TzZWUmQ1X3pRM3hGMFRPZmlUb1dveFhDWEMwcjBYUDhWX3lMUWpkOE1GREFqdFItSVNleTB6dEd1LWRzbXEzZ05yNGF3NXY4YlBvV08xcnN1OU1LVUY2YUY3Q0hZTTZJUzZMRHlqWUtraEdsNHNzNXFhbXZRQlUxaVJLWVdYa0xheWQ2VDZNN3JyY2k4dnhLRERlNmxGMmxleGJiV2luSkRDdkZQa3ZWcFFfYkc1M2tRRGpZbG5hUTZ2N0lhbGJJZW9VVExKaHdBT25iSDVlRXp2OE5n?oc=5",
+      "title": "Odisha: NH expansion work reviewed by MoRTH in Sundargarh - The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWURJalAtZVZkdkpmN0xrMGM4a3lVZ1pHMEZUT1F1elJkWjI3TklrcENjNk9tTGdFaGdyeFZGaWJFcEFid0xXZXUzRjNrNG9Qdk9wY05RTTJaa2dobFY0aEVtc1hWelNWeFYwYnIyd0s4Mm10eEFMY013TFZ5Y0RLNTkzZDJ0OFFtbWJnOWJDUnRZa2ZlZ25yNjM4akZESkZ2LU80M2wzNHp0WWlsLV9ENVlqTmlhZ9IBwwFBVV95cUxQX2w5Z2xOWFVzR3NENnRoUUxhX3ZjVHZzVGhRTHBSaWQ1ZXVJcGtIT0hQSnVHWk9LS2E4TVZYQTVSZDZhYmFqcUJzTU5ZaTJkNDk4OW5MN1VYRS1RRWdGZUY4NVdaY3gzMVRUa3F6dmd1UVpIcDRzS1ZqYzRhbU5NajNTYWJya3BQUGd2ZmdHeXljWnZTX3VqRDZYNmgwcy1YNkROWUx6VmJfTFV1VElKMkdFMGNsakxka3dCQnp1VENxc2c?oc=5",
       "source": "The New Indian Express",
-      "date": "13 Nov 2026, 10:06 AM"
+      "date": "19 Nov 2026, 09:06 AM"
     },
     {
-      "title": "No Rain Threat for Odisha as Bay of Bengal Low-Pressure System Diverts; Morning Fog Expected Across 9 Districts - Pragativadi",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVkxoUHlPY3FrWjZWYzBDd0JxU2hWUE5CZi03b3hHb3J3OURKY1lCaG8tZUZYMkM4WTBpV2dYcTlXYkVBa2pRZ2F5OFRDWVhRXzA4djNjdzhDN01pVXYyNjRPTFlrN3RIQ1FDbXZ3MFdpYzltM0dCWTlIbUZJWURYS0ltZGlPX053dWdueWVfWFUzaHJzNzUxUnU3R1ZyYzRTdk5WeFJBRHZJcUFKWTE1elZqYVc1NGJlWGVLQUZHYXJPYVBMZWhZSEUyM3VKdzEy?oc=5",
-      "source": "Pragativadi",
-      "date": "11 Nov 2026, 05:37 PM"
+      "title": "Raju Elephant in Sundargarh | Spotted Near Dharuadihi Village - Kanak News Odisha",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOV9pUDczdHZaSTZaRFpTWU9GaVpsNUYxckE3UGlLczgxUk01YldIU3VmMEpNelhVT0EydXNuemxYTDZzbEdiN1pIU0JpWXZZdUZhT2xPTFJWUXZGN1p2QnFEcnJua1BmeWF2Q2dCalBIY1lkdHI3cUdpZDNTWE5rUzg3MWE5UzVsbm0xSUxLdV9xUnFSYUtXTlNxNFlmcWRJQWh4X29WMm5YZkdOYmfSAa4BQVVfeXFMUDlfaVA3M3R2Wkk2WkRaU1lPRmlabDVGMXJBN1BpS3M4MVJNNWJXSFN1ZjBKTXpYVU9BMnVzbnpsWEw2c2xHYjdaSFNCaVl2WXVGYU9sT0xSVlF2RjdadkJxRHJybmtQZnlhdkNnQmpQSGNZZHRyN3FHaWQzU1hOa1M4NzFhOVM1bG5tMUlMS3VfcVJxUmFLV05TcTRZZnFkSUFoeF9vVjJuWGZHTmJn?oc=5",
+      "source": "Kanak News Odisha",
+      "date": "18 Nov 2026, 05:25 PM"
+    },
+    {
+      "title": "NIT Rourkela Hosts 34th National Conference on Condensed Matter Physics - Odisha Diary",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdnFVbVF1V3hVVk1BQXcxQWp0WWNkSlBvc2MxTnBWa2xVZE9LOFI3Y3ZHLVpyNHVWemFwcGdRa2hrSFEzdDVCTk1yZVhEaGpDNnVoczBFWm81VzdTcWU2czlvWGV3OWZ4bWVCTzhpYlVUSm9pY3JvVGlRb09ZQ2hYVENoeExiN3pzWk9Sc1ZxWDRmUkFySmNDeUdXRzU?oc=5",
+      "source": "Odisha Diary",
+      "date": "18 Nov 2026, 02:28 PM"
+    },
+    {
+      "title": "Supreme Court Quashes Lanjiberna Land Acquisition, Upholds Rights of Affected Tribal Communities in Odisha - Catholic Connect",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVEZxMGJkUFdPRDZPRWNJaXIwdDJydWpvbGNiODZtbjB1UmFKT2VDZHVDaDVXaHQ0NFdGdnJqS0g3NTVBc1NHaGUzTEJha3UyNS03dG41S2dfaVlOdUJwdzZhNDdaRm44MFJEaTIyNjB2U0VScmV5dTZlX2dzeU5hd2FwYXl1Z2NBU3ZOSHRIMzZWTmtiNzI3MldIVEdzLUdyLUYzNklMTUJYdlRtd2JLWUM2OTljdzRmZEdiNkF4NnJ2VWxpMndTODJpaTQ4V1R0MTNF?oc=5",
+      "source": "Catholic Connect",
+      "date": "19 Nov 2026, 11:54 AM"
+    },
+    {
+      "title": "NIT Rourkela Researchers Patent Solar-Powered Smart Microgrid To Make EV Charging Stations More Reliable - Swarajya",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeFlrLXhPWnFiZVRFV2dkNV9oWGNrejl2R2pxaTRmYmhwbm5LTkJaWDE2enRkWGpRZnNYSmN0WDNfaFZGSmhncGFiTWJ6VXMzcXZMOUVLYUZJVjlsTGpSX3o1NlVZVEs3QXoxUzVCSXhnYVZhYmUyejY1N211UDB0em13RDh4cVRBei1UcnlLTl9uMjdRazI0V3BBRVhrenR6MmtyZ201bWJCRTJPaTVPSWJqbXo3eEZUM3ZVZUk4eHNmYkhPSnU2NmV2aHRxdVVhOWUxalpR0gHmAUFVX3lxTFBoOWZfX2poaks0eHdRUjdtcEJELTJNc3MwdmdXYk1IRWtaSEVhc3pNQ3VCQ3cxZllWMlhDSzVaVHJyMXM0MjdmNlFEWDVDdC1panh1UERteVJQajN1QjNkcWc2TTA2TjNuRUZYckNRRTlSQ09FQ1FGRDNFeEtOSWU4TlZLZVVqaGZrYU1fR0pOU2tyaUE1bWZNRFk4dXFJNW1UTGJyYXByYkRXTE9Ja3BNMTFDOW5GNXVMNDlCZjJyeDk1dExiYVFpUHk5cG01Mktha2FUclZpSWpVbjNlRDF1SmNfSGZ3?oc=5",
+      "source": "Swarajya",
+      "date": "17 Nov 2026, 02:19 PM"
     },
     {
       "title": "Odisha Under-23s vs Himachal Pradesh U23 at Sundargarh, Col C K Nayudu Trophy Elite, 2-5 Feb 2027 - BCCI",
@@ -35,22 +47,10 @@ window.NEWS_DATA = {
       "date": "16 Nov 2026, 08:56 AM"
     },
     {
-      "title": "Odisha youngster Pooja Sahoo breaks into India squad for Women’s Asian Champions Trophy - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQMzA1a2JXbnZDVkZWbUF4Ni02STRaOTNlMmZQN0pic0pWdjdxQ0hQNTFFOWRXNEMtOFM1N2NMUlpkWktrMmpJTUFBUDNfaDN2cXZLU00tb25mZm5BVS1LZlNJbE5ZYlFXb2ItV0hqVzBnN0YyZ1hZMEtFWEJwWlN0RUZ1R3BKU0wzbFk0Y1hZMndLVEhzbkYzek5WQlBBNXgyaG00Wk9NUUladHZPUE9JSEt2QnNKdzY2d1U3d0RSeWVLS1hUdjducEEwSVZkcU10SFZYUGY2djZrVldGS0FHNWZTR21xaF9VQ2hfcjdxOWQ5OWRlY3MzZmlVMHFZbk91V0dlRdIBigJBVV95cUxQcTVVTmN0SUZnUHppUGU0cWthV3JkLWExYWpnS0FLRjZTZndkTnlmeEtUd2tlLU9hV1FTeWtYOU82V2ZMRUYtNWQ5cnFvVGRZN2pXN1BZam5iLUpTcGVwYjB6UGxlQmJpaHZCTEhVaGEwNXJwSHJVOEJKUzNQVXFrRE5UcThQUjhxR2J5SEI3ZVlrNFd2YndjajBLdU9lRXZtNHowVGx2SW9pa05Jd295eG9Oa1U3S182QTY2R3dlYWFrX0VOdEpVa2ZRSXpRR3VXa2pjcW1Kd2lEQVJQZ0ZHLUN6Ty1fQmc2VFpSWnp0Q2x3XzJGVlFrS1FaY3hReGlUUUdOU2IxS2NmQQ?oc=5",
-      "source": "The Times of India",
-      "date": "11 Nov 2026, 09:01 AM"
-    },
-    {
-      "title": "Vacancy crisis cripples Sundargarh SSEPD department as District head post remains unfilled - The New Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOclI0UGx3cGQwamttQTgzOFprd29TdWNRRmMydEcwRDBoSGppR2lOSzlKVS1zRlVJTXdKTmw0eVBFSjAxdGRXaElXNnZPUmFVZkMzSDdBMFhYTlo4X0Z4NW53ekdiQkpoNmFzcXRWTVV4MlFHa1h0eTZYMnRONUpHd0c2Vk0yVjBIbWhCbEFsaW1EV0RMc2RIR0c1ZFdMVUNMdzZKU0t4UG1FWWJUMi1ZRU8zc1BRR19hbUIxWWpyRVY2Wm5ZZjBMVEdfTDRSd1pOYmxFVUVMeFNpRFRwQUlpNG5hTdIB8AFBVV95cUxNN1Fpc092VVk1LThhUDVNUXYyaTUwdzhQS08xRmFMWWNoc2lxb3RPZWZrcGhwVElZZGg3WXFKQlRyeEE1NVBNQjhnVGMya3pMU0dwV3J1NVpESDcyalNTbXBpNmFUMmZleTRaX2x1NzRwcXIyODJPSUVXMkxaMk1ZS2dHY0x5a3FMYmh2Q0p2MEhxcDNJNGhiU2VkU2E1VnVBdTBUZjQyV2cxNGs3ZmdVMUlocFBNZWtZTGVxbXZBQ0VfRF9wSUc3eUlJM1diUE9hd3FEM3hpS2NmNVpUbHVsblZQQmlObkhNZjZzOTh1WFE?oc=5",
-      "source": "The New Indian Express",
-      "date": "15 Nov 2026, 08:18 AM"
-    },
-    {
-      "title": "Supreme Court Dismisses Writ Petition on Applicability of Orissa Municipal Act in Scheduled Area. The court found that the Orissa Municipal Act was validly applied to Sundargarh through a notification, thus municipalities could continue to exist. - Lawtext",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9STVVJampqMExraXl5bEZNS3F3ZHlwbUJ2cEcxSHRUejRmYUlvdnAyeDdHXzF4bWdDa04wM2R3eU1zbUhheWk0cUxON2J3ajJEaHBWbl93djJfeUdxM0ZWR3IwaVVUUQ?oc=5",
-      "source": "Lawtext",
-      "date": "13 Nov 2026, 03:52 PM"
+      "title": "Supreme Court Quashes Land Acquisition for Dalmia Cement’s Mining Project in Odisha; Holds Prior Gram Sabha Consent Mandatory in Scheduled Areas - Countercurrents",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNd1FaUFA3NnAySTlhcTNxQ0pFU1RKRUNGUkl6TDc3UVJyYTJFVnpTTEVKdEtNeFNfSzZvSVMyakRkcWoyc3o2OFhRXzc4dV96TFJiMmNQVlBMSjJjM0VFdjQ5Q2VCRkpYMW1SNWdIczdpQm1Lam5BQ055d0JaWldBY3FxaThVM2habVhzQTBmTGdod1p2VldTLVc2dnFBMTl5RjRoQ2tzVm5oRGk1LVdpN1luYVRGMWxaUUo4OUlfR3NBd0xDNHNiN1VnWUlkcVBFbURNQzlHZWp2RXVnOHc3VjNSUVVHem5IU3RLQ2NDSUp2cWxqb2RkVkRxdkItR1RIejZzbVktSlByUDA?oc=5",
+      "source": "Countercurrents",
+      "date": "19 Nov 2026, 12:49 PM"
     }
   ]
 };
