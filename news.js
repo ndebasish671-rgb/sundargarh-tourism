@@ -1,15 +1,9 @@
 /* Updated daily by GitHub Actions (.github/workflows/daily-sync.yml) */
 window.NEWS_DATA = {
-  "updated": "21 Nov 2026, 01:08 PM IST",
+  "updated": "22 Nov 2026, 12:50 PM IST",
   "source": "Google News RSS",
   "query": "Sundargarh OR Rourkela Odisha when:7d",
   "items": [
-    {
-      "title": "Odisha: NH expansion work reviewed by MoRTH in Sundargarh - The New Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWURJalAtZVZkdkpmN0xrMGM4a3lVZ1pHMEZUT1F1elJkWjI3TklrcENjNk9tTGdFaGdyeFZGaWJFcEFid0xXZXUzRjNrNG9Qdk9wY05RTTJaa2dobFY0aEVtc1hWelNWeFYwYnIyd0s4Mm10eEFMY013TFZ5Y0RLNTkzZDJ0OFFtbWJnOWJDUnRZa2ZlZ25yNjM4akZESkZ2LU80M2wzNHp0WWlsLV9ENVlqTmlhZ9IBwwFBVV95cUxQX2w5Z2xOWFVzR3NENnRoUUxhX3ZjVHZzVGhRTHBSaWQ1ZXVJcGtIT0hQSnVHWk9LS2E4TVZYQTVSZDZhYmFqcUJzTU5ZaTJkNDk4OW5MN1VYRS1RRWdGZUY4NVdaY3gzMVRUa3F6dmd1UVpIcDRzS1ZqYzRhbU5NajNTYWJya3BQUGd2ZmdHeXljWnZTX3VqRDZYNmgwcy1YNkROWUx6VmJfTFV1VElKMkdFMGNsakxka3dCQnp1VENxc2c?oc=5",
-      "source": "The New Indian Express",
-      "date": "19 Nov 2026, 09:06 AM"
-    },
     {
       "title": "Odisha Under-23s vs Himachal Pradesh U23 at Sundargarh, Col C K Nayudu Trophy Elite, 2-5 Feb 2027 - BCCI",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQmo4eHNHc3VSQXFGME1HM2VwZkdZcEo3QkJWSUJoSnk2bmhZSjFhWl9ubGZBZTVOSEh6ajZyUUpiMGE3YUxlS09ybHdjaE1nTVFQTnhBUnhkREdoc0VoX2hfMERRd0RqMkxzc1o4dlRaSG54NUlOTjR3WlRlTjRpeFFYUDczb2lLLUZmNlV2N2NETjFEdWRLcms2V1cxcU1aX2pMa1NCQUVEam1oS3doRHlzeUZrVEtYZjRBaTVXanpXMDYwRUlMalluUU1KUW5NbG1GRDNfcV9LMVlmN0gzY2Mwekt4WWlkdUVwbk9EMzlOS05MTHZMSWVR?oc=5",
@@ -23,10 +17,28 @@ window.NEWS_DATA = {
       "date": "20 Nov 2026, 09:00 AM"
     },
     {
+      "title": "Supreme Court Quashes Dalmia Cements Land Acquisition In Odisha's Sundargarh - Prop News Time",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMHV1VmMyMDB1bUVqX1hCX1UyWDJmTENZdUF4VnNYTGxtdHhFSGFtUElvOXVZbWFjMW42RENPMzRtQjdaaDg4SlVLZVNMNld1a1NUOVV1UHJJUTg3X3NaNkE3d2dlanpWcnMwLVVWTHRKMkhFdlVFclJSMC1iVm9kTHcxczNUNEZIY0NtT0NzSGtuaU5tLWZoMDFIamRCdHQycmlGZGVwejdpMjNacHYyNjZzbXRtOTNMZjUyUU5QeE9MTWtyQTN3?oc=5",
+      "source": "Prop News Time",
+      "date": "22 Nov 2026, 12:13 AM"
+    },
+    {
+      "title": "Odisha: NH expansion work reviewed by MoRTH in Sundargarh - The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX2w5Z2xOWFVzR3NENnRoUUxhX3ZjVHZzVGhRTHBSaWQ1ZXVJcGtIT0hQSnVHWk9LS2E4TVZYQTVSZDZhYmFqcUJzTU5ZaTJkNDk4OW5MN1VYRS1RRWdGZUY4NVdaY3gzMVRUa3F6dmd1UVpIcDRzS1ZqYzRhbU5NajNTYWJya3BQUGd2ZmdHeXljWnZTX3VqRDZYNmgwcy1YNkROWUx6VmJfTFV1VElKMkdFMGNsakxka3dCQnp1VENxc2fSAcMBQVVfeXFMUF9sOWdsTlhVc0dzRDZ0aFFMYV92Y1R2c1RoUUxwUmlkNWV1SXBrSE9IUEp1R1pPS0thOE1WWEE1UmQ2YWJhanFCc01OWWkyZDQ5ODluTDdVWEUtUUVnRmVGODVXWmN4MzFUVGtxenZndVFaSHA0c0tWamM0YW1OTWozU2FicmtwUFBndmZnR3l5Y1p2U191akQ2WDZoMHMtWDZETllMelZiX0xVdVRJSjJHRTBjbGpMZGt3QkJ6dVRDcXNn?oc=5",
+      "source": "The New Indian Express",
+      "date": "19 Nov 2026, 09:06 AM"
+    },
+    {
       "title": "Supreme Court upholds tribal land rights, quashes mining-linked acquisition in Odisha - The Hindu",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUkxUT2c5M1FsdFQ3N21xLTRnTVFnQmxtR3E0cDV3WHlFd3RCeVNQb2VJbUgyS2d4b0hLQWxvWXYyUGE1V0Zmb3lyWERkYUs4dFV4THVIb1dhMFE5WGhnb0xSTWlBY2RrZG8yR3VRTEpMQzBlYkNMTHRKbFAyU2t0ck5mR2xrMVpxcURhMkd3dDVaNzQ5bHEwbmYtNzNmQ1JnMGJQdzBPVUxKWHlqYWU2V1NRdm5Bb2N4bXdKeEVZSmE5UG0ySnBHUlM1UmphNGk5M0p6emZpcno2QWtkbkt5Y0h4VjVkel8zYTIw0gHrAUFVX3lxTE5STFRPZzkzUWx0VDc3bXEtNGdNUWdCbG1HcTRwNXdYeUV3dEJ5U1BvZUltSDJLZ3hvSEtBbG9ZdjJQYTVXRmZveXJYRGRhSzh0VXhMdUhvV2EwUTlYaGdvTFJNaUFjZGtkbzJHdVFMSkxDMGViQ0xMdEpsUDJTa3RyTmZHbGsxWnFxRGEyR3d0NVo3NDlscTBuZi03M2ZDUmcwYlB3ME9VTEpYeWphZTZXU1F2bkFvY3htd0p4RVlKYTlQbTJKcEdSUzVSamE0aTkzSnp6ZmlyejZBa2RuS3ljSHhWNWR6XzNhMjA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUG5QVWs1eVB1U3EtdzdNb2kxWkhva0ZIWTJaVW5DaWhIV082bWZRang5dERHakdNZGRIbHZuVXp0Sl92b3VfRndHWHZjRk1MaGpPZFJQUFBBTWp6b0VoSG54aG5iOTc1MTkzbTVxeHNxM1NCeFVkTmp0LXdFRzJCUllkVUtKUmtibFExQUNWVUNyMVlqLUMybWNHNUZWVUxzWE13eTRBR3pWZHc4RnI0am52UXFGd0pMaVlTelV0Y19JZ0I4UTFyaU1xbGczb21QcHRteU1tSFJFOFJRZEl4ZWRpemzSAesBQVVfeXFMTlJMVE9nOTNRbHRUNzdtcS00Z01RZ0JsbUdxNHA1d1h5RXd0QnlTUG9lSW1IMktneG9IS0Fsb1l2MlBhNVdGZm95clhEZGFLOHRVeEx1SG9XYTBROVhoZ29MUk1pQWNka2RvMkd1UUxKTEMwZWJDTEx0SmxQMlNrdHJOZkdsazFacXFEYTJHd3Q1Wjc0OWxxMG5mLTczZkNSZzBiUHcwT1VMSlh5amFlNldTUXZuQW9jeG13SnhFWUphOVBtMkpwR1JTNVJqYTRpOTNKenpmaXJ6NkFrZG5LeWNIeFY1ZHpfM2EyMA?oc=5",
       "source": "The Hindu",
       "date": "19 Nov 2026, 10:21 PM"
+    },
+    {
+      "title": "Supreme Court upholds land rights of tribals in India’s Odisha - Ucanews",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYjdtaFk4STVibEVrNWxqbHJ3cFRtMV9WNFpoOUN3aGw4amVfZldET1llUzlfM0NrcjR6NTZMWlZrZlRLUkluaE03RUJZbjhhWUxBczZIZmp2U0dWcy0tUXJFczVMbVoza0JpUGJFUEJ0ZEdDOG5DeHg4bFZOazZTRHNrZXZRR0l3M0FEZU9fSE1qcjA3eGJKNm1fQTfSAZwBQVVfeXFMUGI3bWhZOEk1YmxFazVsamxyd3BUbTFfVjRaaDlDd2hsOGplX2ZXRE9ZZVM5XzNDa3I0ejU2TFpWa2ZUS1JJbmhNN0VCWW44YVlMQXM2SGZqdlNHVnMtLVFyRXM1TG1aM2tCaVBiRVBCdGRHQzhuQ3h4OGxWTms2U0Rza2V2UUdJdzNBRGVPX0hNanIwN3hiSjZtX0E3?oc=5",
+      "source": "Ucanews",
+      "date": "21 Nov 2026, 10:04 PM"
     },
     {
       "title": "“Fixed match”: SC quashes Dalmia’s land acquisition over bypassing Gram Sabha consent in Odisha - Maktoob",
@@ -35,22 +47,10 @@ window.NEWS_DATA = {
       "date": "21 Nov 2026, 08:26 AM"
     },
     {
-      "title": "NIT Rourkela Hosts 34th National Conference on Condensed Matter Physics - Odisha Diary",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdnFVbVF1V3hVVk1BQXcxQWp0WWNkSlBvc2MxTnBWa2xVZE9LOFI3Y3ZHLVpyNHVWemFwcGdRa2hrSFEzdDVCTk1yZVhEaGpDNnVoczBFWm81VzdTcWU2czlvWGV3OWZ4bWVCTzhpYlVUSm9pY3JvVGlRb09ZQ2hYVENoeExiN3pzWk9Sc1ZxWDRmUkFySmNDeUdXRzU?oc=5",
-      "source": "Odisha Diary",
-      "date": "18 Nov 2026, 02:28 PM"
-    },
-    {
-      "title": "SC quashes land acquisition for Dalmia Cement in Odisha, says Gram Sabha consent mandatory - MillenniumPost",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSFlfWXBVZ2NzaFVtREx0MjJzUXJRN3hqRmZCOVVYd29sTmloN0tsSlRoci1oM1ZjQVFLNkFOZS1lQXBxd0YzRUY4TzA3RGlubXpObUs3STNBaHVfUHhBTXdVNjVZb3BhcFBBeEtjNk01a2hSbUFTQnhVQUxKd1lDWkNycW9NOUpqendEeHpmTEI1ZkwzV0o2dzRRcWx6Q2g5ckhTa19RcjNMSi02V0JEUjRMbzI4Vy1zalFBRnhheHE3OTFOYlJBXzk4dGZQM25IV05yStIB2gFBVV95cUxNeVJJMzZjTWx3dnh6WU44cDRCRkpWaEFqbXdMbTBPVDJnMERPckZPUjNWMy1qbnB3RGxZV25DcDg5YjNkZ25tNEVsZDI5eXdBaFBLVU5vY25adnlWRE5oT2dUeDBENk0xTUx6OFM4V3EtWDRhQWZlQkt2LTZjQmdGdndIaks3ZUJLUG9yc0toSHlVWENkRXJ0NTFTUXItTjdFRFJlT2lld21aNi1PRHpHT1E3QWtFVFBYbmI4Q1NROE5iTl9Uc20zM3NXbjllelo0ZEQ2MTFpdmhZdw?oc=5",
-      "source": "MillenniumPost",
-      "date": "19 Nov 2026, 11:30 AM"
-    },
-    {
-      "title": "Gram sabhas’ consent mandatory to acquire land for mining: Supreme Court - The Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNzNGMXdUZFJYYjFyNWZ3dXRVN1liR0RGNDlQY3dzaXN4M0NpTTlqaDVVc3VJR3NFdmZKeEtaY2FrZ1ZmNnc0RDBrVFJybFVqMGYtdjRFRWZEMnhfMWZWZ1NqQWFvbklockVHNktvZlFSMVE3NHdVMm0tVHVBSG1iZ01BczhDWS1FWFMwZExpTDBOOGJVVjhaampIVDZRdGVKd3NqbFFGbDRnc1pvNnNrbtIBtwFBVV95cUxPVGk5VmZTWElGUlhfVVhsY19pd2llWXVHTlFmQ0VkOG5WSHhZd19FVjBoOE9rc3BKcDIxT2owY1R5UEdZSWt0cThaZ3BpRm5sTzRWZ29XUGM4ZWFSR1ZXN2dELVl0Ny02d2lmWEJvdkROSFlTZ2dLQlIwVklYUm5TMXIyUFdhUnhlT0VOYXViQkFsbHgzNGRiSk1lV0NUaktxMFIxaTEwZE94b0RHNFo1c2FXUlp4N3c?oc=5",
-      "source": "The Indian Express",
-      "date": "20 Nov 2026, 05:20 AM"
+      "title": "Supreme Court Quashes Lanjiberna Land Acquisition, Upholds Rights of Affected Tribal Communities in Odisha - Catholic Connect",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVEZxMGJkUFdPRDZPRWNJaXIwdDJydWpvbGNiODZtbjB1UmFKT2VDZHVDaDVXaHQ0NFdGdnJqS0g3NTVBc1NHaGUzTEJha3UyNS03dG41S2dfaVlOdUJwdzZhNDdaRm44MFJEaTIyNjB2U0VScmV5dTZlX2dzeU5hd2FwYXl1Z2NBU3ZOSHRIMzZWTmtiNzI3MldIVEdzLUdyLUYzNklMTUJYdlRtd2JLWUM2OTljdzRmZEdiNkF4NnJ2VWxpMndTODJpaTQ4V1R0MTNF?oc=5",
+      "source": "Catholic Connect",
+      "date": "19 Nov 2026, 11:57 AM"
     }
   ]
 };
