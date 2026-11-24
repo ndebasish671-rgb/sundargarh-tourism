@@ -1,6 +1,6 @@
 /* Updated daily by GitHub Actions (.github/workflows/daily-sync.yml) */
 window.NEWS_DATA = {
-  "updated": "23 Nov 2026, 01:34 PM IST",
+  "updated": "24 Nov 2026, 03:50 PM IST",
   "source": "Google News RSS",
   "query": "Sundargarh OR Rourkela Odisha when:7d",
   "items": [
@@ -17,40 +17,40 @@ window.NEWS_DATA = {
       "date": "23 Nov 2026, 09:39 AM"
     },
     {
-      "title": "SC sets aside land acquisition in Odisha's Sundargarh district for Dalmia Cements plant - CNBC TV18",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVDVTUUtqTGxMeHFzRFdsX1pDNHROMm1nRlBlOHVGc24xdWY1R3o2aUwteC1fNXRzLU1iYmhsTy1CU19URWE2bE9uX1NjN016dl9qZEItQzgtMnM1QkVmbUFVUmdwaWRxb2Iza2FnakEtNTJhQXphOGFDQ3d2cVhwOGloU1c5anhEM3hLMEpMRXFRcmxockFYbWxOV3NOX1lVY2xhM0FrdU9YblhROWs0RzhPZzczWUxLc2tONnFxNFY0N2g4YzFhMjgwSUNWZ9IB0wFBVV95cUxPLXFDTHRyVTduSEdER2wyRjVlZUI5NFZpeE56YVdtQTVFc1RLMi05MkZEd0RBeEFXUkVqYWFtd2ppa2JlbjFZQXB4b3Bia294dHFORUJKb0FJZk9SQUFKR1I4djlaUUpwTzE3RUV4dkNmZ2o0WWJLX2VOY0EyYTVPdGtzclFGWGhzUGdfencxWmZxYTlremtMVkIzVjNWLVpuMXZ6OTcyZzR3ZmVvZGI5azFmalRRUDVQSEt3ODZsQkQwX2JZb0ZNaE5mR3J5N2xPdXlB?oc=5",
-      "source": "CNBC TV18",
-      "date": "19 Nov 2026, 09:40 PM"
+      "title": "Mahindra XUV 3XO On Road Price in Rourkela starts Rs.7.79 Lakh - CarDekho",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94LUVvSDY3cTE3Zzg2dlNjdHlWRGI1SE9qQVVIcWljeUI5ODBTLS03OVgzbHk0dUNCY21CV2F4UGtJcU11VEJSOEwwOGtiM1VZdVpmNlRlV3FUWk5XdmczZ2pVYjZVNFZBTVhF?oc=5",
+      "source": "CarDekho",
+      "date": "23 Nov 2026, 03:51 AM"
     },
     {
-      "title": "NIT Rourkela Hosts 34th National Conference on Condensed Matter Physics - Odisha Diary",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdnFVbVF1V3hVVk1BQXcxQWp0WWNkSlBvc2MxTnBWa2xVZE9LOFI3Y3ZHLVpyNHVWemFwcGdRa2hrSFEzdDVCTk1yZVhEaGpDNnVoczBFWm81VzdTcWU2czlvWGV3OWZ4bWVCTzhpYlVUSm9pY3JvVGlRb09ZQ2hYVENoeExiN3pzWk9Sc1ZxWDRmUkFySmNDeUdXRzU?oc=5",
-      "source": "Odisha Diary",
-      "date": "18 Nov 2026, 02:28 PM"
+      "title": "Supreme Court Quashes Dalmia Cements Land Acquisition In Odisha's Sundargarh - Prop News Time",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMHV1VmMyMDB1bUVqX1hCX1UyWDJmTENZdUF4VnNYTGxtdHhFSGFtUElvOXVZbWFjMW42RENPMzRtQjdaaDg4SlVLZVNMNld1a1NUOVV1UHJJUTg3X3NaNkE3d2dlanpWcnMwLVVWTHRKMkhFdlVFclJSMC1iVm9kTHcxczNUNEZIY0NtT0NzSGtuaU5tLWZoMDFIamRCdHQycmlGZGVwejdpMjNacHYyNjZzbXRtOTNMZjUyUU5QeE9MTWtyQTN3?oc=5",
+      "source": "Prop News Time",
+      "date": "22 Nov 2026, 12:13 AM"
     },
     {
-      "title": "SC quashes Odisha govt’s land acquisition for cement plant over lack of gram sabha consent - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZ2hVZHhyREJxS3FjSlpWN0JEa0lFTkl1d21HN0JqeS1xbVVDY0FENHBFMjQ2LWlkZGxSVnkwc25aZ1BOb2w1cWtub05xcFl0aWh0Z1NQMng0NnRlQ0NmTFZSemtOUGd3ZUVLNkdtalVhN1R2bzhhOHZidmVFMnVLaHNMQjJySkgyWXY1WTYwblF1NlI5WGx2Y011ZnBURG9MV1hmeEdHMkYtYURwZllnVGJrV3BEQW9VaTBfQ1A1YlNKUFdCNFRmS3laMTZ4MU92VDdCR0I5a19leWdVYlcyVXpLU3A3cm45c3ZYQ21qNzVXYnVNZzRvYThJTHHSAYICQVVfeXFMUGlqcGp6ejdPS3FHMWhCMm9HLVRySVlrUkg0ejJpTUxUdDJqdjlIR3ltZUpnNXFjbG1JS255WWNRZEQ5WkJPVjFCbTJHQ3RxdWltcEttS0hKRnpMSUZOM3N1cHdNVkJqWU5wTzR6QVRtbzBhTjM1anRuVDQtUk1pSVcxU0IyVktMb3NZRERtMk5uRHV5ellqbHlVdmxQT1BpZGNqNmV4b181cVZBOVE4S0cwYVlfQUJGQ21rbk92LTh0YTE1akxJaFRUWGJ5R1F1cFd3RGJlUHg2OG5NREJCX1NUaG4xdl9xYXZtVzc5cUdsanhoYl9fbnVLc3VuZnExWllB?oc=5",
-      "source": "The Times of India",
-      "date": "19 Nov 2026, 08:48 PM"
+      "title": "SC sets aside land acquisition in Odisha's Sundargarh district for Dalmia Cements plant - ET Realty",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNblNvMUtoMzlTOWVvVWxEbEJqODFHRTBjV21NOWxheExhaUxWTThzM2hfWFViUkVJdFFPZUdBT0hZWmpYMlZpVl9lNVBrUzAyVHYtQU5Pc1NWMFhzN3JxVTlqLVBEeHNVLW43TFlpWHh0SVFtNnVMS093M01xUk1aVnpncWxlcjY3bXlYYnN6OEJVVHl6S3hPNGJDYWFsbnptOGFwS3AxdUxweHYwWi1qRHJRV1kyQV9FMENCS04yTjlrVmRsMkV0Yi0tN2FPeUZCaEU5SF8tYmlIeWx0Ql9reVZwSzF1NnfSAewBQVVfeXFMTWxXOHg4WWlFMk1YVjNvdlZTZ3llLWExY3VwUmMxVk1iQWd5bFJ6Zmo1cFBaTVRqWjdwR28ycDFrelgzTDhoOWRxVEpwV0pfWU51TldnUktwSDEyUF9lZEVVZlJOQmp6RUNyd0QzQ1Mtb2VEd3huMU9rbTNDWWN5R2ExamVtbnhTRmR3NUo3aDF3QU9RZ1pQRjZmMC0tWWVqaVNCc2hyWnRmeTBraFBSMjl1VEJ5RDN1dF9qN1duVjg4ZWJmVTJkYW5hRG5rbkZBeFR1Sy00UE1qdUlWR09fS1hXWElnUmV4S1gwa20?oc=5",
+      "source": "ET Realty",
+      "date": "20 Nov 2026, 09:00 AM"
     },
     {
-      "title": "Gram sabhas’ consent mandatory to acquire land for mining: Supreme Court - The Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNzNGMXdUZFJYYjFyNWZ3dXRVN1liR0RGNDlQY3dzaXN4M0NpTTlqaDVVc3VJR3NFdmZKeEtaY2FrZ1ZmNnc0RDBrVFJybFVqMGYtdjRFRWZEMnhfMWZWZ1NqQWFvbklockVHNktvZlFSMVE3NHdVMm0tVHVBSG1iZ01BczhDWS1FWFMwZExpTDBOOGJVVjhaampIVDZRdGVKd3NqbFFGbDRnc1pvNnNrbtIBtwFBVV95cUxPVGk5VmZTWElGUlhfVVhsY19pd2llWXVHTlFmQ0VkOG5WSHhZd19FVjBoOE9rc3BKcDIxT2owY1R5UEdZSWt0cThaZ3BpRm5sTzRWZ29XUGM4ZWFSR1ZXN2dELVl0Ny02d2lmWEJvdkROSFlTZ2dLQlIwVklYUm5TMXIyUFdhUnhlT0VOYXViQkFsbHgzNGRiSk1lV0NUaktxMFIxaTEwZE94b0RHNFo1c2FXUlp4N3c?oc=5",
-      "source": "The Indian Express",
-      "date": "20 Nov 2026, 05:20 AM"
+      "title": "\"Beacon of hope\": Jairam Ramesh welcomes SC verdict quashing Odisha's 2021 land acquisition in Sundargarh - ANI News",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNR3pFUm9NN1hNaWtXOHV1NnNmcXlQMHJ2NEd0Unh4NEtfN3NrbGhSOHREWmJWLVVDNURUWWhNelo4Q0JhbmxEYmlQellCUHhBQ0p6SWQxTUo2d2ZwMzJZU2lCMUtzRWtxVXdqb1RkaFJpSC1INjBCd1pQU0x5T0tWX1dnTklQbFUtSUpyS0tyejAyTmFPa3Rqakw1emVtLTlTdFRtTXFZNDQydW1wOFRYdkZWNHZGb2JVOVVIY2RPZ09rb2pEQVFOUG9ubFlObnZVSUE1N2hpVi1VRFRkOWQyUGdGRUx4MDBlMHZZRm9NaGphM2wyb0w5eQ?oc=5",
+      "source": "ANI News",
+      "date": "23 Nov 2026, 02:44 PM"
     },
     {
-      "title": "One Health Investigation Confirms Scrub Typhus Transmission and Risk Factors in Odisha - Bioengineer.org",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOamN5eXVuTlVZYno4WUxjZ3EtczRQWlJQb0swclIxcmVEaWx0Y2s1ZTNHcDQyRGdwTFR5eXdCbUFTTFVxQWZkUm9IMzlkV2x0THZoY0loa2tDTTNVS1NqSDdJdURLX1lXcnowNF9iV1A1bXVaVjJ2U0U4clNkWGJlanFJVUFNUE8yX2gxV3FiajlWQm1oR3F1UWtDUmVIZ0g5OXVJaXNqV0pET2EtMjM3aw?oc=5",
-      "source": "Bioengineer.org",
-      "date": "20 Nov 2026, 08:51 AM"
+      "title": "“Fixed match”: SC quashes Dalmia’s land acquisition over bypassing Gram Sabha consent in Odisha - Maktoob",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQamVHa3ZvTGZPTVd3NVdHTzNpY0JhbDVxVlNtdHRCNFFWTUpGUW1ZZzFDY0N5ZENJQl9FSEl4MGVENHBKUmdWcFNzdV9JVHNhU18yVGJfRWUwcEJyWWUxc041RjZ4UU9GZkJtT3U1V2x0aTBNM2xnQVhVM1JhRW43cmo1QmZablg3M0EwN2phMjd4a3dJaVhDaktsR3gybDJWMEtaWE1CU0Q0UHlkcEdGVUpnVFFTaHdiNHpDU29FSk9QVXF6UDNydDBlekF3LTRSN3c?oc=5",
+      "source": "Maktoob",
+      "date": "21 Nov 2026, 08:26 AM"
     },
     {
-      "title": "Odisha: NH expansion work reviewed by MoRTH in Sundargarh - The New Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWURJalAtZVZkdkpmN0xrMGM4a3lVZ1pHMEZUT1F1elJkWjI3TklrcENjNk9tTGdFaGdyeFZGaWJFcEFid0xXZXUzRjNrNG9Qdk9wY05RTTJaa2dobFY0aEVtc1hWelNWeFYwYnIyd0s4Mm10eEFMY013TFZ5Y0RLNTkzZDJ0OFFtbWJnOWJDUnRZa2ZlZ25yNjM4akZESkZ2LU80M2wzNHp0WWlsLV9ENVlqTmlhZ9IBwwFBVV95cUxQX2w5Z2xOWFVzR3NENnRoUUxhX3ZjVHZzVGhRTHBSaWQ1ZXVJcGtIT0hQSnVHWk9LS2E4TVZYQTVSZDZhYmFqcUJzTU5ZaTJkNDk4OW5MN1VYRS1RRWdGZUY4NVdaY3gzMVRUa3F6dmd1UVpIcDRzS1ZqYzRhbU5NajNTYWJya3BQUGd2ZmdHeXljWnZTX3VqRDZYNmgwcy1YNkROWUx6VmJfTFV1VElKMkdFMGNsakxka3dCQnp1VENxc2c?oc=5",
-      "source": "The New Indian Express",
-      "date": "19 Nov 2026, 09:06 AM"
+      "title": "Supreme Court upholds land rights of tribals in India’s Odisha - Ucanews",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMGZ0SlhmUGZobHc4MTVZQlVMeHkxVGJQbkhSSTh6ZjhFdGUtT2g1N1hlZGQ1Z1BkMENTX0ItTEhJVTJwc281WUM0ZnYzWDFQaDJNSFFHS3ItelpudXdESDdxWEJlVEstTC1EZ1hnd3pUR2t5MWxpYTU3VmxuZ2FVR1lYZ1hmUjBqbmNBendCSXZZME96TVpDN1JBMExNUdIBnAFBVV95cUxQYjdtaFk4STVibEVrNWxqbHJ3cFRtMV9WNFpoOUN3aGw4amVfZldET1llUzlfM0NrcjR6NTZMWlZrZlRLUkluaE03RUJZbjhhWUxBczZIZmp2U0dWcy0tUXJFczVMbVoza0JpUGJFUEJ0ZEdDOG5DeHg4bFZOazZTRHNrZXZRR0l3M0FEZU9fSE1qcjA3eGJKNm1fQTc?oc=5",
+      "source": "Ucanews",
+      "date": "21 Nov 2026, 10:04 PM"
     }
   ]
 };
