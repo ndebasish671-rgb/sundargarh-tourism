@@ -1,6 +1,6 @@
 /* Updated daily by GitHub Actions (.github/workflows/daily-sync.yml) */
 window.NEWS_DATA = {
-  "updated": "24 Nov 2026, 03:50 PM IST",
+  "updated": "25 Nov 2026, 02:31 PM IST",
   "source": "Google News RSS",
   "query": "Sundargarh OR Rourkela Odisha when:7d",
   "items": [
@@ -17,16 +17,16 @@ window.NEWS_DATA = {
       "date": "23 Nov 2026, 09:39 AM"
     },
     {
-      "title": "Mahindra XUV 3XO On Road Price in Rourkela starts Rs.7.79 Lakh - CarDekho",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94LUVvSDY3cTE3Zzg2dlNjdHlWRGI1SE9qQVVIcWljeUI5ODBTLS03OVgzbHk0dUNCY21CV2F4UGtJcU11VEJSOEwwOGtiM1VZdVpmNlRlV3FUWk5XdmczZ2pVYjZVNFZBTVhF?oc=5",
-      "source": "CarDekho",
-      "date": "23 Nov 2026, 03:51 AM"
-    },
-    {
       "title": "Supreme Court Quashes Dalmia Cements Land Acquisition In Odisha's Sundargarh - Prop News Time",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMHV1VmMyMDB1bUVqX1hCX1UyWDJmTENZdUF4VnNYTGxtdHhFSGFtUElvOXVZbWFjMW42RENPMzRtQjdaaDg4SlVLZVNMNld1a1NUOVV1UHJJUTg3X3NaNkE3d2dlanpWcnMwLVVWTHRKMkhFdlVFclJSMC1iVm9kTHcxczNUNEZIY0NtT0NzSGtuaU5tLWZoMDFIamRCdHQycmlGZGVwejdpMjNacHYyNjZzbXRtOTNMZjUyUU5QeE9MTWtyQTN3?oc=5",
       "source": "Prop News Time",
       "date": "22 Nov 2026, 12:13 AM"
+    },
+    {
+      "title": "Mahindra XUV 3XO On Road Price in Rourkela starts Rs.7.79 Lakh - CarDekho",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94LUVvSDY3cTE3Zzg2dlNjdHlWRGI1SE9qQVVIcWljeUI5ODBTLS03OVgzbHk0dUNCY21CV2F4UGtJcU11VEJSOEwwOGtiM1VZdVpmNlRlV3FUWk5XdmczZ2pVYjZVNFZBTVhF?oc=5",
+      "source": "CarDekho",
+      "date": "23 Nov 2026, 11:50 PM"
     },
     {
       "title": "SC sets aside land acquisition in Odisha's Sundargarh district for Dalmia Cements plant - ET Realty",
@@ -47,10 +47,10 @@ window.NEWS_DATA = {
       "date": "21 Nov 2026, 08:26 AM"
     },
     {
-      "title": "Supreme Court upholds land rights of tribals in India’s Odisha - Ucanews",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMGZ0SlhmUGZobHc4MTVZQlVMeHkxVGJQbkhSSTh6ZjhFdGUtT2g1N1hlZGQ1Z1BkMENTX0ItTEhJVTJwc281WUM0ZnYzWDFQaDJNSFFHS3ItelpudXdESDdxWEJlVEstTC1EZ1hnd3pUR2t5MWxpYTU3VmxuZ2FVR1lYZ1hmUjBqbmNBendCSXZZME96TVpDN1JBMExNUdIBnAFBVV95cUxQYjdtaFk4STVibEVrNWxqbHJ3cFRtMV9WNFpoOUN3aGw4amVfZldET1llUzlfM0NrcjR6NTZMWlZrZlRLUkluaE03RUJZbjhhWUxBczZIZmp2U0dWcy0tUXJFczVMbVoza0JpUGJFUEJ0ZEdDOG5DeHg4bFZOazZTRHNrZXZRR0l3M0FEZU9fSE1qcjA3eGJKNm1fQTc?oc=5",
-      "source": "Ucanews",
-      "date": "21 Nov 2026, 10:04 PM"
+      "title": "NIT Rourkela Scientists Develop Electrochemical Method to Recover Fertiliser from Urine - Odisha Diary",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUFlEMG1LZ3cxVEFfTVdFZmJtdXdNVUgwWS1QQzBuajdtX19nNXN5RUR5ZHRnUVNwUGVjMG11R3FrVzRDQm1jS2d6dWF5Wk9kYzIwaTNpNlZWRm1KQ0Via3pwVXluVXRONXRTWXFlM0Q0NTVXNEl4a191THU2ald2TmtEak8zYmxUdzY3c0VqSExNdjJXRW90R3YzbTBXMUNDcW8xVWhkaXZpYTdlSE5Wbmp3?oc=5",
+      "source": "Odisha Diary",
+      "date": "23 Nov 2026, 01:28 PM"
     }
   ]
 };
