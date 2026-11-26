@@ -1,6 +1,6 @@
 /* Updated daily by GitHub Actions (.github/workflows/daily-sync.yml) */
 window.NEWS_DATA = {
-  "updated": "25 Nov 2026, 02:31 PM IST",
+  "updated": "26 Nov 2026, 02:19 PM IST",
   "source": "Google News RSS",
   "query": "Sundargarh OR Rourkela Odisha when:7d",
   "items": [
@@ -23,16 +23,16 @@ window.NEWS_DATA = {
       "date": "22 Nov 2026, 12:13 AM"
     },
     {
-      "title": "Mahindra XUV 3XO On Road Price in Rourkela starts Rs.7.79 Lakh - CarDekho",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94LUVvSDY3cTE3Zzg2dlNjdHlWRGI1SE9qQVVIcWljeUI5ODBTLS03OVgzbHk0dUNCY21CV2F4UGtJcU11VEJSOEwwOGtiM1VZdVpmNlRlV3FUWk5XdmczZ2pVYjZVNFZBTVhF?oc=5",
-      "source": "CarDekho",
-      "date": "23 Nov 2026, 11:50 PM"
+      "title": "“Fixed match”: SC quashes Dalmia’s land acquisition over bypassing Gram Sabha consent in Odisha - Maktoob",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQamVHa3ZvTGZPTVd3NVdHTzNpY0JhbDVxVlNtdHRCNFFWTUpGUW1ZZzFDY0N5ZENJQl9FSEl4MGVENHBKUmdWcFNzdV9JVHNhU18yVGJfRWUwcEJyWWUxc041RjZ4UU9GZkJtT3U1V2x0aTBNM2xnQVhVM1JhRW43cmo1QmZablg3M0EwN2phMjd4a3dJaVhDaktsR3gybDJWMEtaWE1CU0Q0UHlkcEdGVUpnVFFTaHdiNHpDU29FSk9QVXF6UDNydDBlekF3LTRSN3c?oc=5",
+      "source": "Maktoob",
+      "date": "21 Nov 2026, 08:26 AM"
     },
     {
-      "title": "SC sets aside land acquisition in Odisha's Sundargarh district for Dalmia Cements plant - ET Realty",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNblNvMUtoMzlTOWVvVWxEbEJqODFHRTBjV21NOWxheExhaUxWTThzM2hfWFViUkVJdFFPZUdBT0hZWmpYMlZpVl9lNVBrUzAyVHYtQU5Pc1NWMFhzN3JxVTlqLVBEeHNVLW43TFlpWHh0SVFtNnVMS093M01xUk1aVnpncWxlcjY3bXlYYnN6OEJVVHl6S3hPNGJDYWFsbnptOGFwS3AxdUxweHYwWi1qRHJRV1kyQV9FMENCS04yTjlrVmRsMkV0Yi0tN2FPeUZCaEU5SF8tYmlIeWx0Ql9reVZwSzF1NnfSAewBQVVfeXFMTWxXOHg4WWlFMk1YVjNvdlZTZ3llLWExY3VwUmMxVk1iQWd5bFJ6Zmo1cFBaTVRqWjdwR28ycDFrelgzTDhoOWRxVEpwV0pfWU51TldnUktwSDEyUF9lZEVVZlJOQmp6RUNyd0QzQ1Mtb2VEd3huMU9rbTNDWWN5R2ExamVtbnhTRmR3NUo3aDF3QU9RZ1pQRjZmMC0tWWVqaVNCc2hyWnRmeTBraFBSMjl1VEJ5RDN1dF9qN1duVjg4ZWJmVTJkYW5hRG5rbkZBeFR1Sy00UE1qdUlWR09fS1hXWElnUmV4S1gwa20?oc=5",
-      "source": "ET Realty",
-      "date": "20 Nov 2026, 09:00 AM"
+      "title": "SC sets aside land acquisition in Odisha's Sundargarh district for Dalmia Cements plant - CNBC TV18",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVDVTUUtqTGxMeHFzRFdsX1pDNHROMm1nRlBlOHVGc24xdWY1R3o2aUwteC1fNXRzLU1iYmhsTy1CU19URWE2bE9uX1NjN016dl9qZEItQzgtMnM1QkVmbUFVUmdwaWRxb2Iza2FnakEtNTJhQXphOGFDQ3d2cVhwOGloU1c5anhEM3hLMEpMRXFRcmxockFYbWxOV3NOX1lVY2xhM0FrdU9YblhROWs0RzhPZzczWUxLc2tONnFxNFY0N2g4YzFhMjgwSUNWZ9IB0wFBVV95cUxPLXFDTHRyVTduSEdER2wyRjVlZUI5NFZpeE56YVdtQTVFc1RLMi05MkZEd0RBeEFXUkVqYWFtd2ppa2JlbjFZQXB4b3Bia294dHFORUJKb0FJZk9SQUFKR1I4djlaUUpwTzE3RUV4dkNmZ2o0WWJLX2VOY0EyYTVPdGtzclFGWGhzUGdfencxWmZxYTlremtMVkIzVjNWLVpuMXZ6OTcyZzR3ZmVvZGI5azFmalRRUDVQSEt3ODZsQkQwX2JZb0ZNaE5mR3J5N2xPdXlB?oc=5",
+      "source": "CNBC TV18",
+      "date": "19 Nov 2026, 09:40 PM"
     },
     {
       "title": "\"Beacon of hope\": Jairam Ramesh welcomes SC verdict quashing Odisha's 2021 land acquisition in Sundargarh - ANI News",
@@ -41,16 +41,16 @@ window.NEWS_DATA = {
       "date": "23 Nov 2026, 02:44 PM"
     },
     {
-      "title": "“Fixed match”: SC quashes Dalmia’s land acquisition over bypassing Gram Sabha consent in Odisha - Maktoob",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQamVHa3ZvTGZPTVd3NVdHTzNpY0JhbDVxVlNtdHRCNFFWTUpGUW1ZZzFDY0N5ZENJQl9FSEl4MGVENHBKUmdWcFNzdV9JVHNhU18yVGJfRWUwcEJyWWUxc041RjZ4UU9GZkJtT3U1V2x0aTBNM2xnQVhVM1JhRW43cmo1QmZablg3M0EwN2phMjd4a3dJaVhDaktsR3gybDJWMEtaWE1CU0Q0UHlkcEdGVUpnVFFTaHdiNHpDU29FSk9QVXF6UDNydDBlekF3LTRSN3c?oc=5",
-      "source": "Maktoob",
-      "date": "21 Nov 2026, 08:26 AM"
+      "title": "Odisha’s Body Language Expert Kanan Tandi Gains Spotlight on Bigg Boss 20 - My City Links",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQXROaHZUQkNfbEtZaDFWczc3Z3JRYU9Ed3ZDSVQwVUtzM1lGZS1LSi0za29YUms0MUtQdVVOemJYWEhRXzhJbHpINDBJQ1N2Vk9FT09TTlJHZFRFSm52STdiMVQ2eGVCYjhxbVIyVzMtUUFCS2RQdkRpQUYyaWlReUJHUUVOSk1KdDl0b1FzUEhab0RCRXhVbXZpQWpCWlNt?oc=5",
+      "source": "My City Links",
+      "date": "25 Nov 2026, 05:18 PM"
     },
     {
-      "title": "NIT Rourkela Scientists Develop Electrochemical Method to Recover Fertiliser from Urine - Odisha Diary",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUFlEMG1LZ3cxVEFfTVdFZmJtdXdNVUgwWS1QQzBuajdtX19nNXN5RUR5ZHRnUVNwUGVjMG11R3FrVzRDQm1jS2d6dWF5Wk9kYzIwaTNpNlZWRm1KQ0Via3pwVXluVXRONXRTWXFlM0Q0NTVXNEl4a191THU2ald2TmtEak8zYmxUdzY3c0VqSExNdjJXRW90R3YzbTBXMUNDcW8xVWhkaXZpYTdlSE5Wbmp3?oc=5",
-      "source": "Odisha Diary",
-      "date": "23 Nov 2026, 01:28 PM"
+      "title": "Supreme Court upholds land rights of tribals in India’s Odisha - ucanews.com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMGZ0SlhmUGZobHc4MTVZQlVMeHkxVGJQbkhSSTh6ZjhFdGUtT2g1N1hlZGQ1Z1BkMENTX0ItTEhJVTJwc281WUM0ZnYzWDFQaDJNSFFHS3ItelpudXdESDdxWEJlVEstTC1EZ1hnd3pUR2t5MWxpYTU3VmxuZ2FVR1lYZ1hmUjBqbmNBendCSXZZME96TVpDN1JBMExNUdIBnAFBVV95cUxQYjdtaFk4STVibEVrNWxqbHJ3cFRtMV9WNFpoOUN3aGw4amVfZldET1llUzlfM0NrcjR6NTZMWlZrZlRLUkluaE03RUJZbjhhWUxBczZIZmp2U0dWcy0tUXJFczVMbVoza0JpUGJFUEJ0ZEdDOG5DeHg4bFZOazZTRHNrZXZRR0l3M0FEZU9fSE1qcjA3eGJKNm1fQTc?oc=5",
+      "source": "ucanews.com",
+      "date": "21 Nov 2026, 10:04 PM"
     }
   ]
 };
