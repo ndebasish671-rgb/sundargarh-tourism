@@ -1,26 +1,14 @@
 /* Updated daily by GitHub Actions (.github/workflows/daily-sync.yml) */
 window.NEWS_DATA = {
-  "updated": "26 Nov 2026, 02:19 PM IST",
+  "updated": "27 Nov 2026, 02:28 PM IST",
   "source": "Google News RSS",
   "query": "Sundargarh OR Rourkela Odisha when:7d",
   "items": [
-    {
-      "title": "Supreme Court upholds tribal land rights, quashes mining-linked acquisition in Odisha - The Hindu",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUG5QVWs1eVB1U3EtdzdNb2kxWkhva0ZIWTJaVW5DaWhIV082bWZRang5dERHakdNZGRIbHZuVXp0Sl92b3VfRndHWHZjRk1MaGpPZFJQUFBBTWp6b0VoSG54aG5iOTc1MTkzbTVxeHNxM1NCeFVkTmp0LXdFRzJCUllkVUtKUmtibFExQUNWVUNyMVlqLUMybWNHNUZWVUxzWE13eTRBR3pWZHc4RnI0am52UXFGd0pMaVlTelV0Y19JZ0I4UTFyaU1xbGczb21QcHRteU1tSFJFOFJRZEl4ZWRpemzSAesBQVVfeXFMTlJMVE9nOTNRbHRUNzdtcS00Z01RZ0JsbUdxNHA1d1h5RXd0QnlTUG9lSW1IMktneG9IS0Fsb1l2MlBhNVdGZm95clhEZGFLOHRVeEx1SG9XYTBROVhoZ29MUk1pQWNka2RvMkd1UUxKTEMwZWJDTEx0SmxQMlNrdHJOZkdsazFacXFEYTJHd3Q1Wjc0OWxxMG5mLTczZkNSZzBiUHcwT1VMSlh5amFlNldTUXZuQW9jeG13SnhFWUphOVBtMkpwR1JTNVJqYTRpOTNKenpmaXJ6NkFrZG5LeWNIeFY1ZHpfM2EyMA?oc=5",
-      "source": "The Hindu",
-      "date": "19 Nov 2026, 10:21 PM"
-    },
     {
       "title": "Parrot fear keeps farmers away from sunflower cultivation in Odisha's Sundargarh district - The New Indian Express",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPanl0RmFNRnRsWGZiNEdRY1RNbVBrc2xvaktocE9Fd3E2X29JdF9kZXhnS1V1N2h1RTFVODhNb0hLYnFhR1ItM3lxcGtvWHpBcGVuNm1IY2x4ekZhdWU5c3ZISFJZQU5kdGljVV8tWWVnZnN2YVlzTlg0Qmw0UE9lSWlhcHdfNzRnVTMybXBQYnhCTURBdzdjWDE4NlM4WS0xU0JJWVdtdTRWd19iTXhrdVFEQWE2MVljUmpyRDZaY2hCSjZ3VF9yZHEyMDhRVV8ydVR1d0dfTUR1dkwycTU3WNIB7gFBVV95cUxOcVZJWUFrVDZpNl9weEVJVURCTjYwSUhVVW5KQi1LOTV5Y3RueXNRazdoZGNmaDQ5NTdhdEhqel9TaUJGSjF0bmNLdmk4dmtQM3hwNTR6TjYwVExNTFNHVVJ4UGJRLTFfQ1QtV0FIeEhURVZiR0dXYW9hM0IzTmREMWpvR012ZGVzcUNzZVZWMS1uLWNlYXc5TUFXQ3dzS2pyNWdNRTVZVUE2LWh3RFQzcGNPczJzdklPVDB3dnZGaXVxWncxanNFb2szRUtQczJwcU15ZnhJaGJIZlFwZkpZTmJSUlk0TnF4cDBlbVpB?oc=5",
       "source": "The New Indian Express",
       "date": "23 Nov 2026, 09:39 AM"
-    },
-    {
-      "title": "Supreme Court Quashes Dalmia Cements Land Acquisition In Odisha's Sundargarh - Prop News Time",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMHV1VmMyMDB1bUVqX1hCX1UyWDJmTENZdUF4VnNYTGxtdHhFSGFtUElvOXVZbWFjMW42RENPMzRtQjdaaDg4SlVLZVNMNld1a1NUOVV1UHJJUTg3X3NaNkE3d2dlanpWcnMwLVVWTHRKMkhFdlVFclJSMC1iVm9kTHcxczNUNEZIY0NtT0NzSGtuaU5tLWZoMDFIamRCdHQycmlGZGVwejdpMjNacHYyNjZzbXRtOTNMZjUyUU5QeE9MTWtyQTN3?oc=5",
-      "source": "Prop News Time",
-      "date": "22 Nov 2026, 12:13 AM"
     },
     {
       "title": "“Fixed match”: SC quashes Dalmia’s land acquisition over bypassing Gram Sabha consent in Odisha - Maktoob",
@@ -29,28 +17,40 @@ window.NEWS_DATA = {
       "date": "21 Nov 2026, 08:26 AM"
     },
     {
-      "title": "SC sets aside land acquisition in Odisha's Sundargarh district for Dalmia Cements plant - CNBC TV18",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVDVTUUtqTGxMeHFzRFdsX1pDNHROMm1nRlBlOHVGc24xdWY1R3o2aUwteC1fNXRzLU1iYmhsTy1CU19URWE2bE9uX1NjN016dl9qZEItQzgtMnM1QkVmbUFVUmdwaWRxb2Iza2FnakEtNTJhQXphOGFDQ3d2cVhwOGloU1c5anhEM3hLMEpMRXFRcmxockFYbWxOV3NOX1lVY2xhM0FrdU9YblhROWs0RzhPZzczWUxLc2tONnFxNFY0N2g4YzFhMjgwSUNWZ9IB0wFBVV95cUxPLXFDTHRyVTduSEdER2wyRjVlZUI5NFZpeE56YVdtQTVFc1RLMi05MkZEd0RBeEFXUkVqYWFtd2ppa2JlbjFZQXB4b3Bia294dHFORUJKb0FJZk9SQUFKR1I4djlaUUpwTzE3RUV4dkNmZ2o0WWJLX2VOY0EyYTVPdGtzclFGWGhzUGdfencxWmZxYTlremtMVkIzVjNWLVpuMXZ6OTcyZzR3ZmVvZGI5azFmalRRUDVQSEt3ODZsQkQwX2JZb0ZNaE5mR3J5N2xPdXlB?oc=5",
-      "source": "CNBC TV18",
-      "date": "19 Nov 2026, 09:40 PM"
-    },
-    {
       "title": "\"Beacon of hope\": Jairam Ramesh welcomes SC verdict quashing Odisha's 2021 land acquisition in Sundargarh - ANI News",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNR3pFUm9NN1hNaWtXOHV1NnNmcXlQMHJ2NEd0Unh4NEtfN3NrbGhSOHREWmJWLVVDNURUWWhNelo4Q0JhbmxEYmlQellCUHhBQ0p6SWQxTUo2d2ZwMzJZU2lCMUtzRWtxVXdqb1RkaFJpSC1INjBCd1pQU0x5T0tWX1dnTklQbFUtSUpyS0tyejAyTmFPa3Rqakw1emVtLTlTdFRtTXFZNDQydW1wOFRYdkZWNHZGb2JVOVVIY2RPZ09rb2pEQVFOUG9ubFlObnZVSUE1N2hpVi1VRFRkOWQyUGdGRUx4MDBlMHZZRm9NaGphM2wyb0w5eQ?oc=5",
       "source": "ANI News",
       "date": "23 Nov 2026, 02:44 PM"
     },
     {
-      "title": "Odisha’s Body Language Expert Kanan Tandi Gains Spotlight on Bigg Boss 20 - My City Links",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQXROaHZUQkNfbEtZaDFWczc3Z3JRYU9Ed3ZDSVQwVUtzM1lGZS1LSi0za29YUms0MUtQdVVOemJYWEhRXzhJbHpINDBJQ1N2Vk9FT09TTlJHZFRFSm52STdiMVQ2eGVCYjhxbVIyVzMtUUFCS2RQdkRpQUYyaWlReUJHUUVOSk1KdDl0b1FzUEhab0RCRXhVbXZpQWpCWlNt?oc=5",
-      "source": "My City Links",
-      "date": "25 Nov 2026, 05:18 PM"
+      "title": "NIT Rourkela Scientists Develop Electrochemical Method to Recover Fertiliser from Urine - Odisha Diary",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUFlEMG1LZ3cxVEFfTVdFZmJtdXdNVUgwWS1QQzBuajdtX19nNXN5RUR5ZHRnUVNwUGVjMG11R3FrVzRDQm1jS2d6dWF5Wk9kYzIwaTNpNlZWRm1KQ0Via3pwVXluVXRONXRTWXFlM0Q0NTVXNEl4a191THU2ald2TmtEak8zYmxUdzY3c0VqSExNdjJXRW90R3YzbTBXMUNDcW8xVWhkaXZpYTdlSE5Wbmp3?oc=5",
+      "source": "Odisha Diary",
+      "date": "23 Nov 2026, 01:27 PM"
     },
     {
-      "title": "Supreme Court upholds land rights of tribals in India’s Odisha - ucanews.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMGZ0SlhmUGZobHc4MTVZQlVMeHkxVGJQbkhSSTh6ZjhFdGUtT2g1N1hlZGQ1Z1BkMENTX0ItTEhJVTJwc281WUM0ZnYzWDFQaDJNSFFHS3ItelpudXdESDdxWEJlVEstTC1EZ1hnd3pUR2t5MWxpYTU3VmxuZ2FVR1lYZ1hmUjBqbmNBendCSXZZME96TVpDN1JBMExNUdIBnAFBVV95cUxQYjdtaFk4STVibEVrNWxqbHJ3cFRtMV9WNFpoOUN3aGw4amVfZldET1llUzlfM0NrcjR6NTZMWlZrZlRLUkluaE03RUJZbjhhWUxBczZIZmp2U0dWcy0tUXJFczVMbVoza0JpUGJFUEJ0ZEdDOG5DeHg4bFZOazZTRHNrZXZRR0l3M0FEZU9fSE1qcjA3eGJKNm1fQTc?oc=5",
-      "source": "ucanews.com",
-      "date": "21 Nov 2026, 10:04 PM"
+      "title": "Odisha govt approves 19 investment projects worth Rs 3810 Cr - Industry Odisha",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT1hkMHlZTV8tTC1DY1hiLUJycFJRRkxaSGRLZm9HMlNSUnFDQXJLYW8yT09ha0JiOTh5YUlpaUk0Ri1QbGlSd0ZPeGd0RGhKbjhQRHpCVXFURTFudm1nUmdTVGhjRWlBWVBYcHRhdktlVnFsWG92ekozT1BNYlNJSnVIa1FaWGEwSV9kRW5qTERZTHdLejBhT3c5Zk9teVA5TlE?oc=5",
+      "source": "Industry Odisha",
+      "date": "27 Nov 2026, 07:56 AM"
+    },
+    {
+      "title": "NIT Rourkela Patents Hybrid Storage System for Electric Vehicles - GK Today",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPckFYYjJrSTl0SGJGUEd3Z2hrU2hmNm1yOEpLTG1pQVh3V1RpQkdvRzNEbFYyTXI1LW9KRTlRXzdPUmk3Si10NlRMM1JMZ21yYm9jWkZIVHBXZHo3VEwxNTJyU3l5emN2X1I3YkV6cXhkd0JGR3poNXdtZEROZ1VvdFE2WG5nSUhNcWxVZVZIcFFTQQ?oc=5",
+      "source": "GK Today",
+      "date": "20 Nov 2026, 03:19 PM"
+    },
+    {
+      "title": "Odisha: Mentally ill man tied to tree, assaulted on CHC premises - The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOY09ELVJabnRKQ09vVUFSZkRoWGNiMVg5LTVzemM0bW03NG5kRU5iMG5RM0ZBVS1sNFdKNFlwNHBXM2ZOZzg3QWJ1MFhwOVRxTkg2bzBEcmR5SVNhRFpmYUo4bDUyM0hua2RveHQ5NU9lZzVxeHQ0SGlRay1oSjJWX3JzSnh2NGlRR1BBOHNnV0FWOC1wMEE3T1E1eF9IOUdmVHFDRTU2NmJyWWhSZno2VGR6X0NoeWZnSkFPek5n0gHLAUFVX3lxTE1OWGs1ZDVGM29KY0R4bjNyeXlYeHlnVmx0TFh5M2gzNDhLSHJoTnY0ZnAyeWdvSkhyYVVlZ2NncmNHeTBQOHZ0eFMtcm1HZDZYU0t1bFNaRU9lWV9CQThBcVBVN3VXQjlLV2hDUzJaYVZDM0I0ZnZZSkVETl9HNHlneW9PMm1zajRVYlQ1XzN6VE93czFZaXE4Ml9QQ2pZQWRCa0lfaUw1NTJHVDVYQXRIcWNSTmtQTHVKX1RQblRfWUhrdkJuQm5RT0U0?oc=5",
+      "source": "The New Indian Express",
+      "date": "26 Nov 2026, 07:45 AM"
+    },
+    {
+      "title": "Odisha: Single window panel clears 19 projects worth Rs 3,810 cr, tourism attracts Rs 607 cr - The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVGIyWDl1UEZURVlPODExZnQ1bERuYnoySy1tb3Jxam1zZDhKTTNERUtRMVl6SlRsRGY5ZjRiYVR2UUFvSHcwTmQxb0VCdEpad3ozRlF5M0thTVNqOEpGNkw1a1hGZFhFSjNSR240bUJodVJtUVFiQV9ycHRlSWVIdlRyWllKYTlkQ1BnbXhfbl9OOFd1ei1IeUpTcmJUT3dkUmxxWlZ6eTd5YXpheVFkb2FGOUtIbkI3QVNXZ3lyZHV4RWZ0WVdvVkY2cFAtMlV2UjRaOUt1NTZJaTczWUMyblVR0gHvAUFVX3lxTE1OeU1OQlRZT3NuajhFWUJES2ZDb0F1MkwweWZSVFk3M3NiSnZ0N3k2ZzBvV05CQlFZWVowdUZnUjNfc25XSXpOZlhQOHJWTW5IRUVlZVlBZkhKczR6Vmw1cDB3SlRIZUpqRG1vRDJQRkk0Y2dtLTdyU2VRUHM1a2M2RUNHUUdMM2EzQmRBVEh2Y2I3VWQ1WTQwT21ybjY3dlZLNjFvdENZcXZDTmlCQXhGYXJncjNnNXp3S240Yl9zMWZEM0tsenVOTHBCRFpFRlR0Qmg0ME5KMnpRakhOOTJlZkpKcHJpOVpnYUNZdzBz?oc=5",
+      "source": "The New Indian Express",
+      "date": "27 Nov 2026, 10:47 AM"
     }
   ]
 };
