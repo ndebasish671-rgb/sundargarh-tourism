@@ -1,6 +1,6 @@
 /* Updated daily by GitHub Actions (.github/workflows/daily-sync.yml) */
 window.NEWS_DATA = {
-  "updated": "27 Nov 2026, 02:28 PM IST",
+  "updated": "28 Nov 2026, 01:50 PM IST",
   "source": "Google News RSS",
   "query": "Sundargarh OR Rourkela Odisha when:7d",
   "items": [
@@ -11,34 +11,16 @@ window.NEWS_DATA = {
       "date": "23 Nov 2026, 09:39 AM"
     },
     {
-      "title": "“Fixed match”: SC quashes Dalmia’s land acquisition over bypassing Gram Sabha consent in Odisha - Maktoob",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQamVHa3ZvTGZPTVd3NVdHTzNpY0JhbDVxVlNtdHRCNFFWTUpGUW1ZZzFDY0N5ZENJQl9FSEl4MGVENHBKUmdWcFNzdV9JVHNhU18yVGJfRWUwcEJyWWUxc041RjZ4UU9GZkJtT3U1V2x0aTBNM2xnQVhVM1JhRW43cmo1QmZablg3M0EwN2phMjd4a3dJaVhDaktsR3gybDJWMEtaWE1CU0Q0UHlkcEdGVUpnVFFTaHdiNHpDU29FSk9QVXF6UDNydDBlekF3LTRSN3c?oc=5",
-      "source": "Maktoob",
-      "date": "21 Nov 2026, 08:26 AM"
-    },
-    {
       "title": "\"Beacon of hope\": Jairam Ramesh welcomes SC verdict quashing Odisha's 2021 land acquisition in Sundargarh - ANI News",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNR3pFUm9NN1hNaWtXOHV1NnNmcXlQMHJ2NEd0Unh4NEtfN3NrbGhSOHREWmJWLVVDNURUWWhNelo4Q0JhbmxEYmlQellCUHhBQ0p6SWQxTUo2d2ZwMzJZU2lCMUtzRWtxVXdqb1RkaFJpSC1INjBCd1pQU0x5T0tWX1dnTklQbFUtSUpyS0tyejAyTmFPa3Rqakw1emVtLTlTdFRtTXFZNDQydW1wOFRYdkZWNHZGb2JVOVVIY2RPZ09rb2pEQVFOUG9ubFlObnZVSUE1N2hpVi1VRFRkOWQyUGdGRUx4MDBlMHZZRm9NaGphM2wyb0w5eQ?oc=5",
       "source": "ANI News",
       "date": "23 Nov 2026, 02:44 PM"
     },
     {
-      "title": "NIT Rourkela Scientists Develop Electrochemical Method to Recover Fertiliser from Urine - Odisha Diary",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUFlEMG1LZ3cxVEFfTVdFZmJtdXdNVUgwWS1QQzBuajdtX19nNXN5RUR5ZHRnUVNwUGVjMG11R3FrVzRDQm1jS2d6dWF5Wk9kYzIwaTNpNlZWRm1KQ0Via3pwVXluVXRONXRTWXFlM0Q0NTVXNEl4a191THU2ald2TmtEak8zYmxUdzY3c0VqSExNdjJXRW90R3YzbTBXMUNDcW8xVWhkaXZpYTdlSE5Wbmp3?oc=5",
-      "source": "Odisha Diary",
-      "date": "23 Nov 2026, 01:27 PM"
-    },
-    {
-      "title": "Odisha govt approves 19 investment projects worth Rs 3810 Cr - Industry Odisha",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT1hkMHlZTV8tTC1DY1hiLUJycFJRRkxaSGRLZm9HMlNSUnFDQXJLYW8yT09ha0JiOTh5YUlpaUk0Ri1QbGlSd0ZPeGd0RGhKbjhQRHpCVXFURTFudm1nUmdTVGhjRWlBWVBYcHRhdktlVnFsWG92ekozT1BNYlNJSnVIa1FaWGEwSV9kRW5qTERZTHdLejBhT3c5Zk9teVA5TlE?oc=5",
-      "source": "Industry Odisha",
-      "date": "27 Nov 2026, 07:56 AM"
-    },
-    {
-      "title": "NIT Rourkela Patents Hybrid Storage System for Electric Vehicles - GK Today",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPckFYYjJrSTl0SGJGUEd3Z2hrU2hmNm1yOEpLTG1pQVh3V1RpQkdvRzNEbFYyTXI1LW9KRTlRXzdPUmk3Si10NlRMM1JMZ21yYm9jWkZIVHBXZHo3VEwxNTJyU3l5emN2X1I3YkV6cXhkd0JGR3poNXdtZEROZ1VvdFE2WG5nSUhNcWxVZVZIcFFTQQ?oc=5",
-      "source": "GK Today",
-      "date": "20 Nov 2026, 03:19 PM"
+      "title": "Odisha: Sundargarh cops bust fly ash racket, 21 trucks held - The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUWxSLThYdUpYR3FFQzIwa1FQVXNiajdCcm5fMDFuU0FKMTVXa01GM1Z2bnNpOFYxZjNGc0RRSWJCLXNZRHpEdHBtWjlyWW1yVFVLSVlrejNKeVIwMXhpQ250cnlDZDN3NHVDQlh1bjVEUkltNEE3QjdOeXdwb1pSYWllQ19JOGZzQXNfaVBUZlR0bkRhZ2FLaGVHSXMyaWRFZHdVb1pZN08tcEJ4ZVJGdnVlM1dISnfSAcQBQVVfeXFMTXF1dzJ2WnowS3JnVFBBUDlrNkJRamZwTENzY3k4UmVhbFJ6OXZxc1hjSUVYNHdQN1NTWkZ6NDZyVVNiZVJCcUZ5czhwN0dkbDRvbFBlcmFVRlc0aUpaNi1DZVZzRVhKU1NfRldoYkpvVzFuU1RzZmdLaWtER0tKTTNwZ1htcnljQmlrc1ptdDdtRUhURUM1SkFna1hSWUVxUU5JaDlKNFF3QlVRUUs4UHM1Qk5OOVpVX1NUN1JoM1c5VWNrQw?oc=5",
+      "source": "The New Indian Express",
+      "date": "28 Nov 2026, 08:53 AM"
     },
     {
       "title": "Odisha: Mentally ill man tied to tree, assaulted on CHC premises - The New Indian Express",
@@ -47,10 +29,28 @@ window.NEWS_DATA = {
       "date": "26 Nov 2026, 07:45 AM"
     },
     {
+      "title": "Odisha woman forest guard driving elephant away from village trampled to death - The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb2loVk81eV9EMzN3TldlM2RSVXNNSVc2MVNWUnNTSURzUEpFbGJsRGxZRjV0UU5ZUXgxdHdUZjRqdDRFb0RsWHlqOEhJVkY4SlNBUFYtdU0tbnNnM2xwVzJuVHozNnFOaloxSEpSNXBsZkFXaGwzTUdnRGRHNmgxZkpwTDBjXzVVTTNJTzB1MEV1LXVYN3Nvdkl5bnUxR2NMc01VbjBJN3FhaWNnam5hd0VqQzBPY3p4RHcwTXJLTGwwTG5xTDI1eVlPdFlmUF9OM21V0gHgAUFVX3lxTE9XY2lMSVpMTUR1aUNVd29lbndSV1otQlhpM1o4SW9sVmk4d1dJVkE2NGtXUDljLTdndW9oYTZlQ2NOWEtGeW1oTW5xSmtNUnRzUS1xMl9OdU9KeDZ3MGdheVV1TmIwTkZYRjhFOWVEY1I2b0xHQVlITjFGZHdkeXlqLXhacVY0cDUxd01Ea2haU3RPcGpXZDhRMFUxUmE3Tm5RQm9sX19hWVQtYnQ2MjdsYVh2bGZIaGZyQXZidUtLNjA3bWR6cmF5T3lnZUVmeWs3dmF6VGl6NFpHTkhDaGsz?oc=5",
+      "source": "The New Indian Express",
+      "date": "28 Nov 2026, 08:23 AM"
+    },
+    {
       "title": "Odisha: Single window panel clears 19 projects worth Rs 3,810 cr, tourism attracts Rs 607 cr - The New Indian Express",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVGIyWDl1UEZURVlPODExZnQ1bERuYnoySy1tb3Jxam1zZDhKTTNERUtRMVl6SlRsRGY5ZjRiYVR2UUFvSHcwTmQxb0VCdEpad3ozRlF5M0thTVNqOEpGNkw1a1hGZFhFSjNSR240bUJodVJtUVFiQV9ycHRlSWVIdlRyWllKYTlkQ1BnbXhfbl9OOFd1ei1IeUpTcmJUT3dkUmxxWlZ6eTd5YXpheVFkb2FGOUtIbkI3QVNXZ3lyZHV4RWZ0WVdvVkY2cFAtMlV2UjRaOUt1NTZJaTczWUMyblVR0gHvAUFVX3lxTE1OeU1OQlRZT3NuajhFWUJES2ZDb0F1MkwweWZSVFk3M3NiSnZ0N3k2ZzBvV05CQlFZWVowdUZnUjNfc25XSXpOZlhQOHJWTW5IRUVlZVlBZkhKczR6Vmw1cDB3SlRIZUpqRG1vRDJQRkk0Y2dtLTdyU2VRUHM1a2M2RUNHUUdMM2EzQmRBVEh2Y2I3VWQ1WTQwT21ybjY3dlZLNjFvdENZcXZDTmlCQXhGYXJncjNnNXp3S240Yl9zMWZEM0tsenVOTHBCRFpFRlR0Qmg0ME5KMnpRakhOOTJlZkpKcHJpOVpnYUNZdzBz?oc=5",
       "source": "The New Indian Express",
       "date": "27 Nov 2026, 10:47 AM"
+    },
+    {
+      "title": "Mentally ill Odisha youth ‘tied to tree, beaten’ at Sundargarh hospital - Odisha TV",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZk54RUtEcWpIUTFkNUltQzlrS0ZhVS1DcmZpS21CbFYxdmpvUXVjaGlwYnFvLWJCU0piakVrcjh2Z1NnWkJOUmluaDN3aW5tVGJCeEFuN2JTa09RQmFTeHVRMEhKd0hrTzc1Z1pUM1BubzExbGNJdUdNbXpSektwOGlmVTdOWnNRX081SlplS2tpSmwyNVU0YlEtbFJFeTV3NHVoSWROQdIBrAFBVV95cUxNQmdtZ3ZmVWd4ajhpdVJsRHBzbGxDM0MtNDFubW5JYVJsUzRJMUVOOUxnZGlpamIwYUNCekQ0TlJuSE5NeVdnQVFfQVhoLWtCdW9McFhGR0lXY0FpZTVpR291VlBRcXBQVHVxQUNybVhPV3BlUWlNV05HV1JrOUJXQlh4eEJTTkNjU09wbUdqazZOMHVHYlcwN0lxak1ZdDhqZG1iNl9JLWF0RjVy?oc=5",
+      "source": "Odisha TV",
+      "date": "26 Nov 2026, 03:37 PM"
+    },
+    {
+      "title": "Female Forest Guard Killed In Elephant Attack At Odisha’s Sundargarh - Odisha Bytes",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOVl0RW45ekJnUGxFbTl5a0NzZjZGQ0dkSUREaHRzRWxsUE5zbHpxY090c2JQTl94R2wySXBmZWNMdkh1R2xxTEFaNndNZ3ZIdGxRQW9YLTNDYldTNnBhQTRRbkxaX1lCS2tVc1ZNS0ZlbVdMc1FKOTRkZ2d5aE5UUGlNUnd3TUctZTg3cXBnQmhBMW81aTdZ0gGcAUFVX3lxTE83ZmJ0aVRyQ1Y1bjJtbDQ5RDY5MzBxeE1RUWdFa0piamI5MjRvMkw3ZEo1QjZNTFRJU2o2aWdPeUJGS1JoRVlCWTdYMW1YU3lHS3AzUlU0YncwaEdISnZpZVRhYkJiZDBYckQybkh2US10a2g1TEJERmhveUItalNGcEdxR3NGSjVmQUhwNlZDME1id0l5T0M4dVFhVg?oc=5",
+      "source": "Odisha Bytes",
+      "date": "27 Nov 2026, 07:55 PM"
     }
   ]
 };
